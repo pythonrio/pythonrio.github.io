@@ -13,7 +13,7 @@
         Google Maps implementation
     ***/
     conf.map = {
-        marker: 'themes/yellow-swan/img/marker-default.png'
+        marker: '/static/marker-default.png'
     };
 
     // Google Maps configs
