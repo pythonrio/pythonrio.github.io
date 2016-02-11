@@ -20,7 +20,7 @@
             ['#speakers', 'Convidados'],
             ['#partners', 'Parceiros']
         ] %}
-            <li class="nav-item"><a href="{{ href|url }}" title="{{title}}" class="nav-link">{{ title }}</a></li>
+            <li class="nav-item"><a href="{{ href }}" title="{{title}}" class="nav-link">{{ title }}</a></li>
         {% endfor %}
         </ul>
     </nav>
@@ -167,20 +167,18 @@
 
 </div>
 
+{% block js %}
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="themes/blue-is-the-warmest-color/js/jquery.js"><\/script>')</script>
 
-
 <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <script src="{{ '/static/js/main.js'|url }}"></script>
-
 
 <!-- GOOGLE ANALYTICS -->
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-33656081-1']);
 _gaq.push(['_trackPageview']);
-
 (function() {
  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -188,6 +186,7 @@ _gaq.push(['_trackPageview']);
  })();
 </script>
 <!-- /GOOGLE ANALYTICS -->
+{% endblock %}
 
 </body>
 </html>
