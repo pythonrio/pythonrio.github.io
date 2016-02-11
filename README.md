@@ -11,3 +11,10 @@ Para rodar o projeto localmente, dentro do diretório _pythonrio/_, execute:
 lektor server
 ```
 E então, basta acessar _http://localhost:5000/_
+
+## Buildando
+O branch master deste repositório contém os estáticos gerados pelo Lektor que serão servidos pelo GitHub Pages. Para gerar novos estáticos basta executar o seguinte comando no terminal:
+```
+lektor build -O /path/to/build/
+```
+Sendo que o diretório informado depois do parâmetro -O irão conter os novos estáticos gerados pelo Lektor.
