@@ -4,9 +4,17 @@ body:
 
 
 ---
-data
+data:
 31 de janeiro
 
 ---
-local
+local:
 Hotel Urbano
+
+---
+endereco:
+Av. Ayrton Senna, 2.150, BLOCO I, sala 204, Barra da Tijuca
+
+---
+cidade:
+Rio de Janeiro

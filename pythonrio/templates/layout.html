@@ -68,12 +68,11 @@
                             <h2 class="section-title">Localização</h2>
 
                             <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                            <span itemprop="streetAddress">Av. Ayrton Senna, 2.150, BLOCO I, sala 204, Barra da Tijuca. </span>
-                            <span itemprop="addressLocality">Rio de Janeiro</span>,
+                            <span itemprop="streetAddress">{{ this.endereco }}.</span>
+                            <span itemprop="addressLocality"> {{this.cidade }}</span>,
                             <span itemprop="addressRegion"> RJ</span>
                             </p>
-
-                            <div id="map-canvas" class="location-area" data-address="Av. Ayrton Senna, 2.150, BLOCO I, sala 204, Barra da Tijuca"></div>
+                            <div id="map-canvas" class="location-area" data-address="{{ this.endereco }}"></div>
                     </section>
 
                     <!-- / LOCATION -->
