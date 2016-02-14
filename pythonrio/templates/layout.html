@@ -31,9 +31,9 @@
         <div class="wrapper">
             <img src="{{ '/static/img/pythonrio.png'|url }}" />
             <h1 class="logo-name">
-                    <a class="logo-link" href="#" title="Meetup PythonRio" itemprop="name">Meetup PythonRio</a>
+                    <a class="logo-link" href="#" title="Meetup PythonRio" itemprop="name">{{ this.title }}</a>
             </h1>
-            <h2 class="tagline">31 de janeiro, Hotel Urbano, Rio de Janeiro</h2>
+            <h2 class="tagline">{{ this.date }}, {{ this.local }}, {{ this.city }}</h2>
 
 
             <div class="call-action-area">
@@ -68,11 +68,10 @@
                             <h2 class="section-title">Localização</h2>
 
                             <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                            <span itemprop="streetAddress">{{ this.endereco }}.</span>
-                            <span itemprop="addressLocality"> {{this.cidade }}</span>,
-                            <span itemprop="addressRegion"> RJ</span>
+                            <span itemprop="streetAddress">{{ this.address }} – </span>
+                            <span itemprop="addressLocality"> {{this.city }}, {{ this.neighborhood }}</span>
                             </p>
-                            <div id="map-canvas" class="location-area" data-address="{{ this.endereco }}"></div>
+                            <div id="map-canvas" class="location-area" data-address="{{ this.address }} {{ this.city }} {{ this.neighborhood }}"></div>
                     </section>
 
                     <!-- / LOCATION -->
