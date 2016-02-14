@@ -11,158 +11,12 @@
 <body>
 
 <div class="global">
+    {% include 'includes/navigation-bar.html' %}
 
-    <nav id="nav">
-        <ul class="wrapper">
-        {% for href, title in [
-            ['#about', 'Sobre'],
-            ['#location', 'Localização'],
-            ['#speakers', 'Convidados'],
-            ['#partners', 'Parceiros']
-        ] %}
-            <li class="nav-item"><a href="{{ href }}" title="{{title}}" class="nav-link">{{ title }}</a></li>
-        {% endfor %}
-        </ul>
-    </nav>
+    {% block page_header %}{% endblock %}
+    {% block content %}{% endblock %}
 
-    <hr>
-
-    <header class="header">
-        <div class="wrapper">
-            <img src="{{ '/static/img/pythonrio.png'|url }}" />
-            <h1 class="logo-name">
-                    <a class="logo-link" href="#" title="Meetup PythonRio" itemprop="name">{{ this.title }}</a>
-            </h1>
-            <h2 class="tagline">{{ this.date }}, {{ this.local }}, {{ this.city }}</h2>
-
-
-            <div class="call-action-area">
-                    <a href="http://www.eventick.com.br/meetup-python-rio" class="call-action-link" title="Registre-se">Registre-se</a>
-            </div>
-
-        </div>
-    </header>
-
-    <hr>
-
-    <!-- CONTENT -->
-    <div class="content" id="content">
-            <div class="wrapper">
-                    {% block body %}{% endblock %}
-                    <!-- ABOUT -->
-
-                    <section class="about" id="about">
-                            <h2 class="section-title">Sobre</h2>
-                            <p itemprop="description">Acabou a tristeza! A galera de Python do Rio vai se encontrar novamente e trocar uma ideia.</p>
-
-                            <p>Como nosso espaço é limitado, precisamos que registrem-se <a href="http://www.eventick.com.br/meetup-python-rio">aqui</a>. Temos apenas 30 vagas!</p>
-
-                            <p>Caso tenha se inscrito mas não poderá comparecer, pedimos que nos informe através da <a href="https://www.facebook.com/events/398543193635749/">página do evento no facebook</a>.</p>
-                    </section>
-
-                    <!-- / ABOUT -->
-
-                    <!-- LOCATION -->
-
-                    <section class="location" id="location">
-                            <h2 class="section-title">Localização</h2>
-
-                            <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                            <span itemprop="streetAddress">{{ this.address }} – </span>
-                            <span itemprop="addressLocality"> {{this.city }}, {{ this.neighborhood }}</span>
-                            </p>
-                            <div id="map-canvas" class="location-area" data-address="{{ this.address }} {{ this.city }} {{ this.neighborhood }}"></div>
-                    </section>
-
-                    <!-- / LOCATION -->
-
-                    <!-- SPEAKERS -->
-
-                    <section class="speakers" id="speakers">
-                            <h2 class="section-title">Convidados</h2>
-
-                            <ul class="speakers-list">
-
-
-                                    <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
-
-                                    <span class="speaker-photo">
-                                            <img class="photo" src="{{ '/static/img/aoqfonseca.png'|url }}" alt="André Fonseca" itemprop="image">
-                                    </span>
-
-
-                                    <h3 class="speech-title">
-
-                                            <span> Escrevendo API's em Python</span>
-                                    </h3>
-
-                                    <h3 class="speakers-name">André Fonseca <a href="https://github.com/aoqfonseca" title="@aoqfonseca">@aoqfonseca</a></h3>
-                                    <p class="speakers-bio">Desenvolvedor com mais de 10 anos de experiência e apaixonado pelo que faz. Acredito que TI é um caminho para facilitar e permitir mais. Tecnologia é o meio e não fim. Por isso procuro a melhor ferramenta para o trabalho. Embora tenha predileção por mais produtivas. Ruby, Java, Python, Javascript, Groovy, etc.</p>
-                                    </li>
-
-
-
-                                    <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
-
-                                    <span class="speaker-photo">
-                                            <img class="photo" src="{{ '/static/img/hugoleodev.jpg'|url }}" alt="Hugo Leonardo" itemprop="image">
-                                    </span>
-
-
-                                    <h3 class="speech-title">
-
-                                            <span> Deploy de aplicações Django com Ansible</span>
-                                    </h3>
-
-                                    <h3 class="speakers-name">Hugo Leonardo <a href="https://github.com/hugoleodev" title="@hugoleodev">@hugoleodev</a></h3>
-                                    <p class="speakers-bio">Desenvolvedor de software com experiência em soluções Web e integrações entre sistemas. Além de grande interesse em ferramentas de provisionamento de servidores como Chef, Puppet e Ansible.</p>
-                                    </li>
-
-
-                            </ul>
-                    </section>
-
-                    <!-- / SPEAKERS -->
-
-                    <!-- PARTNERS -->
-
-                    <section class="partners" id="partners">
-                            <h2 class="section-title">Parceiros</h2>
-                            <ul class="partners-list">
-
-
-                                    <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
-                                    <a href="http://www.nitisoffice.com.br/" class="partner-logo partner-link" itemprop="url">
-                                            <img src="{{ '/static/img/nitis_logo.png'|url }}" alt="Nitis Office" class="photo" itemprop="image">
-                                    </a>
-                                    </li>
-
-                                    <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
-                                    <a href="http://www.hotelurbano.com/" class="partner-logo partner-link" itemprop="url">
-                                            <img src="{{ '/static/img/hotel_urbano.jpg'|url }}" alt="Hotel Urbano" class="photo" itemprop="image">
-                                    </a>
-                                    </li>
-
-                                    <!-- <li class="partner-item">
-<a class="partner-logo partner-link partner-call" href="#">
-    <img src="{{ '/static/img/your-logo.jpg'|url }}" alt="your logo" class="photo">
-</a>
-</li> -->
-                            </ul>
-                    </section>
-
-                    <!-- / PARTNERS -->
-
-                    <!-- FOOTER -->
-                    <footer class="footer">
-                            <p>Made with ♥ by <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> and <a href="https://github.com/hora-extra-barra">Horaextra Barra</a> :)</p>
-                            <p>Cover image from <a href="https://www.flickr.com/photos/jimkillock/7170481375">Jim Killock</a></p>
-                    </footer>
-                    <!-- / FOOTER -->
-            </div>
-    </div>
-    <!-- / CONTENT -->
-
+    {% include 'includes/footer.html' %}
 </div>
 
 {% block js %}
@@ -185,6 +39,5 @@ _gaq.push(['_trackPageview']);
 </script>
 <!-- /GOOGLE ANALYTICS -->
 {% endblock %}
-
 </body>
 </html>
