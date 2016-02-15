@@ -18,3 +18,17 @@ O branch master deste repositório contém os estáticos gerados pelo Lektor que
 lektor build -O /path/to/build/
 ```
 Sendo que o diretório informado depois do parâmetro -O irão conter os novos estáticos gerados pelo Lektor.
+
+## Estilização (CSS)
+Utilizamos o LESS e um plugin para minificação:
+
+```
+npm install -g less
+npm install -g less-plugin-clean-css
+```
+
+Enquanto não automatizamos esse processo, para gerar o CSS é preciso executar o seguinte comando dentro da pasta `static`:
+
+```
+lessc --clean-css="-b --compatibility=ie8 --advanced" less/main.css.less css/main.css
+```
