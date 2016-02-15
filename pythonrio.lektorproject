@@ -1,5 +1,5 @@
 [project]
 name = pythonrio
 
-[servers.master]
-target = master+https://pythonrio/pythonrio.github.io
+[servers.ghpages]
+target = ghpages+https://pythonrio/pythonrio.github.io
