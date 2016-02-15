@@ -1,0 +1,5 @@
+[project]
+name = pythonrio
+
+[servers.master]
+target = master+https://pythonrio/pythonrio.github.io
