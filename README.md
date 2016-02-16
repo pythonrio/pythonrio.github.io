@@ -12,6 +12,12 @@ lektor server
 ```
 E então, basta acessar _http://localhost:5000/_
 
+## Sistemas Linux Debian-based
+É necessára a instalação de um pacote de desenvolvimento para a instalação correta do Lektor e das outras dependências. Para isso, basta executar:
+```
+sudo apt-get install libffi-dev
+```
+
 ## Buildando
 O branch master deste repositório contém os estáticos gerados pelo Lektor que serão servidos pelo GitHub Pages. Para gerar novos estáticos basta executar o seguinte comando no terminal:
 ```
