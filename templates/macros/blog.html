@@ -18,3 +18,38 @@
   {{ post.body }}
   </div>
 {% endmacro %}
+
+
+{% macro render_blog_post_summary(post, from_index=false) -%}
+  <div class="blog-post">
+    {% if from_index %}
+      <h2><a href="{{ post|url }}">{{ post.title }}</a></h2>
+    {% else %}
+      <h2>{{ post.title }}</h2>
+    {% endif %}
+
+    {% if post.attachments.images.get('cover.png') %}
+      {% set i = post.attachments.images.get('cover.png') %}
+    {% elif post.attachments.images.get('cover.jpg') %}
+      {% set i = post.attachments.images.get('cover.jpg') %}
+    {% elif post.attachments.images.get('cover.gif') %}
+      {% set i = post.attachments.images.get('cover.gif') %}
+    {% elif post.cover_image %}
+      {% set i = post.cover_image %}
+    {% endif %}
+
+    {% if i %}
+      <div class="image-wrapper">
+        <a href="{{ post|url }}">
+          {% if not i == post.cover_image %}
+            <img src="{{ i|url }}">
+          {% else %}
+            <img src="{{ i }}">
+          {% endif %}
+        </a>
+      </div>
+    {% endif %}
+    {{ post.summary }}
+    <a href="{{ post|url }}" class="btn btn-default btn-block"><< ler mais >></a>
+  </div>
+{% endmacro %}

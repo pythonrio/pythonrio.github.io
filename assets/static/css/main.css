@@ -162,7 +162,7 @@ h1,h2,h3,h4,h5,h6{color:#1c3b56}
 .partner-link:focus,.partner-link:hover,.sponsor--link:focus,.sponsor--link:hover{border-color:#f0a303}
 .form input[type=email],.form input[type=text],.form textarea{color:#777;border:1px solid #e7e7e7;background:#fff;border-radius:4px}
 .form input[type=email]:focus,.form input[type=text]:focus,.form textarea:focus{border-color:#aaa;outline:0}
-.blog-post{margin-top:2em}
+.blog-post{margin-top:5em}
 @media only screen and (max-width:1024px){.header{background-size:auto 100%}
 }
 @media only screen and (max-width:480px){.speech-time,.speech-title{font-weight:bolder}
