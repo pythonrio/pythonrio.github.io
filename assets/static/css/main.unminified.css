@@ -919,6 +919,14 @@ nav {
   border-bottom: 1px solid #e7e7e7;
   border-radius: 4px;
 }
+.pagination {
+  text-align: center;
+}
+.pagination li {
+  font-size: 16px;
+  margin-right: 6px;
+  display: inline-block;
+}
 /* =============================================================================
    Media Queries
    ========================================================================== */

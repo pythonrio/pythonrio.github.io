@@ -1,5 +1,5 @@
 {% macro render_pagination(pagination) %}
-    <ul>
+    <ul class="pagination">
     {% if pagination.has_prev %}
       <li class=""><a href="{{ pagination.prev|url }}">&laquo; anterior</a></li>
     {% else %}
