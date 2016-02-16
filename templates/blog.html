@@ -2,6 +2,9 @@
 {% from "macros/blog.html" import render_blog_post_summary %}
 {% from "macros/pagination.html" import render_pagination %}
 {% block title %}{{ this.title }}{% endblock %}
+{% block page_header %}
+    {% include 'includes/banner-blog.html' %}
+{% endblock %}
 {% block content %}
     <div class="content" id="content">
         <div class="wrapper">

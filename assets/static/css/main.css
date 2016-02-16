@@ -1,6 +1,5 @@
 [hidden],hr{display:none}
 *,ins{text-decoration:none}
-dfn,mark{font-style:italic}
 b,mark,strong{font-weight:700}
 *,nav ol,nav ul{list-style:none;margin:0;padding:0}
 img,input,label,td{vertical-align:middle}
@@ -9,6 +8,7 @@ img,input,label,td{vertical-align:middle}
 *,fieldset,hr,legend,nav ol,nav ul{padding:0}
 ins,mark{color:#000}
 .photo,.wrapper,sub,sup{position:relative}
+.tagline-blog,dfn,mark{font-style:italic}
 h1,h2,h3,h4,h5,h6{font-size:100%;line-height:1em}
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}
 audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
@@ -54,13 +54,17 @@ h2,h3,h4{font-size:5em;font-weight:400;margin-bottom:.4em;letter-spacing:-.02em}
 h3{font-size:4em}
 h4{font-size:3em}
 p{font-size:1.6em;line-height:1.6em;margin-bottom:1.4em}
+.logo-blog,.logo-name{margin-bottom:0;letter-spacing:-.04em}
 .photo{max-width:100%;top:-1px}
 nav{padding:15px 0;position:fixed;width:100%;z-index:10;background:#2b2b2b}
 .nav-item{display:inline-block;margin-right:15px}
 .nav-link{font-size:1.4em}
-.header{padding:100px 0;text-align:center}
-.logo-name{margin-bottom:0;font-size:10em;letter-spacing:-.04em}
+.header,.header-blog{padding:100px 0;text-align:center}
+.logo-name{font-size:10em}
+.logo-blog{margin-top:1em;font-size:5em}
+.tagline,.tagline-blog{margin-top:15px;padding:10px 0}
 .tagline{margin-top:15px;margin-bottom:50px;font-size:3em}
+.tagline-blog{margin-top:15px;font-size:2em;letter-spacing:-.02em}
 .call-action-area .price{font-size:4em;vertical-align:center;margin-right:20px}
 .btn,.call-action-area .call-action-link{position:relative;top:-5px;cursor:pointer;display:inline-block;padding:15px 30px;font-size:2em;line-height:1em;vertical-align:center;letter-spacing:-.02em;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-ms-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out}
 .btn:focus,.btn:hover,.call-action-area .call-action-link:focus,.call-action-area .call-action-link:hover{top:0}
@@ -129,14 +133,17 @@ p{font-size:1.4em}
 .partner-link,.sponsor--link{width:115px;height:115px;line-height:115px}
 }
 html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;background:#F6F6F6;font:normal normal 10px/1.2em helvetica,arial,sans-serif;color:#777}
+.header,.header-blog{background-image:url(/static/img/cover.jpg);background-color:#2b2b2b;background-repeat:no-repeat;background-size:100% auto}
 h1,h2,h3,h4,h5,h6{color:#1c3b56}
 .nav-link{color:#e7e7e7}
 .nav-link.current,.nav-link:active,.nav-link:focus,.nav-link:hover{color:#fff}
-.header{background-image:url(/static/img/cover.jpg);background-color:#2b2b2b;background-repeat:no-repeat;background-position:center bottom;background-size:100% auto}
+.header{background-position:center bottom}
+.header-blog{background-position:center top}
 .call-action-area .price,.logo-link,.tagline{text-shadow:1px 3px 2px rgba(0,0,0,.5)}
 .logo-link{color:#ffd343}
-.call-action-area .price,.tagline{color:#fff}
-.tagline{font-weight:400;letter-spacing:2px;background-color:#1c3b56;padding:10px 0}
+.call-action-area .price,.tagline,.tagline-blog{color:#fff}
+.tagline{font-weight:400;letter-spacing:2px;background-color:#1c3b56}
+.tagline-blog{font-weight:lighter}
 .call-action-area .price{color:#fddd52}
 .btn,.call-action-area .call-action-link{background-color:#fddd52;background-image:-moz-linear-gradient(top,#fddd52 30%,#f0a303 150%);background-image:-webkit-linear-gradient(top,#fddd52 30%,#f0a303 150%);filter:progid:dximagetransform.microsoft.gradient(startColorstr='#fddd52', endColorstr='#f0a303');background-image:linear-gradient(top,#fddd52 30%,#f0a303 150%);color:#2b2b2b;text-shadow:0 1px 0 rgba(255,255,255,.5);box-shadow:0 2px 3px 0 rgba(0,0,0,.4),inset 0 -2px 3px 0 #cc7f0a,inset 0 1px 0 0 #fff9b1;border-radius:40px}
 .github-link{position:fixed;top:0;right:0;z-index:11}
@@ -162,7 +169,7 @@ h1,h2,h3,h4,h5,h6{color:#1c3b56}
 .partner-link:focus,.partner-link:hover,.sponsor--link:focus,.sponsor--link:hover{border-color:#f0a303}
 .form input[type=email],.form input[type=text],.form textarea{color:#777;border:1px solid #e7e7e7;background:#fff;border-radius:4px}
 .form input[type=email]:focus,.form input[type=text]:focus,.form textarea:focus{border-color:#aaa;outline:0}
-.blog-post{margin-top:5em}
+.blog-post{margin:20px -20px;padding:19px;border-bottom:1px solid #e7e7e7;border-radius:4px}
 @media only screen and (max-width:1024px){.header{background-size:auto 100%}
 }
 @media only screen and (max-width:480px){.speech-time,.speech-title{font-weight:bolder}

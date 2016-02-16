@@ -1,20 +1,5 @@
 {% macro render_blog_post(post, from_index=false) %}
   <div class="blog-post">
-  {% if from_index %}
-    <h3><a href="{{ post|url }}">{{ post.title }}</a></h3>
-  {% else %}
-    <h3>{{ post.title }}</h3>
-  {% endif %}
-  <p class="meta">
-    escrito por
-    {% if post.twitter_handle %}
-      <a href="https://twitter.com/{{ post.twitter_handle
-        }}">{{ post.author or post.twitter_handle }}</a>
-    {% else %}
-      {{ post.author }}
-    {% endif %}
-    em {{ post.pub_date }}
-  </p>
   {{ post.body }}
   </div>
 {% endmacro %}
@@ -23,9 +8,9 @@
 {% macro render_blog_post_summary(post, from_index=false) -%}
   <div class="blog-post">
     {% if from_index %}
-      <h2><a href="{{ post|url }}">{{ post.title }}</a></h2>
+      <h4><a href="{{ post|url }}">{{ post.title }}</a></h4>
     {% else %}
-      <h2>{{ post.title }}</h2>
+      <h4>{{ post.title }}</h4>
     {% endif %}
 
     {% if post.attachments.images.get('cover.png') %}
@@ -50,6 +35,8 @@
       </div>
     {% endif %}
     {{ post.summary }}
-    <a href="{{ post|url }}" class="btn btn-default btn-block"><< ler mais >></a>
+    <p style="text-align:right">
+    	<a href="{{ post|url }}">ler mais</a>
+    </p>
   </div>
 {% endmacro %}
