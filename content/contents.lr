@@ -15,3 +15,18 @@ neighborhood: Centro
 url_applications: https://www.eventbrite.com/e/vi-encontro-pythonrio-tickets-21603237866
 ---
 url_callpapers: http://call4paperz.com/events/vi-encontro-da-pythonrio
+---
+description:
+
+Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
+
+Acompanhe-nos em nossas redes sociais para saber tudo sobre nossos encontros e as últimas novidades da comunidade Python.
+---
+partners:
+
+#### partner ####
+name: Instituto Infnet
+----
+url: http://www.infnet.edu.br/infnet/
+----
+logo: infnet.jpg

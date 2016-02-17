@@ -1,10 +1,14 @@
+{% if this.partners %}
 <section class="partners" id="partners">
     <h2 class="section-title">Parceiros</h2>
     <ul class="partners-list">
+        {% for partner in this.partners.blocks %}
         <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
-            <a href="http://www.infnet.edu.br/infnet/" target='_blank' class="partner-logo partner-link" itemprop="url">
-                    <img src="{{ '/static/img/infnet.jpg'|url }}" alt="Instituto Infnet" class="photo" itemprop="image">
+            <a href="{{ partner.url }}" target='_blank' class="partner-logo partner-link" itemprop="url">
+                <img src="{{ partner.logo }}" alt="{{ partner.name }}" class="photo" itemprop="image">
             </a>
         </li>
+        {% endfor %}
     </ul>
 </section>
+{% endif %}
