@@ -54,7 +54,7 @@ h2,h3,h4{font-size:5em;font-weight:400;margin-bottom:.4em;letter-spacing:-.02em}
 h3{font-size:4em}
 h4{font-size:3em}
 p{font-size:1.6em;line-height:1.6em;margin-bottom:1.4em}
-.photo{max-width:100%;top:-1px}
+.photo{max-width:100%;max-height:100%}
 nav{padding:15px 0;position:fixed;width:100%;z-index:10;background:#2b2b2b}
 .nav-item{display:inline-block;margin-right:15px}
 .nav-link{font-size:1.4em}
