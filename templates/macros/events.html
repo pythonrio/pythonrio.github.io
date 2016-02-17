@@ -1,0 +1,10 @@
+{% macro render_events_list(post, from_index=false) %}
+  <div class="blog-post">
+  {% if from_index %}
+    <h3><a href="{{ post|url }}">{{ post._id }} | {{ post.title }}</a></h3>
+  {% else %}
+    <h3>{{ post._id }} | {{ post.title }}</h3>
+  {% endif %}
+  {{ post.description }}
+  </div>
+{% endmacro %}

@@ -1,0 +1,62 @@
+date: 31 de janeiro de 2015
+---
+title: Meetup PythOnRio
+---
+address: Av. Ayrton Senna, 2.150, BLOCO I, sala 204
+---
+city: Rio de Janeiro
+---
+local: Hotel Urbano
+---
+neighborhood: Barra da Tijuca
+---
+description:
+
+Acabou a tristeza! A galera de Python do Rio vai se encontrar novamente e trocar uma ideia.
+Como nosso espaço é limitado, precisamos que registrem-se [aqui](http://www.eventick.com.br/meetup-python-rio). Temos apenas 30 vagas!
+
+Caso tenha se inscrito mas não poderá comparecer, pedimos que nos informe através da [página do evento no facebook](https://www.facebook.com/events/398543193635749/).
+---
+url_applications: http://www.eventick.com.br/meetup-python-rio
+---
+partners:
+
+#### partner ####
+name: Nitis Office
+----
+url: http://www.nitisoffice.com.br/
+----
+logo: nitis_logo.png
+#### partner ####
+name: Hotel Urbano
+----
+url: https://www.hotelurbano.com/
+----
+logo: hotel_urbano.jpg
+---
+speakers:
+
+#### speaker ####
+talk: Escrevendo API's em Python
+----
+name: André Fonseca
+----
+at: @aoqfonseca
+----
+link: https://github.com/aoqfonseca
+----
+bio: Desenvolvedor com mais de 10 anos de experiência e apaixonado pelo que faz. Acredito que TI é um caminho para facilitar e permitir mais. Tecnologia é o meio e não fim. Por isso procuro a melhor ferramenta para o trabalho. Embora tenha predileção por mais produtivas. Ruby, Java, Python, Javascript, Groovy, etc.
+----
+photo: aoqfonseca.png
+#### speaker ####
+talk: Deploy de aplicações Django com Ansible
+----
+name: Hugo Leonardo
+----
+at: @hugoleodev
+----
+link: https://github.com/hugoleodev
+----
+bio: Desenvolvedor de software com experiência em soluções Web e integrações entre sistemas. Além de grande interesse em ferramentas de provisionamento de servidores como Chef, Puppet e Ansible.
+----
+photo: hugoleodev.jpg
