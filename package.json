@@ -1,0 +1,29 @@
+{
+  "name": "pythonrio.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-less": "^1.2.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "less": "^2.6.0",
+    "less-plugin-clean-css": "^1.5.1"
+  },
+  "scripts": {
+    "lessc": "./node_modules/.bin/lessc",
+    "grunt": "./node_modules/.bin/grunt",
+    "build:css": "npm run lessc --clean-css='-b --compatibility=ie8 --advanced' assets/static/less/main.css.less assets/static/css/main.css",
+    "watch:css": "npm run grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pythonrio/pythonrio.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://pythonrio.github.io/"
+}

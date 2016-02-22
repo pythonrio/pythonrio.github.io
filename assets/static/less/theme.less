@@ -34,13 +34,22 @@ nav {background: #2b2b2b;}
   background-position: center bottom;
   background-size: 100% auto;
 }
+
+.header-blog {
+  background-image: url('/static/img/cover.jpg');
+  background-color: #2b2b2b;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 100% auto;
+}
+
 .logo-link, .tagline, .call-action-area .price {
   text-shadow: 1px 3px 2px rgba(0,0,0,.5);
 }
 .logo-link {
   color: #ffd343;
 }
-.tagline, .call-action-area .price {
+.tagline, .tagline-blog, .call-action-area .price {
   color: #fff;
 }
 .tagline {
@@ -49,6 +58,15 @@ nav {background: #2b2b2b;}
   background-color: #1c3b56;
   padding: 10px 0;
 }
+
+.tagline-blog {
+  font-weight: lighter;
+  padding: 10px 0;
+}
+
+
+
+
 .call-action-area .price {color:#fddd52;}
 .call-action-area .call-action-link, .btn {
   background-color: #fddd52;
@@ -162,8 +180,20 @@ nav {background: #2b2b2b;}
    BLOG
    ========================================================================== */
 .blog-post {
-  margin-top: 2em;
+    margin: 20px -20px;
+    padding: 19px;
+    border-bottom: 1px solid #e7e7e7;
+    border-radius: 4px;
 }
+
+.pagination {
+  text-align: center;
+  li {
+    font-size: 16px;
+    margin-right: 6px;
+    display: inline-block; }
+}
+
 
 /* =============================================================================
    Media Queries

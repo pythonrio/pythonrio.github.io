@@ -26,15 +26,20 @@ lektor build -O /path/to/build/
 Sendo que o diretório informado depois do parâmetro -O irão conter os novos estáticos gerados pelo Lektor.
 
 ## Estilização (CSS)
-Utilizamos o LESS e um plugin para minificação:
+Utilizamos o LESS e um plugin para minificação. Para poder usar, temos que instalar as dependências do npm:
 
 ```
-npm install -g less
-npm install -g less-plugin-clean-css
+npm install
 ```
 
-Enquanto não automatizamos esse processo, para gerar o CSS é preciso executar o seguinte comando dentro da pasta `static`:
+Para rodar a compilação manualmente, é só usar o seguinte comando:
 
 ```
-lessc --clean-css="-b --compatibility=ie8 --advanced" less/main.css.less css/main.css
+npm run build:css
+```
+
+Caso você queira rodar um watcher, que vai observar todos os arquivos less e compilá-los quando notar que você salvou algum deles, usa esse comando aqui, ó:
+
+```
+npm run watch:css
 ```
