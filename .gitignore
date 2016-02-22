@@ -1,4 +1,11 @@
+node_modules/
+bin/
+include/
+lib/
+share/
+pip-selfcheck.json
 venv
 env
 .ropeproject/
 .DS_Store
+.Python
