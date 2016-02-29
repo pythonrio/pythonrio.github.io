@@ -1,3 +1,4 @@
+{% if this.local %}
 <section class="location" id="location">
     <h2 class="section-title">Localização</h2>
 
@@ -7,3 +8,4 @@
     </p>
     <div id="map-canvas" class="location-area" data-address="{{ this.address }} {{ this.city }} {{ this.neighborhood }}"></div>
 </section>
+{% endif %}

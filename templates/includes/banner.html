@@ -2,12 +2,20 @@
     <div class="wrapper">
         <img src="{{ '/static/img/pythonrio.png'|url }}" />
         <h1 class="logo-name">
-                <a class="logo-link" href="#" title="Meetup PythonRio" itemprop="name">{{ this.title }}</a>
+            <a class="logo-link" href="#" title="Meetup PythonRio" itemprop="name">{{ this.title }}</a>
         </h1>
-        <h2 class="tagline">{{ this.date }}, {{ this.local }}, {{ this.city }}</h2>
+        <h2 class="tagline">
+            {% if this.date %}{{ this.date }}{% endif %}
+            {% if this.local %}, {{ this.local }}{% endif %}
+            {% if this.city %}, {{ this.city }}{% endif %}
+        </h2>
 
         <div class="call-action-area">
-                <a href="{{ this.url_applications }}" class="call-action-link" title="Registre-se" target="_blank">Registre-se</a>
+            {% if this.url_applications %}
+            <a href="{{ this.url_applications }}" class="call-action-link" title="Registre-se" target="_blank">Registre-se</a>
+            {% else %}
+            <a href="#" class="call-action-link" title="Em Breve!" target="_blank">Inscrições em breve!</a>
+            {% endif %}
         </div>
 
     </div>
