@@ -1,20 +1,16 @@
 _model: page.ini
 ---
-date: 27 de fevereiro de 2016
+date: 19 de março de 2016
 ---
 title: Meetup PythOnRio
 ---
-address: R. São José, 90
+address: 
 ---
-city: Rio de Janeiro
+city: 
 ---
-local: Instituto Infnet
+local: 
 ---
-neighborhood: Centro
----
-url_applications: https://www.eventbrite.com/e/vi-encontro-pythonrio-tickets-21603237866
----
-url_callpapers: http://call4paperz.com/events/vi-encontro-da-pythonrio
+neighborhood: 
 ---
 description:
 
@@ -22,11 +18,4 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 
 Acompanhe-nos em nossas redes sociais para saber tudo sobre nossos encontros e as últimas novidades da comunidade Python.
 ---
-partners:
-
-#### partner ####
-name: Instituto Infnet
-----
-url: http://www.infnet.edu.br/infnet/
-----
-logo: infnet.jpg
+partners: 
