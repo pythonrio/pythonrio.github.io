@@ -2,4 +2,4 @@
 name = pythonrio
 
 [servers.ghpages]
-target = ghpages+https://pythonrio/pythonrio.github.io
+target = ghpages+https://pythonrio/pythonrio.github.io?cname=pythonrio.python.org.br
