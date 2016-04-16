@@ -1,16 +1,16 @@
 _model: page.ini
 ---
-date: 19 de março de 2016
+date: 30 de abril de 2016
 ---
 title: Meetup PythOnRio
 ---
-address: 
+address: Rua Santa Luzia, 651
 ---
-city: 
+city: Rio de Janeiro
 ---
-local: 
+local: EloGroup
 ---
-neighborhood: 
+neighborhood: Centro
 ---
 description:
 
@@ -18,10 +18,15 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 
 Acompanhe-nos em nossas redes sociais para saber tudo sobre nossos encontros e as últimas novidades da comunidade Python.
 ---
-partners: 
----
-url_callpapers: http://call4paperz.com/events/vii-encontro-da-pythonrio
+partners:
 
+#### partner ####
+name: EloGroup
+----
+url: http://elogroup.com.br/
+----
+logo: logo_elogroup.png
 ---
-url_applications:
-https://www.eventbrite.com/e/vii-pythonrio-tickets-22937799576
+url_callpapers: http://call4paperz.com/events/viii-encontro-pythonrio
+---
+url_applications: https://www.eventbrite.com/e/viii-encontro-pythonrio-tickets-24705408542
