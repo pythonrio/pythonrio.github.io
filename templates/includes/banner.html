@@ -11,7 +11,7 @@
         </h2>
 
         <div class="call-action-area">
-            {% if this.url_applications %}
+            {% if this.url_applications|trim %}
             <a href="{{ this.url_applications }}" class="call-action-link" title="Registre-se" target="_blank">Registre-se</a>
             {% else %}
             <a href="#" class="call-action-link" title="Em Breve!" target="_blank">Inscrições em breve!</a>
