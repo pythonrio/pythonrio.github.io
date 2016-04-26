@@ -36,3 +36,18 @@ logo: logo_elogroup.png
 url_callpapers: http://call4paperz.com/events/viii-encontro-pythonrio
 ---
 url_applications: https://www.eventbrite.com/e/viii-encontro-pythonrio-tickets-24705408542
+---
+speakers:
+
+#### speaker ####
+talk: Dados tabulares: a maneira pythônica
+----
+name: Álvaro Justen
+----
+at: @turicas
+----
+link: https://twitter.com/turicas
+----
+bio: Dados tabulares estão presentes em todos os lugares, em diversos formatos: CSV, XLS, ODS, HTML, JSON, bancos de dados etc. Porém as APIs das bibliotecas são completamenta diferentes. A biblioteca rows tem como objetivo prover uma API simples, direta e unificada para trabalhar com dados tabulares, suportando inúmeros formatos. Além da API, será abordada a CLI, que facilita conversões e consultas.
+----
+photo: turicas.jpg
