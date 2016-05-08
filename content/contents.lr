@@ -1,14 +1,14 @@
 _model: page.ini
 ---
-date: 30 de abril de 2016
+date: 28 de maio de 2016
 ---
 title: Meetup PythOnRio
 ---
-address: Rua Santa Luzia, 651, 29º andar - Sala 2903
+address: Rua São José, 90, 2º andar
 ---
 city: Rio de Janeiro
 ---
-local: EloGroup
+local: Infnet
 ---
 neighborhood: Centro
 ---
@@ -27,27 +27,14 @@ Acompanhe-nos em nossas redes sociais para saber tudo sobre nossos encontros e a
 partners:
 
 #### partner ####
-name: EloGroup
+name: Infnet
 ----
-url: http://elogroup.com.br/
+url: http://www.infnet.edu.br/infnet/
 ----
-logo: logo_elogroup.png
+logo: infnet.jpg
 ---
-url_callpapers: 
+url_callpapers: http://call4paperz.com/events/ix-encontro-pythonrio
 ---
-url_applications: https://www.eventbrite.com/e/viii-encontro-pythonrio-tickets-24705408542
+url_applications: 
 ---
-speakers:
-
-#### speaker ####
-talk: Dados tabulares: a maneira pythônica
-----
-name: Álvaro Justen
-----
-at: @turicas
-----
-link: https://twitter.com/turicas
-----
-bio: Dados tabulares estão presentes em todos os lugares, em diversos formatos: CSV, XLS, ODS, HTML, JSON, bancos de dados etc. Porém as APIs das bibliotecas são completamenta diferentes. A biblioteca rows tem como objetivo prover uma API simples, direta e unificada para trabalhar com dados tabulares, suportando inúmeros formatos. Além da API, será abordada a CLI, que facilita conversões e consultas.
-----
-photo: turicas.jpg
+speakers: 
