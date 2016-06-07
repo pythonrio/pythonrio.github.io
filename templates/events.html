@@ -5,7 +5,7 @@
 {% block content %}
     <div class="content" id="content">
         <div class="wrapper">
-            {% for child in this.pagination.items %}
+            {% for child in this.pagination.items|sort(attribute='_id', reverse=True) %}
                 {{ render_events_list(child, from_index=true) }}
             {% endfor %}
 
