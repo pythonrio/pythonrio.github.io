@@ -9,3 +9,4 @@ env
 .ropeproject/
 .DS_Store
 .Python
+.idea
