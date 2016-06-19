@@ -47,11 +47,9 @@ url_callpapers:
 ---
 url_applications: http://www.eventbrite.com.br/e/python-rio-x-tickets-26132963397
 ---
-speakers:
-
+workshops:
 #### speaker ####
-
-talk: Workshop Programação orientada a objetos!
+talk: 10:00 - Workshop Programação orientada a objetos!
 ----
 name:  Luiz Costa
 ----
@@ -62,6 +60,9 @@ link:
 bio:
 ----
 photo: /static/img/speakers/default.png
+
+---
+speakers:
 
 #### speaker ####
 
