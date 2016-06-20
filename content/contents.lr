@@ -22,7 +22,31 @@ Além das palestras, vamos fazer as lightning talks, que são palestras rápidas
 
 E ainda teremos um workshop incrível do Luiz Costa sobre programação orientada a objetos!
 
-O evento será no Senac Centro, no auditório do 7º andar.
+Estamos acertando a ordem das palestras, mas já, já atualizaremos vocês. A organização será:
+
+Credenciamento 09:00 até 10:00
+
+Palestra 1 10:00 até 10:50
+
+Palestra 2 10:50 até 11:40
+
+Lightining talks 1 11:40 até 12:00
+
+Almoço 12:00 até 13:00
+
+Palestra 3 13:00 até 13:50
+
+Palestra 4 13:50 até 14:40
+
+Intervalo 14:40 até 14:50
+
+Palestra 5 14:50 até 15:40
+
+Encerramento + foto 15:40 até 16:00
+
+Hora Extra 16:00
+
+O evento será no Senac Centro das 10:00 às 16:00, no auditório do 7º andar.
 
 Nos vemos lá!
 
@@ -57,7 +81,7 @@ at:
 ----
 link:
 ----
-bio:
+bio: OBS: Para participar é aconselhavel levar o seu laptop.
 ----
 photo: /static/img/speakers/default.png
 
@@ -70,7 +94,7 @@ talk: Usando Kubernetes com sua aplicação Django
 ----
 name: Delermando Santos
 ----
-at: github
+at:
 ----
 link: https://github.com/Delermando
 ----
@@ -84,7 +108,7 @@ talk: Como event sorcing, CQRS e DDD podem te ajudar a construir melhores soluç
 ----
 name: Felippe Da Motta Raposo
 ----
-at: github
+at:
 ----
 link: https://github.com/felippemr
 ----
@@ -98,7 +122,7 @@ talk: Coisas que aprendi portando código para Python 3
 ----
 name: Elias Dorneles
 ----
-at: site
+at:
 ----
 link: https://eliasdorneles.github.io/
 ----
