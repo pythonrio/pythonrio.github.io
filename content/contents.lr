@@ -44,7 +44,7 @@ Palestra 5 14:50 até 15:40
 
 Encerramento + foto 15:40 até 16:00
 
-Hora Extra 16:00
+Pós-evento 16:00
 
 O evento será no Senac Centro das 10:00 às 16:00, no auditório do 7º andar.
 
@@ -155,5 +155,19 @@ at:
 link:
 ----
 bio: Introdução ao mundo Big Data para desenvolvedores Python. Principais aplicações de Data Products no mercado nacional e o perfil atual do profissional que as empresas buscam. Como as empresas podem se beneficiar com o uso inteligente dos dados que já possui, desenvolver um time interno sem ter que começar investindo alto com consultores e experts ? Como começar, onde estudar e obter experiências
+----
+photo: /static/img/speakers/default.png
+
+#### speaker ####
+
+talk: 16:00 - Pós-evento
+----
+name:
+----
+at:
+----
+link:
+----
+bio: Vamos trocar ideias e beber um chopp.
 ----
 photo: /static/img/speakers/default.png
