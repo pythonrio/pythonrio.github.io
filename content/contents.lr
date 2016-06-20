@@ -4,13 +4,53 @@ date: 25 de Junho de 2016
 ---
 title: Meetup PythOnRio
 ---
+address: Rua Santa Luzia, 735, 7º andar
+---
 city: Rio de Janeiro
+---
+local: Senac
+---
+neighborhood: Centro
 ---
 description:
 
-Dia 25 de Junho de 2016 vai rolar X Encontro da @pythonrio.  Submeta sua proposta de palestra até dia 20/06/2016 pelo call4papers http://call4paperz.com/events/x-encontro-python-rio
+Aeer \o/
 
-Ainda estamos definindo o local e, assim que soubermos, liberamos em nossa Fan Page os links para a inscrição.
+Já estão abertas as inscrições pro nosso próximo encontro! Será dia 25/06 no Senac! Contamos com a presença de vocês para tornar este o melhor encontro de comunidade do Rio!!
+
+Além das palestras, vamos fazer as lightning talks, que são palestras rápidas inscritas no momento do evento (você pode levar a sua). Dessa vez, o evento começará mais cedo e terá um monte de palestras sensacionais sobre Big Data, python3, infraestrutura, experiências de vida e design de código. Tudo para a nossa troca de experiências mensal e crescimento profissional.
+
+E ainda teremos um workshop incrível do Luiz Costa sobre programação orientada a objetos!
+
+Estamos acertando a ordem das palestras, mas já, já atualizaremos vocês. A organização será:
+
+Credenciamento 09:00 até 10:00
+
+Palestra 1 10:00 até 10:50
+
+Palestra 2 10:50 até 11:40
+
+Lightining talks 1 11:40 até 12:00
+
+Almoço 12:00 até 13:00
+
+Palestra 3 13:00 até 13:50
+
+Palestra 4 13:50 até 14:40
+
+Intervalo 14:40 até 14:50
+
+Palestra 5 14:50 até 15:40
+
+Encerramento + foto 15:40 até 16:00
+
+Pós-evento 16:00
+
+O evento será no Senac Centro das 10:00 às 16:00, no auditório do 7º andar.
+
+Nos vemos lá!
+
+Acompanhe-nos em nossas redes sociais para saber tudo sobre nossos encontros e as últimas novidades da comunidade Python.
 
 [+ Facebook](https://www.facebook.com/pythonrio)
 &nbsp; &nbsp;
@@ -18,3 +58,116 @@ Ainda estamos definindo o local e, assim que soubermos, liberamos em nossa Fan P
 &nbsp; &nbsp;
 [+ Telegram](https://telegram.me/joinchat/AONs_ANlfCZRoXOX0QxEzA)
 ---
+partners:
+
+#### partner ####
+name: Senac
+----
+url: http://rj.senac.br/
+----
+logo: /static/img/partners/senac.png
+---
+url_callpapers:
+---
+url_applications: http://www.eventbrite.com.br/e/python-rio-x-tickets-26132963397
+---
+workshops:
+#### speaker ####
+talk: 10:00 - Workshop Programação orientada a objetos!
+----
+name:  Luiz Costa
+----
+at:
+----
+link:
+----
+bio: OBS: Para participar é aconselhavel levar o seu laptop.
+----
+photo: /static/img/speakers/default.png
+
+---
+speakers:
+
+#### speaker ####
+
+talk: Usando Kubernetes com sua aplicação Django
+----
+name: Delermando Santos
+----
+at:
+----
+link: https://github.com/Delermando
+----
+bio: Nesta apresentação mostrarei como combinar o poder de orquestração de containers que o Kubernetes oferece levantando uma aplicação usando Django.
+----
+photo: /static/img/speakers/default.png
+
+#### speaker ####
+
+talk: Como event sorcing, CQRS e DDD podem te ajudar a construir melhores soluções!
+----
+name: Felippe Da Motta Raposo
+----
+at:
+----
+link: https://github.com/felippemr
+----
+bio: O que é event sourcing, CQRS(Command Query Responsibility) e DDD(Domain Driven Design)? Como eles podem me ajudar a solucionar problemas? Como posso aplicar esses conceitos ao desenvolvimento de sistemas distribuídos? Essas e outras perguntas serão exploradas na talk!
+----
+photo: /static/img/speakers/default.png
+
+#### speaker ####
+
+talk: Coisas que aprendi portando código para Python 3
+----
+name: Elias Dorneles
+----
+at:
+----
+link: https://eliasdorneles.github.io/
+----
+bio: Compartilharei algumas coisas que aprendi portando código para funcionar em Python 3 mantendo retrocompatibilidade no Scrapy e em outros projetos open source em que colaboro.
+----
+photo: /static/img/speakers/default.png
+
+#### speaker ####
+
+talk: Vivências interessantes na busca do futuro
+----
+name: Luiz Filipe Nunes Cesar
+----
+at:
+----
+link:
+----
+bio: Esta apresentação aborda como se empenhar e crescer apesar das dificuldades impostas pelos desafios do dia a dia. A trajetória de quem começou como call center e agora busca seu espaço no mundo da programação. Relato de casos abordando soluções e dificuldades vividas pela equipe de internet de uma empresa de grandes marcas.
+----
+photo: /static/img/speakers/default.png
+
+#### speaker ####
+
+talk: Venha para o mundo do Big Data
+----
+name: Eduardo Le Masson
+----
+at:
+----
+link:
+----
+bio: Introdução ao mundo Big Data para desenvolvedores Python. Principais aplicações de Data Products no mercado nacional e o perfil atual do profissional que as empresas buscam. Como as empresas podem se beneficiar com o uso inteligente dos dados que já possui, desenvolver um time interno sem ter que começar investindo alto com consultores e experts ? Como começar, onde estudar e obter experiências
+----
+photo: /static/img/speakers/default.png
+
+#### speaker ####
+
+talk: 16:00 - Pós-evento
+----
+name:
+----
+at:
+----
+link:
+----
+bio: Vamos trocar ideias e beber um chopp.
+----
+photo: /static/img/speakers/default.png

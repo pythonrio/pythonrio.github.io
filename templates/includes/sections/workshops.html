@@ -1,0 +1,19 @@
+{% if this.workshops %}
+<section class="workshops" id="workshops">
+    <h2 class="section-title">Workshops</h2>
+    <ul class="speakers-list">
+    {% for speaker in this.workshops.blocks %}
+        <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+            <span class="speaker-photo">
+                <img class="photo" src="{{ speaker.photo }}" alt="{{ speaker.name }}" itemprop="image">
+            </span>
+            <h3 class="speech-title">
+                <span>{{ speaker.talk }}</span>
+            </h3>
+            <h3 class="speakers-name">{{ speaker.name }} <a href="{{ speaker.link }}" target="_blank" title="{{ speaker.at }}">{{ speaker.at }}</a></h3>
+            <p class="speakers-bio">{{ speaker.bio }}</p>
+        </li>
+    {% endfor %}
+    </ul>
+</section>
+{% endif %}
