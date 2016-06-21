@@ -24,27 +24,29 @@ E ainda teremos um workshop incrível do Luiz Costa sobre programação orientad
 
 Estamos acertando a ordem das palestras, mas já, já atualizaremos vocês. A organização será:
 
-Credenciamento 09:00 até 10:00
+09:00 às 10:00 - Credenciamento
 
-Palestra 1 10:00 até 10:50
+10:00 - Luiz Costa - Workshop Programação orientada a objetos!
 
-Palestra 2 10:50 até 11:40
+10:00 - Elias Dorneles - Coisas que aprendi portando código para Python 3
 
-Lightining talks 1 11:40 até 12:00
+10:50 - Delermando Santos - Usando Kubernetes com sua aplicação Django
 
-Almoço 12:00 até 13:00
+11:40 - Lightining talks
 
-Palestra 3 13:00 até 13:50
+12:00 às 13:00 - Almoço
 
-Palestra 4 13:50 até 14:40
+13:00 - Luiz Filipe Nunes Cesar - Vivências interessantes na busca do futuro
 
-Intervalo 14:40 até 14:50
+13:50 - Felippe Da Motta Raposo - Como event sorcing, CQRS e DDD podem te ajudar a construir melhores soluções!
 
-Palestra 5 14:50 até 15:40
+14:40 às 14:50 - Intervalo
 
-Encerramento + foto 15:40 até 16:00
+14:50 - Eduardo Le Masson - Venha para o mundo do Big Data
 
-Pós-evento 16:00
+15:40 - Encerramento + foto
+
+16:00 - Pós-evento
 
 O evento será no Senac Centro das 10:00 às 16:00, no auditório do 7º andar.
 
@@ -83,42 +85,14 @@ link:
 ----
 bio: OBS: Para participar é aconselhavel levar o seu laptop.
 ----
-photo: /static/img/speakers/default.png
+photo: /static/img/speakers/luizgmail.jpg
 
 ---
 speakers:
 
 #### speaker ####
 
-talk: Usando Kubernetes com sua aplicação Django
-----
-name: Delermando Santos
-----
-at:
-----
-link: https://github.com/Delermando
-----
-bio: Nesta apresentação mostrarei como combinar o poder de orquestração de containers que o Kubernetes oferece levantando uma aplicação usando Django.
-----
-photo: /static/img/speakers/default.png
-
-#### speaker ####
-
-talk: Como event sorcing, CQRS e DDD podem te ajudar a construir melhores soluções!
-----
-name: Felippe Da Motta Raposo
-----
-at:
-----
-link: https://github.com/felippemr
-----
-bio: O que é event sourcing, CQRS(Command Query Responsibility) e DDD(Domain Driven Design)? Como eles podem me ajudar a solucionar problemas? Como posso aplicar esses conceitos ao desenvolvimento de sistemas distribuídos? Essas e outras perguntas serão exploradas na talk!
-----
-photo: /static/img/speakers/default.png
-
-#### speaker ####
-
-talk: Coisas que aprendi portando código para Python 3
+talk: 10:00 - Coisas que aprendi portando código para Python 3
 ----
 name: Elias Dorneles
 ----
@@ -128,11 +102,39 @@ link: https://eliasdorneles.github.io/
 ----
 bio: Compartilharei algumas coisas que aprendi portando código para funcionar em Python 3 mantendo retrocompatibilidade no Scrapy e em outros projetos open source em que colaboro.
 ----
+photo: /static/img/speakers/eliasdorneles.png
+
+#### speaker ####
+
+talk: 10:50 - Usando Kubernetes com sua aplicação Django
+----
+name: Delermando Santos
+----
+at:
+----
+link: https://github.com/Delermando
+----
+bio: Nesta apresentação mostrarei como combinar o poder de orquestração de containers que o Kubernetes oferece levantando uma aplicação usando Django.
+----
+photo: /static/img/speakers/delemandosantos.jpg
+
+#### speaker ####
+
+talk: 11:40 - Lightining talks
+----
+name:
+----
+at:
+----
+link:
+----
+bio: Lightining talks é uma curta apresentação que dura apenas alguns minutos.
+----
 photo: /static/img/speakers/default.png
 
 #### speaker ####
 
-talk: Vivências interessantes na busca do futuro
+talk: 13:00 - Vivências interessantes na busca do futuro
 ----
 name: Luiz Filipe Nunes Cesar
 ----
@@ -142,11 +144,25 @@ link:
 ----
 bio: Esta apresentação aborda como se empenhar e crescer apesar das dificuldades impostas pelos desafios do dia a dia. A trajetória de quem começou como call center e agora busca seu espaço no mundo da programação. Relato de casos abordando soluções e dificuldades vividas pela equipe de internet de uma empresa de grandes marcas.
 ----
-photo: /static/img/speakers/default.png
+photo: /static/img/speakers/luizfelippe.jpg
 
 #### speaker ####
 
-talk: Venha para o mundo do Big Data
+talk: 13:50 - Como event sorcing, CQRS e DDD podem te ajudar a construir melhores soluções!
+----
+name: Felippe Da Motta Raposo
+----
+at:
+----
+link: https://github.com/felippemr
+----
+bio: O que é event sourcing, CQRS(Command Query Responsibility) e DDD(Domain Driven Design)? Como eles podem me ajudar a solucionar problemas? Como posso aplicar esses conceitos ao desenvolvimento de sistemas distribuídos? Essas e outras perguntas serão exploradas na talk!
+----
+photo: /static/img/speakers/feliperaposo.jpg
+
+#### speaker ####
+
+talk: 14:50 - Venha para o mundo do Big Data
 ----
 name: Eduardo Le Masson
 ----
@@ -156,7 +172,7 @@ link:
 ----
 bio: Introdução ao mundo Big Data para desenvolvedores Python. Principais aplicações de Data Products no mercado nacional e o perfil atual do profissional que as empresas buscam. Como as empresas podem se beneficiar com o uso inteligente dos dados que já possui, desenvolver um time interno sem ter que começar investindo alto com consultores e experts ? Como começar, onde estudar e obter experiências
 ----
-photo: /static/img/speakers/default.png
+photo: /static/img/speakers/eduardolemasson.jpg
 
 #### speaker ####
 
