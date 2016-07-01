@@ -1,0 +1,30 @@
+{% if this.activities %}
+<section class="agenda" id="agenda">
+    <h2 class="section-title">Agenda</h2>
+
+    {% if this.activities|trim %}
+    <div class="schedule-tbl">
+      <table>
+        <thead>
+          <tr>
+            <th class="schedule-time">Hora</th>
+            <th class="schedule-slot">Local</th>
+            <th class="schedule-description">Atividade</th>
+          </tr>
+        </thead>
+        <tbody>
+        {% for activity in this.activities.blocks %}
+        <tr class="schedule-other">
+          <td class="schedule-time">{{ activity.time }}</td>
+          <td class="schedule-slot">{{ activity.local }}</td>
+          <td class="schedule-description">{{ activity.name }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endif %}
+</section>
+{% endif %}
+
+
