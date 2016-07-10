@@ -14,10 +14,8 @@ neighborhood: Centro
 ---
 description:
 
-30 de Julho de 2016 vai rolar XI Encontro da @pythonrio na Infnet das 14:00hs até às 18:00hs, Rua São José, 90, 2º andar – Rio de Janeiro, Centro.
-Submeta sua proposta de palestra até dia 20/07/2016 pelo call4papers http://call4paperz.com/events/xi-encontro-python-rio
-
-Acompanhe-nos também em nossas redes sociais para saber tudo sobre nossos encontros e as últimas novidades da comunidade Python.
+A comunidade Python do Rio de Janeiro tem um encontro marcado todo último sábado de cada mês.
+Seja no Centro ou na Barra, sinta-se convidado para comparecer e marcar presença no melhor encontro de comunidade da cidade \o//
 
 [+ Facebook](https://www.facebook.com/pythonrio)
 &nbsp; &nbsp;
@@ -34,15 +32,11 @@ name: Infnet
 ----
 url: http://www.infnet.edu.br/infnet/
 ----
-logo: /static/img/partners/infnet.jpg
----
-url_callpapers: 
----
-url_applications:
+logo: infnet.jpg
 ---
 url_callpapers: http://call4paperz.com/events/xi-encontro-python-rio
 ---
-url_applications: http://call4paperz.com/events/xi-encontro-python-rio
+url_applications: https://www.eventbrite.com/e/xi-encontro-pythonrio-tickets-26495497747
 ---
 workshops: 
 ---
