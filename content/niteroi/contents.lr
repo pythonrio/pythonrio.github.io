@@ -1,14 +1,18 @@
 _model: page.ini
 ---
-date: 27 de Agosto de 2016
+date: 20 de Agosto de 2016
 ---
-title: Meetup PythOnRio
+title: PythonRio Niterói
 ---
-address: Local a definir
+bodyclass: py-niteroi
 ---
-city: Rio de Janeiro
+website: /niteroi/
 ---
-local:
+address:
+---
+city: Niterói
+---
+local: Local a definir
 ---
 neighborhood: Centro
 ---
@@ -16,11 +20,9 @@ description:
 
 Prezados,
 
-Dia 27 de Agosto de 2016 vai rolar XII Encontro da @pythonrio. Submeta sua proposta de palestra até dia 19/08/2016 pelo speakerfight http://speakerfight.com/events/xii-encontro-python-rio/
+Dia 20 de Agosto de 2016 vai rolar o I Encontro da @pythonrio em Niterói.
 
 Ainda estamos definindo o local e, assim que soubermos, liberamos em nossa Fan Page os links para a inscrição.
-
-Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
 [+ Facebook](https://www.facebook.com/pythonrio)
 &nbsp; &nbsp;
@@ -35,4 +37,4 @@ partners:
 speakers:
 ---
 activities:
-----
+---

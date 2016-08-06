@@ -742,6 +742,20 @@ nav {
   background-position: center top;
   background-size: 100% auto;
 }
+.py-niteroi .header {
+  background-image: url('/static/img/cover_niteroi.jpg');
+  background-color: #2b2b2b;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 100% auto;
+}
+.py-niteroi .header-blog {
+  background-image: url('/static/img/cover_niteroi.jpg');
+  background-color: #2b2b2b;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 100% auto;
+}
 .logo-link,
 .tagline,
 .call-action-area .price {
