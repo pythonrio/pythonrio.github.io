@@ -1,14 +1,17 @@
 <nav id="nav">
     <ul class="wrapper">
+    {% set website = '/' %}
+    {% if this.website %}{% set website = this.website %}{% endif %}
     {% for href, title in [
 	['/', 'Home'],
-        ['/#about', 'Sobre'],
-        ['/#location', 'Localização'],
-        ['/#speakers', 'Palestras'],
-        ['/#agenda', 'Agenda'],
-        ['/#partners', 'Parceiros'],
+        [website+'#about', 'Sobre'],
+        [website+'#location', 'Localização'],
+        [website+'#speakers', 'Palestras'],
+        [website+'#agenda', 'Agenda'],
+        [website+'#partners', 'Parceiros'],
 	['/blog/', 'Blog'],
-    ['/events/', 'Edições Anteriores']
+    ['/events/', 'Edições Anteriores'],
+    ['/niteroi/', 'Niterói']
     ] %}
         <li class="nav-item"><a href="{{ href }}" title="{{title}}" class="nav-link">{{ title }}</a></li>
     {% endfor %}

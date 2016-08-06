@@ -8,7 +8,7 @@
 {% endblock %}
 
 </head>
-<body>
+<body {% if this.bodyclass %}class="{{ this.bodyclass }}"{% endif %}>
 
 <div class="global">
     {% include 'includes/navigation-bar.html' %}

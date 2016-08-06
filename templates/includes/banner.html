@@ -1,6 +1,10 @@
 <header class="header">
     <div class="wrapper">
+        {% if this.image %}
+        <img src="{{ this.image|url }}" />
+        {% else %}
         <img src="{{ '/static/img/pythonrio.png'|url }}" />
+        {% endif %}
         <h1 class="logo-name">
             <a class="logo-link" href="#" title="Meetup PythonRio" itemprop="name">{{ this.title }}</a>
         </h1>
