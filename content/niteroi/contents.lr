@@ -8,11 +8,11 @@ bodyclass: py-niteroi
 ---
 website: /niteroi/
 ---
-address:
+address: Rua Gastão Gonçalves, 79, Auditório 3o andar
 ---
 city: Niterói
 ---
-local: Local a definir
+local: Unilasalle Rio de Janeiro
 ---
 neighborhood: Centro
 ---
@@ -20,9 +20,8 @@ description:
 
 Prezados,
 
-Dia 20 de Agosto de 2016 vai rolar o I Encontro da @pythonrio em Niterói.
-
-Ainda estamos definindo o local e, assim que soubermos, liberamos em nossa Fan Page os links para a inscrição.
+Dia 20 de Agosto de 2016 vai rolar o I Encontro da @pythonrio em Niterói na Unilasalle Rio de Janeiro das 10:00hs até às 18:00hs, Rua Gastão Gonçalves, 79, Auditório 3o andar, Bairro Santa Rosa - Niterói - RJ - CEP: 24240-030.
+Submeta sua proposta de palestra até dia 15/08/2016 pelo speakerfight http://speakerfight.com/events/i-pythonrio-niteroi/ .
 
 [+ Facebook](https://www.facebook.com/pythonrio)
 &nbsp; &nbsp;
@@ -33,6 +32,24 @@ Ainda estamos definindo o local e, assim que soubermos, liberamos em nossa Fan P
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
 partners:
+
+#### partner ####
+name: Unilasalle Rio de Janeiro
+----
+url: http://unilasalle.edu.br/rj/
+----
+logo: /static/img/partners/unilassale.png
+----
+#### partner ####
+name: globo.com
+----
+url: http://globo.com/
+----
+logo: /static/img/partners/globocom.png
+---
+url_callpapers: http://speakerfight.com/events/i-pythonrio-niteroi/
+---
+url_applications:
 ---
 speakers:
 ---
