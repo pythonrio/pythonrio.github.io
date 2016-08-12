@@ -14,7 +14,7 @@ city: Niterói
 ---
 local: Unilasalle Rio de Janeiro
 ---
-neighborhood: Centro
+neighborhood: Santa Rosa
 ---
 description:
 
@@ -48,6 +48,13 @@ name: globo.com
 url: http://globo.com/
 ----
 logo: /static/img/partners/globocom.png
+----
+#### partner ####
+name: Amora Labs
+----
+url: http://andregarzia.com/
+----
+logo: /static/img/partners/amoralabs.jpg
 ---
 url_callpapers: http://speakerfight.com/events/i-pythonrio-niteroi/
 ---
