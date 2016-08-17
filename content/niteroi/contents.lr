@@ -56,11 +56,179 @@ url: http://andregarzia.com/
 ----
 logo: /static/img/partners/amoralabs.jpg
 ---
-url_callpapers: http://speakerfight.com/events/i-pythonrio-niteroi/
+url_callpapers:
 ---
 url_applications: https://www.eventbrite.com/e/i-pythonrio-niteroi-tickets-27030358530
 ---
 speakers:
+#### speaker ####
+talk: Como criar extensões para o Jupyter Notebook
+----
+name: João Felipe Nicolaci Pimentel
+----
+at:
+----
+link:
+----
+bio: Jupyter Notebook é uma aplicação que permite criar documentos com códigos interativos, visualizações e markdowns explicativos.
+Devido a sua facilidade e capacidade de visualização de resultados, o Jupyter tem sido utilizado em desenvolvimento explorativo, prototipagem, ensino, processamento de dados, simulações numéricas, etc.
+No processo comum de criação de notebooks, muitas pessoas restringem seus códigos a apenas Python e visualizações fornecidas por bibliotecas como matplotlib ou visualizações textuais padrões.
+Entretanto, o Jupyter permite muito mais do que isso por meio de extensões e métodos especiais de visualização.
+Nesta apresentação, pretendo explicar:
+
+Como definir métodos de exibição para visualizações customizadas e opções customizadas de auto-completar
+
+Como criar extensões IPython com line magics e cell magics
+
+Como criar extensões para o cliente Jupyter com alterações no Javascript
+----
+photo: /static/img/speakers/joaofelipenicolacipimentel.jpg
+----
+#### speaker ####
+talk: Escrevendo menos código (Code Smell e Refactoring)
+----
+name: Mauro Murari
+----
+at:
+----
+link:
+----
+bio: Quem nunca pegou aquele projeto bacana, que:
+
+* Não tem testes
+
+* Não tem doc
+
+* Está tudo em um arquivo (main.py)
+
+* Passa um dicionário como parâmetro em todas as funções
+
+* Não existe classe
+----
+photo: /static/img/speakers/mauromurari.jpg
+----
+#### speaker ####
+talk: Fazendo a Internet das Coisas com Python
+----
+name: Andre Garzia
+----
+at:
+----
+link:
+----
+bio: E se você pudesse construir robôs com sua linguagem favorita? Nesta palestra vamos apresentar uma forma barata e divertida de aprender sobre a Internet das Coisas utilizando MicroPython e a placa NodeMCU. Juntos vamos explorar um pouco sobre o que é IoT e por que o momento para aprender sobre essas tecnologias é agora. O mundo da computação física e do movimento maker está ao alcance de todos nós. Com um pouco de esforço e muita criatividade podemos construir coisas incríveis que interagem com o mundo real, então, o que você quer construir hoje?
+----
+photo: /static/img/speakers/andregarzia.jpg
+----
+#### speaker ####
+talk: Introdução a Análise e manipulação de dados com Pandas
+----
+name: Salgado
+----
+at:
+----
+link:
+----
+bio: Como utilizar essa poderosa ferramenta para ler diferentes bases de dados e gerar gráficos e insigths na era do Data Science.
+----
+photo: /static/img/speakers/salgado.jpg
+----
+#### speaker ####
+talk: Você é importante para a comunidade!
+----
+name: Felippe da Motta Raposo
+----
+at:
+----
+link:
+----
+bio: Fala galera, nesse bate-papo eu pretendo desmonstrar a imporância de compartilhar conteúdo e estar disponível para ajudar os outros na comunidade!
+Vamos dismistificar as falas: "Ainda não estou pronto", "Não me sinto seguro", "Acho que não tenho conteúdo suficiente" e etc.
+----
+photo: /static/img/speakers/felippedamottaraposo.jpg
 ---
 activities:
----
+#### activity ####
+name: Credenciamento
+----
+local: Auditório
+----
+time: 09:00
+#### activity ####
+name: Abertura
+----
+local: Auditório
+----
+time: 09:30
+#### activity ####
+name: Como criar extensões para o Jupyter Notebook
+----
+local: Auditório
+----
+time: 09:40
+#### activity ####
+name: Como criar extensões para o Jupyter Notebook
+----
+local: Auditório
+----
+time: 09:40
+#### activity ####
+name: Escrevendo menos código (Code Smell e Refactoring)
+----
+local: Auditório
+----
+time: 10:25
+#### activity ####
+name: Fazendo a Internet das Coisas com Python
+----
+local: Auditório
+----
+time: 11:10
+#### activity ####
+name: Almoço
+----
+local: Auditório
+----
+time: 11:55
+#### activity ####
+name: Introdução a Análise e manipulação de dados com Pandas
+----
+local: Auditório
+----
+time: 13:00
+#### activity ####
+name: Você é importante para a comunidade!
+----
+local: Auditório
+----
+time: 13:45
+#### activity ####
+name: Henrique Bastos - Dinâmica parte 1
+----
+local: Auditório
+----
+time: 14:30
+#### activity ####
+name: Coffee Break
+----
+local: Auditório
+----
+time: 16:00
+#### activity ####
+name: Henrique Bastos - Dinâmica parte 2
+----
+local: Auditório
+----
+time: 16:20
+#### activity ####
+name: Encerramento + Foto
+----
+local: Auditório
+----
+time: 17:50
+#### activity ####
+name: Hora Extra
+----
+local: em algum bar por perto
+----
+time: 18:00

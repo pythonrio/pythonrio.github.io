@@ -4,11 +4,11 @@ date: 27 de Agosto de 2016
 ---
 title: Meetup PythOnRio
 ---
-address: Local a definir
+address: Rua Santa Luzia, 651, 29º andar - Sala 2903
 ---
 city: Rio de Janeiro
 ---
-local:
+local: EloGroup
 ---
 neighborhood: Centro
 ---
@@ -16,9 +16,9 @@ description:
 
 Prezados,
 
-Dia 27 de Agosto de 2016 vai rolar XII Encontro da @pythonrio. Submeta sua proposta de palestra até dia 19/08/2016 pelo speakerfight http://speakerfight.com/events/xii-encontro-python-rio/
+Já estão abertas as inscrições pro nosso próximo encontro! Será dia 27/08 na EloGroup! Contamos com a presença de vocês para tornar este o melhor encontro de comunidade do Rio!! Além das palestras, vamos fazer as lightning talks, que são palestras rápidas inscritas no momento do evento (você pode levar a sua). Nos vemos lá!
 
-Ainda estamos definindo o local e, assim que soubermos, liberamos em nossa Fan Page os links para a inscrição.
+A comunidade Python do Rio de Janeiro tem um encontro marcado todo último sábado de cada mês. Seja no Centro ou na Barra, sinta-se convidado para comparecer e marcar presença no melhor encontro de comunidade da cidade \o//
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
@@ -30,6 +30,10 @@ Caso você queira se inteirar mais sobre a comunidade de Python, também sugerim
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
+url_callpapers: http://speakerfight.com/events/xii-encontro-python-rio/
+---
+url_applications: https://www.eventbrite.com/e/xii-encontro-pythonrio-registration-27154540963
+---
 partners:
 
 #### partner ####
@@ -38,6 +42,12 @@ name: novatec
 url: https://novatec.com.br/
 ----
 logo: /static/img/partners/novatec.png
+#### partner ####
+name: EloGroup
+----
+url: http://elogroup.com.br/
+----
+logo: /static/img/partners/logo_elogroup.png
 ---
 speakers:
 ---
