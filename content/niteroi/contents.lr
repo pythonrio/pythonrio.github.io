@@ -55,6 +55,20 @@ name: Amora Labs
 url: http://amoralabs.com/
 ----
 logo: /static/img/partners/amoralabs.jpg
+----
+#### partner ####
+name: Welcome to the Django
+----
+url: http://welcometothedjango.com.br/
+----
+logo: /static/img/partners/welcometothedjango.jpg
+----
+#### partner ####
+name: Grupo WPensar
+----
+url: http://wpensar.com.br/
+----
+logo: /static/img/partners/wpensar.jpg
 ---
 url_callpapers:
 ---
@@ -121,31 +135,17 @@ bio: E se você pudesse construir robôs com sua linguagem favorita? Nesta pales
 photo: /static/img/speakers/andregarzia.jpg
 ----
 #### speaker ####
-talk: Introdução a Análise e manipulação de dados com Pandas
+talk: Falar é fácil, me mostra o código
 ----
-name: Salgado
-----
-at:
-----
-link:
-----
-bio: Como utilizar essa poderosa ferramenta para ler diferentes bases de dados e gerar gráficos e insigths na era do Data Science.
-----
-photo: /static/img/speakers/salgado.jpg
-----
-#### speaker ####
-talk: Você é importante para a comunidade!
-----
-name: Felippe da Motta Raposo
+name: Henrique Bastos
 ----
 at:
 ----
 link:
 ----
-bio: Fala galera, nesse bate-papo eu pretendo desmonstrar a imporância de compartilhar conteúdo e estar disponível para ajudar os outros na comunidade!
-Vamos dismistificar as falas: "Ainda não estou pronto", "Não me sinto seguro", "Acho que não tenho conteúdo suficiente" e etc.
+bio:
 ----
-photo: /static/img/speakers/felippedamottaraposo.jpg
+photo: /static/img/speakers/henriquebastos.jpg
 ---
 activities:
 #### activity ####
@@ -159,27 +159,15 @@ name: Abertura
 ----
 local: Auditório
 ----
-time: 09:30
-#### activity ####
-name: Como criar extensões para o Jupyter Notebook
-----
-local: Auditório
-----
-time: 09:40
-#### activity ####
-name: Como criar extensões para o Jupyter Notebook
-----
-local: Auditório
-----
-time: 09:40
+time: 10:00
 #### activity ####
 name: Escrevendo menos código (Code Smell e Refactoring)
 ----
 local: Auditório
 ----
-time: 10:25
+time: 10:30
 #### activity ####
-name: Fazendo a Internet das Coisas com Python
+name: Como criar extensões para o Jupyter Notebook
 ----
 local: Auditório
 ----
@@ -187,27 +175,27 @@ time: 11:10
 #### activity ####
 name: Almoço
 ----
-local: Auditório
+local:
 ----
-time: 11:55
+time: 12:00
 #### activity ####
-name: Introdução a Análise e manipulação de dados com Pandas
+name: Fazendo a Internet das Coisas com Python
 ----
 local: Auditório
 ----
 time: 13:00
 #### activity ####
-name: Você é importante para a comunidade!
+name: Falar é fácil, me mostra o código
 ----
 local: Auditório
 ----
-time: 13:45
+time: 14:00
 #### activity ####
-name: Henrique Bastos - Dinâmica parte 1
+name: Tudo que você queria saber, mas não cabe em uma palestra
 ----
 local: Auditório
 ----
-time: 14:30
+time: 14:45
 #### activity ####
 name: Coffee Break
 ----
@@ -215,20 +203,20 @@ local: Auditório
 ----
 time: 16:00
 #### activity ####
-name: Henrique Bastos - Dinâmica parte 2
+name: Tudo que você queria saber, mas não cabe em uma palestra
 ----
 local: Auditório
 ----
-time: 16:20
+time: 16:30
 #### activity ####
 name: Encerramento + Foto
 ----
 local: Auditório
 ----
-time: 17:50
+time: 18:00
 #### activity ####
 name: Hora Extra
 ----
-local: em algum bar por perto
+local: Big Point
 ----
-time: 18:00
+time: 18:05
