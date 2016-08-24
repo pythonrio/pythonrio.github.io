@@ -69,6 +69,13 @@ name: Grupo WPensar
 url: http://wpensar.com.br/
 ----
 logo: /static/img/partners/wpensar.jpg
+----
+#### partner ####
+name: globo.com
+----
+url: http://globo.com/
+----
+logo: /static/img/partners/globocom.png
 ---
 url_callpapers:
 ---
