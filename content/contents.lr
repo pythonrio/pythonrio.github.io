@@ -1,14 +1,14 @@
 _model: page.ini
 ---
-date: 27 de Agosto de 2016
+date: 24 de Setembro de 2016
 ---
 title: Meetup PythOnRio
 ---
-address: Rua Santa Luzia, 651, 29º andar - Sala 2903
+address: Avenida Geneneral Justo, 375, 9º andar
 ---
 city: Rio de Janeiro
 ---
-local: EloGroup
+local: Stone Pagamentos
 ---
 neighborhood: Centro
 ---
@@ -16,7 +16,9 @@ description:
 
 Prezados,
 
-Já estão abertas as inscrições pro nosso próximo encontro! Será dia 27/08 na EloGroup! Contamos com a presença de vocês para tornar este o melhor encontro de comunidade do Rio!! Além das palestras, vamos fazer as lightning talks, que são palestras rápidas inscritas no momento do evento (você pode levar a sua). Nos vemos lá!
+Dia 24 de Setembro de 2016 vai rolar XIII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida Geneneral Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130.
+
+Submeta sua proposta de palestra até dia 17/09/2016 pelo speakerfight http://speakerfight.com/events/xiii-encontro-python-rio/
 
 A comunidade Python do Rio de Janeiro tem um encontro marcado todo último sábado de cada mês. Seja no Centro ou na Barra, sinta-se convidado para comparecer e marcar presença no melhor encontro de comunidade da cidade \o//
 
@@ -30,123 +32,75 @@ Caso você queira se inteirar mais sobre a comunidade de Python, também sugerim
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_callpapers:
+url_callpapers: http://speakerfight.com/events/xiii-encontro-python-rio/
 ---
-url_applications: https://www.eventbrite.com/e/xii-encontro-pythonrio-registration-27154540963
+url_applications:
 ---
 partners:
 
 #### partner ####
-name: novatec
+name: Stone Pagamentos
 ----
-url: https://novatec.com.br/
+url: http://www.stone.com.br/
 ----
-logo: /static/img/partners/novatec.png
-#### partner ####
-name: EloGroup
-----
-url: http://elogroup.com.br/
-----
-logo: /static/img/partners/logo_elogroup.png
+logo: /static/img/partners/stonepagamentos.png
 ---
 speakers:
-
-#### speaker ####
-talk: Performance Analysis 101
-----
-name: Tarsis Azevedo
-----
-at:
-----
-link:
-----
-bio: O que aprendemos na faculdade sobre performance não é suficiente para cobrir as necessidades de um software de alta performance, pois otimizações de algoritmos e codigo não fazem, necessariamente, seu programa eficiente e rapido.
-
-Nessa palestra apresentarei ferramentas para analise de performance de programas python, para testes de carga e tambem cobrirei a analise depois que sua aplicação está em produção. Tambem mostrarei tecnicas sobre como chegar ao problema raiz mais rapido e como montar uma infraestrutura de metricas.
-
-*O escopo da palestra será aplicações web com python, rodando num ambiente linux. 
-----
-photo: /static/img/speakers/tarsisazevedo.png
-----
-#### speaker ####
-talk: Django e WebComponents
-----
-name: Rômulo Collopy
-----
-at:
-----
-link:
-----
-bio: O objetivo é fazer uma convera explorano algumas experiências que com Django e Webcomponents, levando em conta:
-
-- Ecma Script 6 e Babel vs ES5;
-
-- separação entre templates django e Javascript;
-
-- gerenciamento de arquivos estáticos com Django pipeline vs Webpack;
-
-- reuso de webcomponents.
-----
-photo: /static/img/speakers/romulocollopy.jpg
-----
-#### speaker ####
-talk: Introdução ao Domain Driven Design com Django
-----
-name: Luciano Ratamero
-----
-at:
-----
-link:
-----
-bio: Se seu código legado tá ficando tenso, se você quer um código mais modular ou simplesmente quer começar a testar seu back e front de uma maneira mais simples, seja bem-vindo ao Domain Driven Design!
-
-Nessa talk, pretendo passar por alto sobre formas de melhorar seu código Django, tanto no backend quanto no frontend, usando alguns conceitos básicos do DDD.
-Lidaremos com desacoplamento de código, com a assinalagem de papéis para cada parte do código, com o planejamento de novas features e com alguns macetes pra fazer com que seu projeto seja mais fácil de escalar e de manter. =)
-----
-photo: /static/img/speakers/lucianoratamero.jpg
 ---
 activities:
 
 #### activity ####
-name: Open Space
+name: Credenciamento
 ----
-local: Sala principal
+local: Auditório
+----
+time: 13:30
+#### activity ####
+name: Abertura
+----
+local: Auditório
+----
+time: 13:45
+#### activity ####
+name: Palestra 1
+----
+local: Auditório
 ----
 time: 14:00
 #### activity ####
-name: Performance Analysis 101 
+name: Palestra 2
 ----
-local: Sala principal
+local: Auditório
 ----
-time: 14:30
+time: 14:45
 #### activity ####
 name: Lightning talks
 ----
-local: Sala principal
+local: Auditório
 ----
 time: 15:30
 #### activity ####
 name: Coffee Break
 ----
-local: Sala principal
+local: Auditório
 ----
 time: 16:00
 #### activity ####
-name: Django e WebComponents
+name: Palestra 3
 ----
-local: Sala principal
+local: Auditório
 ----
 time: 16:20
 #### activity ####
-name: Introdução ao Domain Driven Design com Django
+name: Palestra 4
 ----
-local: Sala principal
+local: Auditório
 ----
 time: 17:05
 #### activity ####
 name: Encerramento + Foto
 ----
-local: Sala principal
+local: Auditório
 ----
 time: 17:50
 #### activity ####
