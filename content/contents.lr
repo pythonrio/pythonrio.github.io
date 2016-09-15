@@ -4,7 +4,7 @@ date: 24 de Setembro de 2016
 ---
 title: Meetup PythOnRio
 ---
-address: Avenida Geneneral Justo, 375, 9º andar
+address: Avenida General Justo, 375, 9º andar
 ---
 city: Rio de Janeiro
 ---
@@ -16,7 +16,7 @@ description:
 
 Prezados,
 
-Dia 24 de Setembro de 2016 vai rolar XIII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida Geneneral Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130.
+Dia 24 de Setembro de 2016 vai rolar XIII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida General Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130.
 
 Submeta sua proposta de palestra até dia 17/09/2016 pelo speakerfight http://speakerfight.com/events/xiii-encontro-python-rio/
 
@@ -34,7 +34,7 @@ Caso você queira se inteirar mais sobre a comunidade de Python, também sugerim
 ---
 url_callpapers: http://speakerfight.com/events/xiii-encontro-python-rio/
 ---
-url_applications:
+url_applications: https://www.eventbrite.com/e/xiii-encontro-pythonrio-tickets-27758865514
 ---
 partners:
 
@@ -60,7 +60,7 @@ name: Abertura
 ----
 local: Auditório
 ----
-time: 13:45
+time: 13:55
 #### activity ####
 name: Palestra 1
 ----
