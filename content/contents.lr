@@ -18,8 +18,6 @@ Prezados,
 
 Dia 24 de Setembro de 2016 vai rolar XIII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida General Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130.
 
-Submeta sua proposta de palestra até dia 17/09/2016 pelo speakerfight http://speakerfight.com/events/xiii-encontro-python-rio/
-
 A comunidade Python do Rio de Janeiro tem um encontro marcado todo último sábado de cada mês. Seja no Centro ou na Barra, sinta-se convidado para comparecer e marcar presença no melhor encontro de comunidade da cidade \o//
 
 Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
@@ -32,7 +30,7 @@ Caso você queira se inteirar mais sobre a comunidade de Python, também sugerim
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_callpapers: http://speakerfight.com/events/xiii-encontro-python-rio/
+url_callpapers:
 ---
 url_applications: https://www.eventbrite.com/e/xiii-encontro-pythonrio-tickets-27758865514
 ---
@@ -46,6 +44,36 @@ url: http://www.stone.com.br/
 logo: /static/img/partners/stonepagamentos.png
 ---
 speakers:
+
+#### speaker ####
+talk: Desenvolvendo APIs com Falcon
+----
+name: Bianca Rosa
+----
+at:
+----
+link:
+----
+bio: Falcon é um framework minimalista (menor que Flask!) usado principalmente para desenvolver aplicações web com Python.
+
+Nessa palestra pretendo dar uma introdução ao framework e mostrar exemplos práticos de como desenvolver, organizar e testar uma API em Falcon.
+----
+photo: /static/img/speakers/biancarosa.jpg
+----
+#### speaker ####
+talk: Encoding 101: unicode, encode vs decode, iso-8859-1 e toda essa espécie de coisas
+----
+name: Elias Tandel Barrionovo
+----
+at:
+----
+link:
+----
+bio: Mais cedo ou mais tarde a gente acaba esbarrando num problema de encoding: caracteres que somem, caracteres errados, UnicodeEncodeError, etc.
+
+Nessa palestra vou apresentar o que é encoding, como isso é tratado em python 2 vs python 3, alguns problemas comuns e como resolvê-los.
+----
+photo: /static/img/speakers/eliastandelbarrionovo.jpg
 ---
 activities:
 
@@ -62,13 +90,13 @@ local: Auditório
 ----
 time: 13:55
 #### activity ####
-name: Palestra 1
+name: Desenvolvendo APIs com Falcon
 ----
 local: Auditório
 ----
 time: 14:00
 #### activity ####
-name: Palestra 2
+name: Encoding 101: unicode, encode vs decode, iso-8859-1 e toda essa espécie de coisas
 ----
 local: Auditório
 ----
