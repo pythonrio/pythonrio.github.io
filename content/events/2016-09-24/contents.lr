@@ -1,0 +1,165 @@
+_model: page.ini
+---
+date: 24 de Setembro de 2016
+---
+title: Meetup PythOnRio
+---
+address: Avenida General Justo, 375, 9º andar
+---
+city: Rio de Janeiro
+---
+local: Stone Pagamentos
+---
+neighborhood: Centro
+---
+description:
+
+Prezados,
+
+Dia 24 de Setembro de 2016 vai rolar XIII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida General Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130.
+
+A comunidade Python do Rio de Janeiro tem um encontro marcado todo último sábado de cada mês. Seja no Centro ou na Barra, sinta-se convidado para comparecer e marcar presença no melhor encontro de comunidade da cidade \o//
+
+Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
+
+[+ Facebook](https://www.facebook.com/pythonrio)
+&nbsp; &nbsp;
+[+ Twitter](https://www.twitter.com/pythonrio)
+&nbsp; &nbsp;
+[+ Telegram](https://telegram.me/joinchat/AONs_ANlfCZRoXOX0QxEzA)
+&nbsp; &nbsp;
+[+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
+---
+url_callpapers:
+---
+url_applications: https://www.eventbrite.com/e/xiii-encontro-pythonrio-tickets-27758865514
+---
+partners:
+
+#### partner ####
+name: Stone Pagamentos
+----
+url: http://www.stone.com.br/
+----
+logo: /static/img/partners/stonepagamentos.png
+---
+speakers:
+
+#### speaker ####
+talk: Desenvolvendo APIs com Falcon
+----
+name: Bianca Rosa
+----
+at:
+----
+link:
+----
+bio: Falcon é um framework minimalista (menor que Flask!) usado principalmente para desenvolver aplicações web com Python.
+
+Nessa palestra pretendo dar uma introdução ao framework e mostrar exemplos práticos de como desenvolver, organizar e testar uma API em Falcon.
+----
+photo: /static/img/speakers/biancarosa.jpg
+----
+#### speaker ####
+talk: Encoding 101: unicode, encode vs decode, iso-8859-1 e toda essa espécie de coisas
+----
+name: Elias Tandel Barrionovo
+----
+at:
+----
+link:
+----
+bio: Mais cedo ou mais tarde a gente acaba esbarrando num problema de encoding: caracteres que somem, caracteres errados, UnicodeEncodeError, etc.
+
+Nessa palestra vou apresentar o que é encoding, como isso é tratado em python 2 vs python 3, alguns problemas comuns e como resolvê-los.
+----
+photo: /static/img/speakers/eliastandelbarrionovo.jpg
+----
+#### speaker ####
+talk: Construindo a Internet das Coisas com MicroPython
+----
+name: Andre Alves Garzia / Amora Labs
+----
+at:
+----
+link:
+----
+bio: E se você pudesse construir robôs com sua linguagem favorita? Nesta palestra vamos apresentar uma forma barata e divertida de aprender sobre a Internet das Coisas utilizando MicroPython e a placa NodeMCU. Juntos vamos explorar um pouco sobre o que é IoT e por que o momento para aprender sobre essas tecnologias é agora. O mundo da computação física e do movimento maker está ao alcance de todos nós. Com um pouco de esforço e muita criatividade podemos construir coisas incríveis que interagem com o mundo real, então, o que você quer construir hoje?
+----
+photo: /static/img/speakers/andregarzia.jpg
+----
+#### speaker ####
+talk: Boas práticas de código Python
+----
+name: Andre Fonseca
+----
+at:
+----
+link:
+----
+bio: Apresentar um resumo de algumas  boas práticas na  hora de escrever código python e dicas de perfomance de codigo e possiveis problemas e melhores abordagens
+----
+photo: /static/img/speakers/andrefonseca.jpg
+---
+activities:
+
+#### activity ####
+name: Credenciamento
+----
+local: Auditório
+----
+time: 13:30
+#### activity ####
+name: Abertura
+----
+local: Auditório
+----
+time: 13:55
+#### activity ####
+name: Desenvolvendo APIs com Falcon
+----
+local: Auditório
+----
+time: 14:00
+#### activity ####
+name: Encoding 101: unicode, encode vs decode, iso-8859-1 e toda essa espécie de coisas
+----
+local: Auditório
+----
+time: 14:45
+#### activity ####
+name: Lightning talks
+----
+local: Auditório
+----
+time: 15:30
+#### activity ####
+name: Coffee Break
+----
+local: Auditório
+----
+time: 16:00
+#### activity ####
+name: Construindo a Internet das Coisas com MicroPython
+----
+local: Auditório
+----
+time: 16:20
+#### activity ####
+name: Boas práticas de código Python
+----
+local: Auditório
+----
+time: 17:05
+#### activity ####
+name: Encerramento + Foto
+----
+local: Auditório
+----
+time: 17:50
+#### activity ####
+name: Pós-evento
+----
+local: No bar mais próximo, vamos trocar ideias e beber um chopp.
+----
+time: 18:00
