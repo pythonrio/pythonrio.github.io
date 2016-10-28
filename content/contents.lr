@@ -159,13 +159,13 @@ local: Auditório
 ----
 time: 13:55
 #### activity ####
-name: Palestra 1
+name: Kivy: o que você precisa saber
 ----
 local: Auditório
 ----
 time: 14:00
 #### activity ####
-name: Palestra 2
+name: Padrões e anti padrões de estabilidade
 ----
 local: Auditório
 ----
@@ -183,13 +183,13 @@ local: Auditório
 ----
 time: 16:00
 #### activity ####
-name: Palestra 3
+name: Descomplicando os mocks
 ----
 local: Auditório
 ----
 time: 16:20
 #### activity ####
-name: Palestra 4
+name: Resumão da PythonBrasil[12]
 ----
 local: Auditório
 ----
