@@ -1,0 +1,208 @@
+_model: page.ini
+---
+date: 29 de Outubro de 2016
+---
+title: Mega Meetup PythOnRio
+---
+address: Av. Presidente Vargas, 2560
+---
+city: Rio de Janeiro
+---
+local: Estácio - Praça XI
+---
+neighborhood: Centro
+---
+description:
+
+Prezados,
+
+Dia 29 de Outubro de 2016 vai rolar XIV Encontro da @pythonrio na Estácio - Praça XI das 14:00hs até às 18:00hs, Av. Presidente Vargas, 2560 - Centro, Rio de Janeiro - RJ.
+
+Neste econtro vamos trazer as novidades da Python Brasil 2016!!! Faça a sua inscrição pelo link https://www.eventbrite.com/e/xiv-encontro-python-rio-tickets-28531389153
+
+Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
+
+[+ Facebook](https://www.facebook.com/pythonrio)
+&nbsp; &nbsp;
+[+ Twitter](https://www.twitter.com/pythonrio)
+&nbsp; &nbsp;
+[+ Telegram](https://telegram.me/PythonRio)
+&nbsp; &nbsp;
+[+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
+---
+url_callpapers: http://speakerfight.com/events/mega-meetup-pythonrio/
+---
+url_applications: https://www.eventbrite.com/e/xiv-encontro-python-rio-tickets-28531389153
+---
+partners:
+
+#### partner ####
+name: Estácio - Praça XI
+----
+url: http://portal.estacio.br/
+----
+logo: /static/img/partners/estacio.png
+---
+speakers:
+
+#### speaker ####
+talk: Descomplicando os mocks
+----
+name: Douglas Bastos
+----
+at:
+----
+link:
+----
+bio: Testar unitariamente é fácil, mas quando temos uma dependência externa no nosso código, a implementação do teste acaba demorando quando não sabemos usar direito os "paranauês" do mock. 
+
+Nessa palestra vou mostrar na prática as diversas maneiras de mockar objetos e isolar seu código testável de dependência externas como APIs e bancos de dados.
+----
+photo: /static/img/speakers/douglasbastos.jpg
+----
+#### speaker ####
+talk: Padrões e anti padrões de estabilidade
+----
+name: Andre Fonseca
+----
+at:
+----
+link:
+----
+bio: A grande maioria dos desenvolvedores tem a preocupação em implementar todas as funcionalidades dentro das especificações que o cliente fez.  Também buscamos entregar software sem bugs e fácil de dar manutenção (evoluir). Para isso nos utilizamos de recursos como testes automatizados,  técnicas de TDD e BDD, etc. 
+
+
+A questão é que sistemas não só precisam entregar o que se pede mas também se preocupar em ser resilientes a falhas,  quebras e erro.
+
+
+A idéia dessa palestra é mostrar alguns padrões de projeto que nos levam a ter sistemas mais prontos para produção; situações que devem ser evitadas e casos de estudos para aprendermos com os erros do autor.
+----
+photo: /static/img/speakers/andrefonseca.jpg
+----
+#### speaker ####
+talk: Kivy: o que você precisa saber
+----
+name: Diego Guimarães
+----
+at:
+----
+link:
+----
+bio: Kivy é um framework multiplataforma que permite fazer aplicações em Python com interfaces inovadoras para Linux, Windows, OS X, Android e iOS.
+
+
+E é um dos projetos em Python mais legais que tem. Só que ainda é muito pouco utilizado.
+
+
+O objetivo dessa palestra é apresentar o Kivy, mostrar o que é possível fazer com ele e indicar o caminho pros primeiros passos.
+
+
+Algumas perguntas que serão respondidas:
+
+
+-- Funciona mesmo no celular? A performance é decente? Não fica feio?
+
+
+-- Consigo acessar os recursos do celular?
+
+
+-- Tem algum projeto em produção pra gente ver? (O povo usa mesmo?)
+
+
+-- Exemplos! Cadê exemplos de projetos livres usando Kivy pra eu aprender?
+
+
+Algumas observações, que nunca me perguntaram, e por isso mesmo que vou falar:
+
+
+-- Kivy *NÃO* e só pra celular! (vc não precisa usar gtk ou qt pra botar uma interface visual no seu programa que roda no computador)
+
+
+-- A Kv Lang (linguagem de marcação do Kivy, usada para criar as interfaces) é muito boa
+
+
+-- Aprenda a Kv Lang e use o Kivy para fazer mockup da interface das suas aplicações
+----
+photo: /static/img/speakers/diegoguimaraes.png
+----
+#### speaker ####
+talk: Resumão da PythonBrasil[12]
+----
+name: Bianca Rosa
+----
+at:
+----
+link:
+----
+bio: Fala galera :)
+
+
+A idéia é trazer a minha percepção da última PythonBrasil pra galera que não pôde estar lá. Quero dividir com vocês algumas coisas de palestras que assisti, algumas que não assisti mas também foram interessantes, além de uma série de informações legais sobre a última PythonBrasil :)
+
+
+Vamos falar de um monte de coisas, tecnologias e não pretendo substituir as palestras originais, apenas referenciá-las e explicar um pouco do que rolou por lá.
+----
+photo: /static/img/speakers/biancarosa.jpg
+---
+activities:
+
+#### activity ####
+name: Credenciamento
+----
+local: Auditório
+----
+time: 13:30
+#### activity ####
+name: Abertura
+----
+local: Auditório
+----
+time: 13:55
+#### activity ####
+name: Kivy: o que você precisa saber
+----
+local: Auditório
+----
+time: 14:00
+#### activity ####
+name: Padrões e anti padrões de estabilidade
+----
+local: Auditório
+----
+time: 14:45
+#### activity ####
+name: Lightning talks
+----
+local: Auditório
+----
+time: 15:30
+#### activity ####
+name: Coffee Break
+----
+local: Auditório
+----
+time: 16:00
+#### activity ####
+name: Descomplicando os mocks
+----
+local: Auditório
+----
+time: 16:20
+#### activity ####
+name: Resumão da PythonBrasil[12]
+----
+local: Auditório
+----
+time: 17:05
+#### activity ####
+name: Encerramento + Foto
+----
+local: Auditório
+----
+time: 17:50
+#### activity ####
+name: Pós-evento
+----
+local: No bar mais próximo, vamos trocar ideias e beber um chopp.
+----
+time: 18:00
