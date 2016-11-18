@@ -1,103 +1,37 @@
-_model: page.ini
----
-date: 10 de Dezembro de 2016
+_model: home
 ---
 title: Meetup PythOnRio
 ---
-address:
----
-city: Rio de Janeiro
----
-local: Local a definir
----
-neighborhood: Centro
----
-description:
+event_schedule:
 
-Prezados,
+#### event_schedule ####
+day: 10
+----
+month: Dez
+----
+year: 2016
+----
+category: Encontro
+----
+name: Meetup PythOnRio
+----
+description: A comunidade Python do Rio de Janeiro tem um encontro marcado todo último sábado de cada mês.
+----
+url: http://pythonrio.python.org.br/evento/
 
-
-Dia 10 de Dezembro de 2016 vai rolar XV Encontro da @pythonrio. Submeta sua proposta de palestra até dia 01/12/2016 pelo speakerfight http://speakerfight.com/events/xv-encontro-python-rio/
-
-Ainda estamos definindo o local e, assim que soubermos, liberamos em nossa Fan Page os links para a inscrição.
-
-Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
-
-[+ Facebook](https://www.facebook.com/pythonrio)
-&nbsp; &nbsp;
-[+ Twitter](https://www.twitter.com/pythonrio)
-&nbsp; &nbsp;
-[+ Telegram](https://telegram.me/PythonRio)
-&nbsp; &nbsp;
-[+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
----
-url_callpapers: http://speakerfight.com/events/xv-encontro-python-rio/
----
-url_applications:
----
-partners:
----
-speakers:
----
-activities:
-
-#### activity ####
-name: Credenciamento
+#### event_schedule ####
+day: 6 e 7
 ----
-local: Auditório
+month: Mai
 ----
-time: 13:30
-#### activity ####
-name: Abertura
+position_inverted: 1
 ----
-local: Auditório
+year: 2017
 ----
-time: 13:55
-#### activity ####
-name: Palestra 1
+category: Evento
 ----
-local: Auditório
+name: Python Sudeste
 ----
-time: 14:00
-#### activity ####
-name: Palestra 2
+description: A Python Sudeste é uma conferência sem fins lucrativos realizada por voluntários visando promover a linguagem de programação de código aberto Python. É apoiada pela Associação Python Brasil (APyB) e pelo Python Software Foundation (PSF).
 ----
-local: Auditório
-----
-time: 14:45
-#### activity ####
-name: Lightning talks
-----
-local: Auditório
-----
-time: 15:30
-#### activity ####
-name: Coffee Break
-----
-local: Auditório
-----
-time: 16:00
-#### activity ####
-name: Palestra 3
-----
-local: Auditório
-----
-time: 16:20
-#### activity ####
-name: Palestra 4
-----
-local: Auditório
-----
-time: 17:05
-#### activity ####
-name: Encerramento + Foto
-----
-local: Auditório
-----
-time: 17:50
-#### activity ####
-name: Pós-evento
-----
-local: No bar mais próximo, vamos trocar ideias e beber um chopp.
-----
-time: 18:00
+url: http://pythonsudeste.org/

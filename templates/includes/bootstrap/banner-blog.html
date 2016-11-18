@@ -1,0 +1,29 @@
+<header class="header-blog">
+    <div class="wrapper">
+        <img src="{{ '/static/img/pythonrio.png'|url }}" />
+        <h2 class="logo-blog">
+                <a class="logo-link" href="#">
+                	{% if this.title %}
+                		{{ this.title }}
+                	{% else %}
+                		 Blog
+					{% endif %}
+                </a>
+        </h2>
+        {% if this.title %}
+        <h4 class="tagline-blog">
+                escrito por
+    			{% if this.twitter_handle %}
+      				<a href="https://twitter.com/{{ post.twitter_handle}}">{{ this.author or this.twitter_handle }}</a>
+    			{% else %}
+      				{{ this.author }}
+    			{% endif %}
+    			em {{ this.pub_date }}
+    	</h4>
+    	{% endif %}
+        
+        
+    </div>
+</header>
+
+<hr>

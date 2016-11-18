@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ this.title }}{% endblock %}
+
+{% block page_header %}
+    {% include 'includes/banner.html' %}
+{% endblock %}
+
+{% block content %}
+<div class="content" id="content">
+    <div class="wrapper">
+
+        {% include 'includes/sections/about.html' %}
+        {% include 'includes/sections/location.html' %}
+        {% include 'includes/sections/workshops.html' %}
+        {% include 'includes/sections/speakers.html' %}
+        {% include 'includes/sections/activities.html' %}
+        {% include 'includes/sections/partners.html' %}
+
+    </div>
+</div>
+{% endblock %}
