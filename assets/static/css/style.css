@@ -98,12 +98,6 @@ hr {
 #menu.navbar-default .navbar-nav > li > a:hover {
     color: #1C3B56;
 }
-#menu.navbar-default .navbar-header .pyrj-img-brand{
-	width:150px;
-}
-    #menu.navbar-default.on  .navbar-header .pyrj-img-brand{
-    	width: 85px;
-    }
 
 #menu.navbar-default.on {
 	background-color: #FFFFFF !important;
@@ -445,6 +439,13 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #1C3B56;
 }
 
+#menu.navbar-default .navbar-header .pyrj-img-brand{
+	width:150px;
+}
+    #menu.navbar-default.on  .navbar-header .pyrj-img-brand{
+    	width: 85px;
+    }
+
 @media (max-width: 768px) {
 .content {
 	padding: 40% 0 0;
@@ -452,9 +453,15 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 
 @media (max-width: 603px) {
-#menu.navbar-default {
-	background-color: rgba(0, 0, 0, 0.7);
+
+#menu.navbar-default .navbar-header .pyrj-img-brand {
+    width: 85px;
 }
+
+#menu.navbar-default {
+	background-color: #FFFFFF;
+}
+
 label {
 	float: none !important
 }
