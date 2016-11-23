@@ -1,0 +1,229 @@
+_model: event
+---
+date: 20 de Agosto de 2016
+---
+title: PythonRio Niterói
+---
+bodyclass: py-niteroi
+---
+website: /niteroi/
+---
+address: Rua Gastão Gonçalves, 79, Auditório 3o andar
+---
+city: Niterói
+---
+local: Unilasalle Rio de Janeiro
+---
+neighborhood: Santa Rosa
+---
+description:
+
+Aeer \o/
+
+Já estão abertas as inscrições pro nosso próximo encontro! Será dia 20 de Agosto de 2016 vai rolar o I Encontro da @pythonrio em Niterói na Unilasalle Rio de Janeiro das 10:00hs até às 18:00hs, Rua Gastão Gonçalves, 79, Auditório 3o andar, Bairro Santa Rosa - Niterói - RJ - CEP: 24240-030. Contamos com a presença de vocês para tornar este o melhor encontro de comunidade do Rio!!
+Nos vemos lá!
+
+Seja no Centro ou na Barra, sinta-se convidado para comparecer e marcar presença no melhor encontro de comunidade da cidade \o//
+
+[+ Facebook](https://www.facebook.com/pythonrio)
+&nbsp; &nbsp;
+[+ Twitter](https://www.twitter.com/pythonrio)
+&nbsp; &nbsp;
+[+ Telegram](https://telegram.me/PythonRio)
+&nbsp; &nbsp;
+[+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
+---
+partners:
+
+#### partner ####
+name: Unilasalle Rio de Janeiro
+----
+url: http://unilasalle.edu.br/rj/
+----
+logo: /static/img/partners/unilassale.png
+----
+#### partner ####
+name: Gráfica Rosa
+----
+url: /niteroi/#partners
+----
+logo: /static/img/partners/graficarosa.jpg
+----
+#### partner ####
+name: Amora Labs
+----
+url: http://amoralabs.com/
+----
+logo: /static/img/partners/amoralabs.jpg
+----
+#### partner ####
+name: Welcome to the Django
+----
+url: http://welcometothedjango.com.br/
+----
+logo: /static/img/partners/welcometothedjango.jpg
+----
+#### partner ####
+name: Grupo WPensar
+----
+url: http://wpensar.com.br/
+----
+logo: /static/img/partners/wpensar.jpg
+----
+#### partner ####
+name: globo.com
+----
+url: http://globo.com/
+----
+logo: /static/img/partners/globocom.png
+---
+url_callpapers:
+---
+url_applications: https://www.eventbrite.com/e/i-pythonrio-niteroi-tickets-27030358530
+---
+speakers:
+#### speaker ####
+talk: Como criar extensões para o Jupyter Notebook
+----
+name: João Felipe Nicolaci Pimentel
+----
+at:
+----
+link:
+----
+bio: Jupyter Notebook é uma aplicação que permite criar documentos com códigos interativos, visualizações e markdowns explicativos.
+Devido a sua facilidade e capacidade de visualização de resultados, o Jupyter tem sido utilizado em desenvolvimento explorativo, prototipagem, ensino, processamento de dados, simulações numéricas, etc.
+No processo comum de criação de notebooks, muitas pessoas restringem seus códigos a apenas Python e visualizações fornecidas por bibliotecas como matplotlib ou visualizações textuais padrões.
+Entretanto, o Jupyter permite muito mais do que isso por meio de extensões e métodos especiais de visualização.
+Nesta apresentação, pretendo explicar:
+
+Como definir métodos de exibição para visualizações customizadas e opções customizadas de auto-completar
+
+Como criar extensões IPython com line magics e cell magics
+
+Como criar extensões para o cliente Jupyter com alterações no Javascript
+----
+photo: /static/img/speakers/joaofelipenicolacipimentel.jpg
+----
+#### speaker ####
+talk: Escrevendo menos código (Code Smell e Refactoring)
+----
+name: Mauro Murari
+----
+at:
+----
+link:
+----
+bio: Quem nunca pegou aquele projeto bacana, que:
+
+* Não tem testes
+
+* Não tem doc
+
+* Está tudo em um arquivo (main.py)
+
+* Passa um dicionário como parâmetro em todas as funções
+
+* Não existe classe
+----
+photo: /static/img/speakers/mauromurari.jpg
+----
+#### speaker ####
+talk: Fazendo a Internet das Coisas com Python
+----
+name: Andre Garzia
+----
+at:
+----
+link:
+----
+bio: E se você pudesse construir robôs com sua linguagem favorita? Nesta palestra vamos apresentar uma forma barata e divertida de aprender sobre a Internet das Coisas utilizando MicroPython e a placa NodeMCU. Juntos vamos explorar um pouco sobre o que é IoT e por que o momento para aprender sobre essas tecnologias é agora. O mundo da computação física e do movimento maker está ao alcance de todos nós. Com um pouco de esforço e muita criatividade podemos construir coisas incríveis que interagem com o mundo real, então, o que você quer construir hoje?
+----
+photo: /static/img/speakers/andregarzia.jpg
+----
+#### speaker ####
+talk: Falar é fácil, me mostra o código
+----
+name: Henrique Bastos
+----
+at:
+----
+link:
+----
+bio:
+----
+photo: /static/img/speakers/henriquebastos.jpg
+---
+activities:
+#### activity ####
+name: Credenciamento
+----
+local: Auditório
+----
+time: 09:00
+#### activity ####
+name: Abertura
+----
+local: Auditório
+----
+time: 10:00
+#### activity ####
+name: Escrevendo menos código (Code Smell e Refactoring)
+----
+local: Auditório
+----
+time: 10:30
+#### activity ####
+name: Como criar extensões para o Jupyter Notebook
+----
+local: Auditório
+----
+time: 11:10
+#### activity ####
+name: Almoço
+----
+local:
+----
+time: 12:00
+#### activity ####
+name: Fazendo a Internet das Coisas com Python
+----
+local: Auditório
+----
+time: 13:00
+#### activity ####
+name: Falar é fácil, me mostra o código
+----
+local: Auditório
+----
+time: 14:00
+#### activity ####
+name: Tudo que você queria saber, mas não cabe em uma palestra
+----
+local: Auditório
+----
+time: 14:45
+#### activity ####
+name: Coffee Break
+----
+local: Auditório
+----
+time: 16:00
+#### activity ####
+name: Tudo que você queria saber, mas não cabe em uma palestra
+----
+local: Auditório
+----
+time: 16:30
+#### activity ####
+name: Encerramento + Foto
+----
+local: Auditório
+----
+time: 18:00
+#### activity ####
+name: Hora Extra
+----
+local: Big Point
+----
+time: 18:05

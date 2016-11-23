@@ -1,0 +1,30 @@
+{% if this.event_schedule %}
+<div class="pyrj-schedule text-center">
+    <div class="row">
+        <div class="col-lg-12">
+            <ul class="timeline">
+                {% for event in this.event_schedule.blocks %}
+                <li{% if event.position_inverted %} class="timeline-inverted"{% endif %}>
+                    <div class="timeline-image">
+                        <h4>Dia {{ event.day }} <br/> {{ event.month }} {{ event.year }} </h4>
+                    </div>
+                    <div class="timeline-panel">
+                        <a href="{{ event.url }}">
+                            <div class="timeline-heading">
+                                <h4>{{ event.category }}</h4>
+                                <h4 class="subheading">{{ event.name }}</h4>
+                            </div>
+                            <div class="timeline-body">
+                                <p>{{ event.description }}</p>
+                            </div>
+                        </a>
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% else %}
+<p>Não existe nenhum evento agendado.</p>
+{% endif %}

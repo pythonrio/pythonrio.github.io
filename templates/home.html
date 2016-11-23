@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block page_header %}
+    {% include 'includes/bootstrap/banner.html' %}
+{% endblock %}
+{% block content %}
+<div id="sobre-sessao">
+  <div class="container">
+    <div class="section-title">
+      <h2>Sobre</h2>
+      <hr>
+    </div>
+    <div class="space"></div>
+    <div class="row">
+      <div class="col-md-4">
+        <h4>Quem Somos</h4>
+        <p>PythonRio é uma comunidade de usuários da linguagem e do ecossistema Python no Estado do Rio de Janeiro. Somos uma comunidade aberta e acolhemos tanto iniciantes quanto hackers do interpretador CPython. :)</p>
+      </div>
+      <div class="col-md-4">
+        <h4>O que fazemos</h4>
+        <p>Realizamos encontros e eventos de Python em todo grande Rio. Colaboramos com projetos open source, criamos ferramentas, módulos e aplicações com código aberto. Quer saber mais, de uma olhada no <a href="https://stackcarioca.github.io/">Stack Carioca</a>.</p>
+      </div>
+      <div class="col-md-4">
+        <h4>Entenda a PythonRio</h4>
+        <p>Um grupo de pessoas unidas não apenas por uma linguagem, mas por valores. Leia o este artigo <a href="http://softwarelivre.org/fisl17/noticias/pythonrio-como-renasce-uma-comunidade">PythonRio: como renasce uma comunidade </a> e veja as <a href="https://www.youtube.com/playlist?list=PLQVoAioi-pMxr3Aai_l-4aM-wh24u9Jwp">entrevistas</a> para entender melhor como surgimos e porque somos apaixonados por Python.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="projetos-sessao">
+  <div class="container">
+    <div class="section-title">
+      <h2>O que estamos fazendo?</h2>
+      <hr>
+    </div>
+    <div class="space"></div>
+    <div class="row">
+      <div class="col-md-3 col-sm-6 service"> <i class="fa fa-github"></i>
+        <h4>Github</h4>
+        <p>Acesse o nosso <a href="https://github.com/pythonrio">github</a> e ajude a contribuir com projetos da nossa comunidade.</p>
+      </div>
+      <div class="col-md-3 col-sm-6 service"> <i class="fa fa-file-text-o"></i>
+        <h4>Blog</h4>
+        <p>Nosso blog é colaborativo e usamos o <a href="https://www.getlektor.com/">lektor</a> como gerador de site estático. Confira nossos <a href="/blog">posts</a> e contribua também pelo github.</p>
+      </div>
+      <div class="col-md-3 col-sm-6 service"> <i class="fa  fa-youtube-play"></i>
+        <h4>Youtube</h4>
+        <p>Nosso canal no youtube sobre meetups, entrevistas e videos da comunidade. <a href="https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ/feed">Acesse por aqui.</a></p>
+      </div>
+      <div class="col-md-3 col-sm-6 service"> <i class="fa fa-angellist"></i>
+        <h4>Eventos</h4>
+        <p>Buscamos realizar encontros e eventos em todo estado do Rio de Janeiro. Se na sua cidade ainda não rolou, que tal levantar esta bandeira?</p>
+      </div>
+    </div>
+    <div class="space"></div>
+    <div class="row">
+        <div class="col-md-3 col-sm-6 service"> <i class="fa fa-gears"></i>
+          <h4>Stack Carioca</h4>
+          <p><a href="https://stackcarioca.github.io/">Stack carioca</a> é um projeto para listar ferramentas, módulos e aplicações com código aberto feitas por pessoas da comunidade Python do Rio de Janeiro.</p>
+        </div>
+    </div>
+  </div>
+</div>
+<div id="agenda-sessao">
+  <div class="container">
+    <div class="section-title">
+      <h2>Agenda</h2>
+      <hr>
+    </div>
+    <div class="space"></div>
+    {% include 'includes/bootstrap/event_schedule.html' %}
+  </div>
+</div>
+{% endblock %}
