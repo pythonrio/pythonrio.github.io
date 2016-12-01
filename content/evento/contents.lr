@@ -45,6 +45,15 @@ name: Infnet
 url: http://www.infnet.edu.br/infnet/
 ----
 logo: /static/img/partners/infnet.jpg
+----
+
+#### partner ####
+name: Casa Do Código
+----
+url: https://www.casadocodigo.com.br/
+----
+logo: /static/img/partners/casa-do-codigo.png
+
 ---
 url_callpapers:
 ---
