@@ -54,6 +54,13 @@ url: https://www.casadocodigo.com.br/
 ----
 logo: /static/img/partners/casa-do-codigo.png
 
+#### partner ####
+name: Novatec
+----
+url: http://novatec.com.br/
+----
+logo: /static/img/partners/novatec.png
+
 ---
 url_callpapers:
 ---
