@@ -52,15 +52,130 @@ name: Casa Do Código
 url: https://www.casadocodigo.com.br/
 ----
 logo: /static/img/partners/casa-do-codigo.png
+
 #### partner ####
 name: Novatec
 ----
 url: https://novatec.com.br/
 ----
 logo: /static/img/partners/novatec.png
----
 
+---
 speakers:
+
+#### speaker ####
+talk: Clean Architecture e Python
+----
+name: Andre Fonseca
+----
+at:
+----
+link:
+----
+bio: Mesmo os programadores experientes em design, patterns e arquitetura podem fazer grandes aplicações difíceis de manter. Venha aprender sobre como o recentemente proposto "Clean Architecture"  (proposta do Uncle Bob) se aplica em Python, e como este padrão de design de alto nível se encaixa particularmente bem com os recursos da linguagem Python e traz respostas a perguntas que os programadores experientes têm feito.
+----
+photo: /static/img/speakers/andrefonseca.jpg
+#### speaker ####
+talk: Precisamos falar sobre pandas (... e bambus)
+----
+name: Eduardo "Stalinho" Oliveira
+----
+at:
+----
+link:
+----
+bio:
+
+Essa palestra se baseia nessa conversa: https://twitter.com/eduardostalinho/status/783680564629037056
+Python é uma linguagem muito utilizada em data science. A idéia dessa palestra mostrar como ele é utilizado e quais problemas os usuários de python nessa área enfrentam e CRIAM no dia-a-dia.
+
+Alguns tópicos são:
+
+-- Bibliotecas para data-science, usar ou não usar?
+
+-- Como as bibliotecas padrão podem te ajudar com análise de dados?
+
+-- Machine Learning e algoritmos. Como faço?
+
+-- Entre o panda comedor de bambu e o pônei do mundo imaginário do data-science, quem é você?
+
+----
+photo: /static/img/speakers/eduardostalinho.jpg
+#### speaker ####
+talk: Como criar extensões para o Jupyter Notebook
+----
+name: João Felipe Pimentel
+----
+at:
+----
+link:
+----
+bio:
+
+Jupyter Notebook é uma aplicação que permite criar documentos com códigos interativos, visualizações e markdowns explicativos.Devido a sua facilidade e capacidade de visualização de resultados, o Jupyter tem sido utilizado em desenvolvimento explorativo, prototipagem, ensino, processamento de dados, simulações numéricas, etc. No processo comum de criação de notebooks, muitas pessoas restringem seus códigos a apenas Python e visualizações fornecidas por bibliotecas como matplotlib ou visualizações textuais padrões. Entretanto, o Jupyter permite muito mais do que isso por meio de extensões e métodos especiais de visualização.
+
+Nesta apresentação, pretendo explicar:
+
+-- como definir métodos de exibição para visualizações customizadas e opções customizadas de auto-completar
+
+-- como criar extensões IPython com line magics e cell magics
+
+-- como criar extensões para o cliente Jupyter com alterações no Javascript
+
+----
+photo: /static/img/speakers/joaofelipenicolacipimentel.jpg
+#### speaker ####
+talk: Aprendi testes unitários e agora? #Partiu TDD
+----
+name: Paula Grangeiro
+----
+at:
+----
+link:
+----
+bio:
+
+Nessa apresentação vamos discutir o que é TDD e como inciantes que já possuem algum conhecimento em testes unitários podem começar a praticá-lo. Os exemplos serão em Python mas muitos dos conceitos discutidos são independentes da linguagem de programação.
+
+ Público: Iniciantes
+
+-- O que é TDD?
+
+-- Objetivos do TDD
+
+-- Como funciona?
+
+-- Code time
+
+-- Vantagens do TDD
+
+-- Considerações finais
+
+----
+photo: /static/img/speakers/paulagrangeiro.jpg
+#### speaker ####
+talk: Invadindo servidores e manipulando dados com python
+----
+name: Vinicius Saw
+----
+at:
+----
+link:
+----
+bio:
+
+Nessa apresentação, tentarei demonstrar um pouco sobre como usar a linguagem python para fazer coisas impressionantes, como:
+
+-- Manipular enquetes e votações em sites
+
+-- Invadir servidores linux que rodam apache
+
+-- Ganhar acesso a um terminal em um servidor
+
+-- Utilizar um exploit para escalar privilégios e obter acesso ao usuário root
+
+----
+photo: /static/img/speakers/viniciussaw.jpg
 ---
 activities:
 
