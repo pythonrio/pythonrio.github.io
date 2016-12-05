@@ -34,32 +34,36 @@ Caso você queira se inteirar mais sobre a comunidade de Python, também sugerim
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_callpapers: http://speakerfight.com/events/xv-encontro-python-rio/
+url_callpapers:
 ---
 url_applications: https://www.eventbrite.com/e/xv-encontro-python-rio-tickets-29658002885
 ---
 partners:
+
 #### partner ####
 name: Infnet
 ----
 url: http://www.infnet.edu.br/infnet/
 ----
 logo: /static/img/partners/infnet.jpg
-----
-
 #### partner ####
 name: Casa Do Código
 ----
 url: https://www.casadocodigo.com.br/
 ----
 logo: /static/img/partners/casa-do-codigo.png
+#### partner ####
+name: Novatec
+----
+url: https://novatec.com.br/
+----
+logo: /static/img/partners/novatec.png
+---
 
----
-url_callpapers:
----
 speakers:
 ---
 activities:
+
 #### activity ####
 name: Credenciamento / OpenSpace
 ----
@@ -73,7 +77,7 @@ local: Auditório
 ----
 time: 11:00
 #### activity ####
-name: Palestra 1
+name: Clean Architecture e Python - Andre Fonseca
 ----
 local: Auditório
 ----
@@ -91,7 +95,7 @@ local:
 ----
 time: 12:00
 #### activity ####
-name: Palestra 2
+name: Precisamos falar sobre pandas (... e bambus) - Eduardo Oliveira
 ----
 local: Auditório
 ----
@@ -103,7 +107,7 @@ local: Sala
 ----
 time: 13:30
 #### activity ####
-name: Palestra 3
+name: Como criar extensões para o Jupyter Notebook - João Felipe
 ----
 local: Auditório
 ----
@@ -121,13 +125,13 @@ local: Auditório
 ----
 time: 15:20
 #### activity ####
-name: Palestra 4
+name: Invadindo servidores e manipulando dados com python - Vinicius Saw
 ----
 local: Auditório
 ----
 time: 16:20
 #### activity ####
-name: Palestra 5
+name: Aprendi testes unitários e agora? #Partiu TDD - Paula Grangeiro
 ----
 local: Auditório
 ----
