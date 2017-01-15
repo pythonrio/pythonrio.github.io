@@ -5,22 +5,22 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 10
+day: 28
 ----
-month: Dez
+month: Jan
 ----
-year: 2016
+year: 2017
 ----
 category: Meetup
 ----
-name: XV Encontro PythonRio
+name: XVI Encontro PythonRio
 ----
-description: Infnet das 10:00hs até às 18:00hs Rua São José, 90, 2º andar – Rio de Janeiro, Centro.
+description: A comunidade de Python do Rio de Janeiro se encontra todo último sábado do mês. Seja na Barra ou no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 ----
 url: http://pythonrio.python.org.br/evento/
 
 #### event_schedule ####
-day: 6 e 7
+day: 5 à 7
 ----
 month: Mai
 ----
