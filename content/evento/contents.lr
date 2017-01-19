@@ -4,22 +4,25 @@ date: 28 de Janeiro de 2017
 ---
 title: Meetup PythOnRio
 ---
-address:
+address: Rua Barão do Flamengo, 22 Sala 402
 ---
 city: Rio de Janeiro
 ---
-local:
+local: eShares
 ---
-neighborhood:
+neighborhood: Flamengo
 ---
 description:
 
-XV Encontro PythonRio
+XVI Encontro PythonRio
+Dia 28 de Janeiro de 2017 vai rolar XVI Encontro da @pythonrio das 14:00hs até às 18:00hs na eShares: Rua Barão do Flamengo, 22 Sala 402 – Rio de Janeiro, Flamengo.
+Grande abraço!
+
+Faça a sua inscrição!!! https://www.eventbrite.com/e/xv-encontro-python-rio-tickets-29658002885
+
 Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
 @pythonrio #forcapython
-
-Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
 
 [+ Facebook](https://www.facebook.com/pythonrio)
 &nbsp; &nbsp;
@@ -31,10 +34,77 @@ Caso você queira se inteirar mais sobre a comunidade de Python, também sugerim
 ---
 url_callpapers: http://speakerfight.com/events/xvi-encontro-da-pythonrio/
 ---
-url_applications:
+url_applications: https://www.eventbrite.com/e/xvi-encontro-pythonrio-registration-31308195656
 ---
 partners:
+#### partner ####
+name: eShares
+----
+url: https://esharesinc.com/
+----
+logo: /static/img/partners/eshares.png
 ---
 speakers:
 ---
 activities:
+
+#### activity ####
+name: Credenciamento
+----
+local: Auditório
+----
+time: 13:30
+#### activity ####
+name: Abertura
+----
+local: Auditório
+----
+time: 13:55
+#### activity ####
+name: Palestra 1
+----
+local: Auditório
+----
+time: 14:00
+#### activity ####
+name: Palestra 2
+----
+local: Auditório
+----
+time: 14:45
+#### activity ####
+name: Lightning talks
+----
+local: Auditório
+----
+time: 15:30
+#### activity ####
+name: Coffee Break
+----
+local: Auditório
+----
+time: 16:00
+#### activity ####
+name: Palestra 3
+----
+local: Auditório
+----
+time: 16:20
+#### activity ####
+name: Palestra 4
+----
+local: Auditório
+----
+time: 17:05
+#### activity ####
+name: Encerramento + Foto
+----
+local: Auditório
+----
+time: 17:50
+#### activity ####
+name: Pós-evento
+----
+local: No bar mais próximo, vamos trocar ideias e beber um chopp.
+----
+time: 18:00
