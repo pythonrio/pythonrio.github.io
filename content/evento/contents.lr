@@ -36,9 +36,10 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 ---
 url_callpapers: http://speakerfight.com/events/xvii-encontro-da-pythonrio/
 ---
-url_applications:
+url_applications: 
 ---
 partners:
+
 #### partner ####
 name: Infnet
 ----
@@ -46,7 +47,7 @@ url: http://www.infnet.edu.br/infnet/
 ----
 logo: /static/img/partners/infnet.jpg
 ---
-speakers:
+speakers: 
 ---
 activities:
 
@@ -110,3 +111,7 @@ name: Pós-evento
 local: No bar mais próximo, vamos trocar ideias e beber um chopp.
 ----
 time: 18:00
+---
+event_logo:
+
+/static/img/python-18022017.png 
