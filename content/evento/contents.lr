@@ -1,24 +1,26 @@
 _model: event
 ---
-date: 28 de Janeiro de 2017
+date: 18 de Fevereiro de 2017
 ---
-title: Meetup PythOnRio
+title: Pré-carnaval PythOnRio
 ---
-address: Rua Barão do Flamengo, 22 Sala 402
+address: Rua São José, 90, 2º andar
 ---
 city: Rio de Janeiro
 ---
-local: eShares
+local: Infnet
 ---
-neighborhood: Flamengo
+neighborhood: Centro
 ---
 description:
 
-XVI Encontro PythonRio
-Dia 28 de Janeiro de 2017 vai rolar XVI Encontro da @pythonrio das 14:00hs até às 18:00hs na eShares: Rua Barão do Flamengo, 22 Sala 402 – Rio de Janeiro, Flamengo.
-Grande abraço!
+Venham curtir o pré-carnaval da PythOnRio!!!!
 
-Faça a sua inscrição!!! https://www.eventbrite.com/e/xv-encontro-python-rio-tickets-29658002885
+Dia 18 de Fevereiro de 2017 vai rolar XVII Encontro da PythOnRio na Infnet das 14:00hs até às 18:00hs, Rua São José, 90, 2º andar – Rio de Janeiro, Centro.
+
+Submeta sua proposta de palestra até dia 13/02/2017 pelo speakerfight http://speakerfight.com/events/xvii-encontro-da-pythonrio/.
+
+NESSA EDIÇÃO VENHA FANTASIADO, O PÓS SERÁ NO BLOCO!
 
 Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
@@ -32,82 +34,19 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_callpapers: http://speakerfight.com/events/xvi-encontro-da-pythonrio/
+url_callpapers: http://speakerfight.com/events/xvii-encontro-da-pythonrio/
 ---
-url_applications: https://www.eventbrite.com/e/xvi-encontro-pythonrio-registration-31308195656
+url_applications:
 ---
 partners:
 #### partner ####
-name: eShares
+name: Infnet
 ----
-url: https://esharesinc.com/
+url: http://www.infnet.edu.br/infnet/
 ----
-logo: /static/img/partners/eshares.png
+logo: /static/img/partners/infnet.jpg
 ---
 speakers:
-#### speaker ####
-talk: Programar ?? o que é isso?? Python? vai me morder?
-----
-name: James Peres
-----
-at:
-----
-link: https://github.com/jamesperes
-----
-bio: Galera, gostaria de apresentar uma palestra falando para quem ainda não começou a programar!!
-
-
-se você conhece alguem que quer começar, chama ele pq vai ser uma palestra muito legal!
-
-
-e se você já sabe, vem tbm e ajude alguém a começar!!
-
-
-Quero falar sobre :
-
- - tomar a decisão
-
- - Primeiros passos
-
- - onde começar
-
- -pq escolher python para começar
-----
-photo: /static/img/speakers/jamesperes.jpg
-#### speaker ####
-talk: Micro serviços e o problema dos dados distribuídos
-----
-name: Andre Fonseca
-----
-at:
-----
-link:
-----
-bio: Hoje todos ao projetar seus sistema buscam o paradigma de micro serviços, onde cada serviço / parte / sistema é responsável por uma parte do negócio. Isso ajuda em várias questões como escabilidade, distribuição, menor problemas de falhas em cascata, etc. O problema é que no mundo real, por mais que a premissa do micro serviços sejam independencia total, eles precisam de dados que são comuns. Num sistema de assinatura, um serviço de cobrança quer saber dados do usuário, assim como o sistema de playlist dele, e por aí vai.
-
-O desafio está em como fazemos com os dados sejam "onipresentes" sem perder todas as vantagens de termos um sistema distribuído e sem adicionar muita complexidade.
-
-A idéia dessa palestra é mostrar como dentro do contexto da empresa e do produto que atuo, fizemos e estamos pesquisando para resolver esse problema.  Vamos conversar sobre coisas sobre o que muitos tem chamado de Sistema de Dados orientados a Evento, stream de dados, kafka, logs distribuídos, transações e assincronismo. Claro que adicionando um bom tempero do python e como ele se encaixa como uma das peças que ajudam na solução final.
-
-Mais info:
-
-https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/
-
-https://www.thoughtworks.com/insights/blog/scaling-microservices-event-stream
-----
-photo: /static/img/speakers/andrefonseca.jpg
-#### speaker ####
-talk: Trabalhar fora do país, como assim? Será que eu consigo? O que eu preciso?
-----
-name: Felippe Da Motta Raposo
-----
-at:
-----
-link: https://github.com/felippemr
-----
-bio: Mesmo os programadores experientes em design, patterns e arquitetura podem fazer grandes aplicações difíceis de manter. Venha aprender sobre como o recentemente proposto "Clean Architecture"  (proposta do Uncle Bob) se aplica em Python, e como este padrão de design de alto nível se encaixa particularmente bem com os recursos da linguagem Python e traz respostas a perguntas que os programadores experientes têm feito.
-----
-photo: /static/img/speakers/feliperaposo.jpg
 ---
 activities:
 
@@ -124,13 +63,13 @@ local: Auditório
 ----
 time: 13:55
 #### activity ####
-name: Open Space
+name: Palestra 1
 ----
 local: Auditório
 ----
 time: 14:00
 #### activity ####
-name: Programar ?? o que é isso?? Python? vai me morder?
+name: Palestra 2
 ----
 local: Auditório
 ----
@@ -148,13 +87,13 @@ local: Auditório
 ----
 time: 16:00
 #### activity ####
-name: Micro serviços e o problema dos dados distribuídos
+name: Palestra 3
 ----
 local: Auditório
 ----
 time: 16:20
 #### activity ####
-name: Trabalhar fora do país, como assim? Será que eu consigo? O que eu preciso?
+name: Palestra 4
 ----
 local: Auditório
 ----
