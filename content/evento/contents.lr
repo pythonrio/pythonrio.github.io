@@ -49,6 +49,52 @@ url: http://www.infnet.edu.br/infnet/
 logo: /static/img/partners/infnet.jpg
 ---
 speakers:
+#### speaker ####
+talk: A gente só procura o remédio quando está doente
+----
+name: Thais Viana
+----
+at:
+----
+link:
+----
+bio: Algumas dicas práticas de gerência de tempo, organização antes que você surte.
+
+
+:D
+
+
+----
+photo: /static/img/speakers/thaisviana.jpg
+----
+#### speaker ####
+talk: Precisamos falar sobre o Kivy
+----
+name: Diego Guimarães - Dukão
+----
+at:
+----
+link:
+----
+bio: Esse framework incrível que te permite criar aplicativos em Python com uma interface gráfica maneira e rodá-lo onde quiser.
+
+Estamos falando pouco dele. Vamos falar (e mostrar) mais. =)
+
+----
+photo: /static/img/speakers/diegoguimaraes.png
+----
+#### speaker ####
+talk: JSON Schema: valide e navegue entre suas APIS
+----
+name: Wilson
+----
+at:
+----
+link:
+----
+bio: Hoje com o mundo de APIs distribuídas, nasceram algumas dificuldades de validar e navegar entre os dados de diversos micro serviços. O modelo JSON Schema e JSON Hyper-Schema hypermedia veio para documentar, validar e deixar sua API auto-descritiva, portanto melhora esses pontos para os clientes.
+----
+photo: /static/img/speakers/wilsonjunior.jpg
 ---
 activities:
 
@@ -65,13 +111,13 @@ local: Auditório
 ----
 time: 13:55
 #### activity ####
-name: Palestra 1
+name: A gente só procura o remédio quando está doente
 ----
 local: Auditório
 ----
 time: 14:00
 #### activity ####
-name: Palestra 2
+name: Precisamos falar sobre o Kivy
 ----
 local: Auditório
 ----
@@ -89,7 +135,7 @@ local: Auditório
 ----
 time: 16:00
 #### activity ####
-name: Palestra 3
+name: JSON Schema: valide e navegue entre suas APIS
 ----
 local: Auditório
 ----
