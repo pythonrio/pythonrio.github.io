@@ -95,6 +95,22 @@ link:
 bio: Hoje com o mundo de APIs distribuídas, nasceram algumas dificuldades de validar e navegar entre os dados de diversos micro serviços. O modelo JSON Schema e JSON Hyper-Schema hypermedia veio para documentar, validar e deixar sua API auto-descritiva, portanto melhora esses pontos para os clientes.
 ----
 photo: /static/img/speakers/wilsonjunior.jpg
+----
+#### speaker ####
+talk: Navegando em um mar de dados com Python
+----
+name: João Pedro Portela
+----
+at:
+----
+link:
+----
+bio:  Não é novidade para ninguém que nosso mundo está passando por uma nova revolução, a digital. A quantidade de dados gerados nos últimos dois anos é maior que o de toda a história da humanidade, e em 2020 a projeção é de 1.7MB gerados por segundo, somando um total de 35 zettabytes.
+
+Mas com essa quantidade exorbitante de dados, como podemos trabalhar com eles? Que Python nos ajude.
+
+----
+photo: /static/img/speakers/joaopedroportela.jpg
 ---
 activities:
 
@@ -141,7 +157,7 @@ local: Auditório
 ----
 time: 16:20
 #### activity ####
-name: Palestra 4
+name: Navegando em um mar de dados com Python
 ----
 local: Auditório
 ----
