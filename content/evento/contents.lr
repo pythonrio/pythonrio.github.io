@@ -1,28 +1,22 @@
 _model: event
 ---
-date: 18 de Fevereiro de 2017
+date: 25 de Março de 2017
 ---
-title: Pré-carnaval PythOnRio
+title: XVIII Encontro da PythOnRio
 ---
-address: Rua São José, 90, 2º andar
+address: Avenida General Justo, 375, 9º andar
 ---
 city: Rio de Janeiro
 ---
-local: Infnet
+local: Stone Pagamentos
 ---
 neighborhood: Centro
 ---
 description:
 
-Venham curtir o pré-carnaval da PythOnRio!!!!
+Prezados,
 
-![pré-carnaval da PythOnRio](/static/img/precarnavalpythonrio-infnet-2017.png)
-
-Dia 18 de Fevereiro de 2017 vai rolar XVII Encontro da PythOnRio na Infnet das 14:00hs até às 18:00hs, Rua São José, 90, 2º andar – Rio de Janeiro, Centro.
-
-Submeta sua proposta de palestra até dia 13/02/2017 pelo speakerfight http://speakerfight.com/events/xvii-encontro-da-pythonrio/.
-
-NESSA EDIÇÃO VENHA FANTASIADO, O PÓS SERÁ NO BLOCO!
+Dia 25 de Março de 2017 vai rolar XVIII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida General Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130.
 
 Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
@@ -36,81 +30,19 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_callpapers: http://speakerfight.com/events/xvii-encontro-da-pythonrio/
+url_callpapers: http://speakerfight.com/events/xviii-encontro-da-pythonrio/
 ---
-url_applications: https://www.eventbrite.com/e/xvii-encontro-da-pythonrio-tickets-31992301836
+url_applications:
 ---
 partners:
 #### partner ####
-name: Infnet
+name: Stone Pagamentos
 ----
-url: http://www.infnet.edu.br/infnet/
+url: http://www.stone.com.br/
 ----
-logo: /static/img/partners/infnet.jpg
+logo: /static/img/partners/stonepagamentos.png
 ---
 speakers:
-#### speaker ####
-talk: A gente só procura o remédio quando está doente
-----
-name: Thais Viana
-----
-at:
-----
-link:
-----
-bio: Algumas dicas práticas de gerência de tempo, organização antes que você surte.
-
-
-:D
-
-
-----
-photo: /static/img/speakers/thaisviana.jpg
-----
-#### speaker ####
-talk: Precisamos falar sobre o Kivy
-----
-name: Diego Guimarães - Dukão
-----
-at:
-----
-link:
-----
-bio: Esse framework incrível que te permite criar aplicativos em Python com uma interface gráfica maneira e rodá-lo onde quiser.
-
-Estamos falando pouco dele. Vamos falar (e mostrar) mais. =)
-
-----
-photo: /static/img/speakers/diegoguimaraes.png
-----
-#### speaker ####
-talk: JSON Schema: valide e navegue entre suas APIS
-----
-name: Wilson
-----
-at:
-----
-link:
-----
-bio: Hoje com o mundo de APIs distribuídas, nasceram algumas dificuldades de validar e navegar entre os dados de diversos micro serviços. O modelo JSON Schema e JSON Hyper-Schema hypermedia veio para documentar, validar e deixar sua API auto-descritiva, portanto melhora esses pontos para os clientes.
-----
-photo: /static/img/speakers/wilsonjunior.jpg
-----
-#### speaker ####
-talk: Navegando em um mar de dados com Python
-----
-name: João Pedro Portela
-----
-at:
-----
-link:
-----
-bio:  Não é novidade para ninguém que nosso mundo está passando por uma nova revolução, a digital. A quantidade de dados gerados nos últimos dois anos é maior que o de toda a história da humanidade, e em 2020 a projeção é de 1.7MB gerados por segundo, somando um total de 35 zettabytes.
-
-Mas com essa quantidade exorbitante de dados, como podemos trabalhar com eles? Que Python nos ajude.
-
-----
-photo: /static/img/speakers/joaopedroportela.jpg
 ---
 activities:
 
@@ -127,13 +59,13 @@ local: Auditório
 ----
 time: 13:55
 #### activity ####
-name: A gente só procura o remédio quando está doente
+name: Palestra 1
 ----
 local: Auditório
 ----
 time: 14:00
 #### activity ####
-name: Precisamos falar sobre o Kivy
+name: Palestra 2
 ----
 local: Auditório
 ----
@@ -151,13 +83,13 @@ local: Auditório
 ----
 time: 16:00
 #### activity ####
-name: JSON Schema: valide e navegue entre suas APIS
+name: Palestra 3
 ----
 local: Auditório
 ----
 time: 16:20
 #### activity ####
-name: Navegando em um mar de dados com Python
+name: Palestra 4
 ----
 local: Auditório
 ----

@@ -1,0 +1,176 @@
+_model: event
+---
+date: 18 de Fevereiro de 2017
+---
+title: Pré-carnaval PythOnRio
+---
+address: Rua São José, 90, 2º andar
+---
+city: Rio de Janeiro
+---
+local: Infnet
+---
+neighborhood: Centro
+---
+description:
+
+Venham curtir o pré-carnaval da PythOnRio!!!!
+
+![pré-carnaval da PythOnRio](/static/img/precarnavalpythonrio-infnet-2017.png)
+
+Dia 18 de Fevereiro de 2017 vai rolar XVII Encontro da PythOnRio na Infnet das 14:00hs até às 18:00hs, Rua São José, 90, 2º andar – Rio de Janeiro, Centro.
+
+Submeta sua proposta de palestra até dia 13/02/2017 pelo speakerfight http://speakerfight.com/events/xvii-encontro-da-pythonrio/.
+
+NESSA EDIÇÃO VENHA FANTASIADO, O PÓS SERÁ NO BLOCO!
+
+Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
+
+@pythonrio #forcapython
+
+[+ Facebook](https://www.facebook.com/pythonrio)
+&nbsp; &nbsp;
+[+ Twitter](https://www.twitter.com/pythonrio)
+&nbsp; &nbsp;
+[+ Telegram](https://telegram.me/PythonRio)
+&nbsp; &nbsp;
+[+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
+---
+url_callpapers: http://speakerfight.com/events/xvii-encontro-da-pythonrio/
+---
+url_applications: https://www.eventbrite.com/e/xvii-encontro-da-pythonrio-tickets-31992301836
+---
+partners:
+#### partner ####
+name: Infnet
+----
+url: http://www.infnet.edu.br/infnet/
+----
+logo: /static/img/partners/infnet.jpg
+---
+speakers:
+#### speaker ####
+talk: A gente só procura o remédio quando está doente
+----
+name: Thais Viana
+----
+at:
+----
+link:
+----
+bio: Algumas dicas práticas de gerência de tempo, organização antes que você surte.
+
+
+:D
+
+
+----
+photo: /static/img/speakers/thaisviana.jpg
+----
+#### speaker ####
+talk: Precisamos falar sobre o Kivy
+----
+name: Diego Guimarães - Dukão
+----
+at:
+----
+link:
+----
+bio: Esse framework incrível que te permite criar aplicativos em Python com uma interface gráfica maneira e rodá-lo onde quiser.
+
+Estamos falando pouco dele. Vamos falar (e mostrar) mais. =)
+
+----
+photo: /static/img/speakers/diegoguimaraes.png
+----
+#### speaker ####
+talk: JSON Schema: valide e navegue entre suas APIS
+----
+name: Wilson
+----
+at:
+----
+link:
+----
+bio: Hoje com o mundo de APIs distribuídas, nasceram algumas dificuldades de validar e navegar entre os dados de diversos micro serviços. O modelo JSON Schema e JSON Hyper-Schema hypermedia veio para documentar, validar e deixar sua API auto-descritiva, portanto melhora esses pontos para os clientes.
+----
+photo: /static/img/speakers/wilsonjunior.jpg
+----
+#### speaker ####
+talk: Navegando em um mar de dados com Python
+----
+name: João Pedro Portela
+----
+at:
+----
+link:
+----
+bio:  Não é novidade para ninguém que nosso mundo está passando por uma nova revolução, a digital. A quantidade de dados gerados nos últimos dois anos é maior que o de toda a história da humanidade, e em 2020 a projeção é de 1.7MB gerados por segundo, somando um total de 35 zettabytes.
+
+Mas com essa quantidade exorbitante de dados, como podemos trabalhar com eles? Que Python nos ajude.
+
+----
+photo: /static/img/speakers/joaopedroportela.jpg
+---
+activities:
+
+#### activity ####
+name: Credenciamento
+----
+local: Auditório
+----
+time: 13:30
+#### activity ####
+name: Abertura
+----
+local: Auditório
+----
+time: 13:55
+#### activity ####
+name: A gente só procura o remédio quando está doente
+----
+local: Auditório
+----
+time: 14:00
+#### activity ####
+name: Precisamos falar sobre o Kivy
+----
+local: Auditório
+----
+time: 14:45
+#### activity ####
+name: Lightning talks
+----
+local: Auditório
+----
+time: 15:30
+#### activity ####
+name: Coffee Break
+----
+local: Auditório
+----
+time: 16:00
+#### activity ####
+name: JSON Schema: valide e navegue entre suas APIS
+----
+local: Auditório
+----
+time: 16:20
+#### activity ####
+name: Navegando em um mar de dados com Python
+----
+local: Auditório
+----
+time: 17:05
+#### activity ####
+name: Encerramento + Foto
+----
+local: Auditório
+----
+time: 17:50
+#### activity ####
+name: Pós-evento
+----
+local: No bar mais próximo, vamos trocar ideias e beber um chopp.
+----
+time: 18:00
