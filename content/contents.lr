@@ -5,17 +5,17 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 28
+day: 25
 ----
-month: Jan
+month: Mar
 ----
 year: 2017
 ----
 category: Meetup
 ----
-name: XVII Encontro PythonRio
+name: XVIII Encontro PythonRio
 ----
-description: Venham curtir o pré-carnaval da PythOnRio!!!! Dia 18 de Fevereiro de 2017 vai rolar XVII Encontro da PythOnRio na Infnet das 14:00hs até às 18:00hs, Rua São José, 90, 2º andar – Rio de Janeiro, Centro.
+description: Dia 25 de Março de 2017 vai rolar XVIII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs.
 ----
 url: http://pythonrio.python.org.br/evento/
 
@@ -35,3 +35,50 @@ name: Python Sudeste
 description: A Python Sudeste é uma conferência sem fins lucrativos realizada por voluntários visando promover a linguagem de programação de código aberto Python. É apoiada pela Associação Python Brasil (APyB) e pelo Python Software Foundation (PSF).
 ----
 url: http://pythonsudeste.org/
+
+#### event_schedule ####
+day: 8 à 10
+----
+month: Jun
+----
+year: 2017
+----
+category: Evento
+----
+name: Python Nordeste
+----
+description: A Python Nordeste é o maior encontro da região nordeste para a comunidade Python, que ocorre anualmente em cidades do nordeste do Brasil e está na sua quinta edição.
+----
+url: http://2017.pythonnordeste.org/
+
+#### event_schedule ####
+day: 23 à 27
+----
+month: Jun
+----
+position_inverted: 1
+----
+year: 2017
+----
+category: Evento
+----
+name: Caipyra
+----
+description: O Caipyra é um evento inspirado na Python Brasil (maior evento Python da América Latina) e visa, sem fins lucrativos, disseminar conhecimento sobre diversas áreas da tecnologia.
+----
+url: http://caipyra.python.org.br/
+
+#### event_schedule ####
+day: 12 e 13
+----
+month: Ago
+----
+year: 2017
+----
+category: Evento
+----
+name: PyCon Amazônia
+----
+description: 1ª conferência da comunidade Python do Norte do Brasil
+----
+url: http://amazonia.python.org.br/
