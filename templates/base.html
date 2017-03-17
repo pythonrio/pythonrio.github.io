@@ -18,7 +18,7 @@
     <![endif]-->
 </head>
 <body {% if this.bodyclass %}class="{{ this.bodyclass }}"{% endif %}>
-<div id="pyrj-doc">
+<div id="pyrj-doc" class="{% block page_class %}{% endblock %}">
     {% include 'includes/bootstrap/navigation-bar.html' %}
     {% block page_header %}{% endblock %}
     {% block content %}{% endblock %}

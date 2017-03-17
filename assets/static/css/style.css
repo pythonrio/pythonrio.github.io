@@ -132,6 +132,9 @@ header {
 	position: relative;
 	height: 100%;
 }
+header.cover-job-board {
+	background: url(../img/cover_jobboard.jpg) no-repeat bottom center;
+}
 header p {
 	color: #FFFFFF;
 	font-size: 18px;
@@ -150,6 +153,11 @@ header p {
 	font-size: 60px;
 	color: #eeeeee;
 	font-weight: 600;
+}
+.intro-text H2{
+	color: #eeeeee;
+	font-weight: 600;
+	line-height: 34px;
 }
 .color {
 	color: #1C3B56;
@@ -647,4 +655,46 @@ label {
 .timeline>li.timeline-inverted>.timeline-panel {
 	padding: 10px 100px 20px 20px;
 }
+}
+/* job board */
+.job-board{
+    margin-top: 40px;
+}
+.job-listing {
+    border: solid 1px #eee;
+    border-bottom: none;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 19px;
+    padding-right: 15px;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+
+.job-listing.job-listing--last{
+    border-bottom: solid 1px #eee;
+    margin-bottom: 40px;
+}
+.job__title {
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 700;
+}
+.job__location {
+    margin-right: 5px;
+    color: #999;
+}
+
+.navbar-white #menu.navbar-default {
+    background-color: #FFFFFF !important;
+}
+
+header.cover-job-board h1,
+header.cover-job-board h2{
+    text-shadow:
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
 }
