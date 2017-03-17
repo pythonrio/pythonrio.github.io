@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% from "macros/job_list.html" import render_job_list %}
+{% from "macros/pagination_bootstrap.html" import render_pagination %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block page_header %}
+    {% include 'includes/bootstrap/banner_job.html' %}
+{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="job-board">
+        {% for child in this.pagination.items|sort(attribute='_id', reverse=True) %}
+            {{ render_job_list(child, from_index=true, loop=loop) }}
+        {% endfor %}
+        {{ render_pagination(this.pagination) }}
+    </div>
+</div>
+
+<style type="text/css">
+.job-board{
+    margin-top: 40px;
+}
+.job-listing {
+    border: solid 1px #eee;
+    border-bottom: none;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 19px;
+    padding-right: 15px;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+
+.job-listing.job-listing--last{
+    border-bottom: solid 1px #eee;
+    margin-bottom: 40px;
+}
+.job__title {
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 700;
+}
+.job__location {
+    margin-right: 5px;
+    color: #999;
+}
+</style>
+{% endblock %}
