@@ -1,6 +1,10 @@
-<header class="text-center cover-job-board" name="home">
+<header class="text-center cover-job-board{% if is_job %} cover-job{% endif %}">
   <div class="intro-text">
-    <h1>Job Board</h1>
-    <h2>Confira as oportunidades de trabalho no Rio de Janeiro</h2>
-    <div class="clearfix"></div>
+    {% if is_job %}
+        <h1>{{ this.job }} {{ this.job_level }}</h1>
+    {% else %}
+        <h1>Job Board</h1>
+        <h2>Confira as oportunidades de trabalho no Rio de Janeiro</h2>
+        <div class="clearfix"></div>
+    {% endif %}
 </header>

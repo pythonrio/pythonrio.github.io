@@ -1,8 +1,61 @@
 {% extends "base.html" %}
 {% block title %}{{ this.title }}{% endblock %}
+{% block page_class %}navbar-white navbar-default-on{% endblock %}
+{% block smooth_scroll %}{% endblock %}
 {% block page_header %}
-    {% include 'includes/bootstrap/banner.html' %}
+{% set is_job = True %}
+{% include 'includes/bootstrap/banner_job.html' %}
 {% endblock %}
 {% block content %}
-
+<style type="text/css">
+.job-header {
+    border-top: 1px solid #FFF;
+    background: #f6f6f6;
+    padding: 30px 0;
+    margin-bottom: 30px;
+}
+.job-map{
+    padding-top: 60px;
+}
+</style>
+<section class="job-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-6 col-md-6">
+                <div class="row">
+                    <div class="col-xs-6 col-md-3">
+                        <a class="thumbnail" href="{{ this.company_website }}">
+                            <img src="{{ this.company_photo }}" alt="{{ this.company }}" class="img-responsive">
+                        </a>
+                    </div>
+                    <div class="col-xs-6">
+                        <h4 class="job__title">{{ this.job }} {{ this.job_level }}</h4>
+                        <p class="job__company"><a href="{{ this.company_website }}">{{ this.company }}</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-3 col-md-3">
+                <p><i class="fa fa-map-marker job__location"></i> <img width="16px" src="/static/img/flags/4x3/br.svg" alt="{{ this.company_country }}"> {{ this.company_city }}</p>
+            </div>
+            <div class="col-xs-3 col-md-3">
+                <p>{{ this.date }}</p>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="job-desc">
+    <div class="container">
+        {{ this.job_description }}
+    </div>
+</section>
+<section class="job-map" id="job-address">
+    <div class="container">
+        <h2 class="section-title">Localização</h2>
+        <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        {{ this.company }}: <span itemprop="streetAddress">{{ this.company_address }} – </span>
+        <span itemprop="addressLocality"> {{ this.company_city }}, {{ this.company_country }}</span>
+        </p>
+        <iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA9tw3WpHPqYJTFL8Ox1fzWnxc5UacYcZg&q={{ this.company_address }},{{ this.company_city }}+{{ this.company_country }}" allowfullscreen></iframe>
+    </div>
+</section>
 {% endblock %}

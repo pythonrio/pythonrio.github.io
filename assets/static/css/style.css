@@ -99,7 +99,8 @@ hr {
     color: #1C3B56;
 }
 
-#menu.navbar-default.on {
+#menu.navbar-default.on,
+.navbar-default-on #menu.navbar-default {
 	background-color: #FFFFFF !important;
 	padding: 0 !important;
     border-bottom: 1px solid #eee;
@@ -134,6 +135,10 @@ header {
 }
 header.cover-job-board {
 	background: url(../img/cover_jobboard.jpg) no-repeat bottom center;
+}
+header.cover-job-board.cover-job > .intro-text{
+	padding-top: 150px;
+	padding-bottom: 100px; 
 }
 header p {
 	color: #FFFFFF;
@@ -450,7 +455,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #menu.navbar-default .navbar-header .pyrj-img-brand{
 	width:150px;
 }
-    #menu.navbar-default.on  .navbar-header .pyrj-img-brand{
+    #menu.navbar-default.on  .navbar-header .pyrj-img-brand,
+    .navbar-default-on #menu.navbar-default .navbar-header .pyrj-img-brand{
     	width: 85px;
     }
 
@@ -656,14 +662,14 @@ label {
 	padding: 10px 100px 20px 20px;
 }
 }
-/* job board */
+/* job board list */
 .job-board{
     margin-top: 40px;
 }
 .job-listing {
     border: solid 1px #eee;
     border-bottom: none;
-    padding-top: 30px;
+    padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 19px;
     padding-right: 15px;
@@ -677,7 +683,7 @@ label {
     margin-bottom: 40px;
 }
 .job__title {
-    margin-top: 0;
+    margin-top: 5px;
     font-size: 18px;
     font-weight: 700;
 }
