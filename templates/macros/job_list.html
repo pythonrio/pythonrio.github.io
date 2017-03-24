@@ -1,30 +1,22 @@
 {% macro render_job_list(job, from_index=false, loop=false) %}
 <div class="job-listing{% if loop.last %} job-listing--last{% endif %}">
     <div class="row">
-        <div class="col-sm-12 col-md-6">
+        <div class="col-xs-6 col-md-6">
             <div class="row">
-                <div class="col-xs-2">
+                <div class="col-xs-6 col-md-3">
                     <img src="{{ job.company_photo }}" alt="{{ job.company }}" class="img-responsive">
                 </div>
-                <div class="col-xs-10">
-                    <h4 class="job__title"><a href="{{ job|url }}">{{ job.job }}</a></h4>
+                <div class="col-xs-6">
+                    <h4 class="job__title"><a href="{{ job|url }}">{{ job.job }} {{ job.job_level }}</a></h4>
                     <p class="job__company">{{ job.company }}</p>
                 </div>
             </div>
         </div>
-        <div class="col-xs-10 col-xs-offset-2 col-sm-4 col-sm-offset-2 col-md-2 col-md-offset-0">
-            <i class="fa fa-map-marker job__location"></i>
-            <img width="16px" src="/static/img/flags/4x3/br.svg" alt="Brazil"> {{ job.company_city }}
+        <div class="col-xs-3 col-md-3">
+            <p><i class="fa fa-map-marker job__location"></i> <img width="16px" src="/static/img/flags/4x3/br.svg" alt="Brazil"> {{ job.company_city }}</p>
         </div>
-        <div class="col-xs-10 col-xs-offset-2 col-sm-4 col-sm-offset-0 col-md-3">
+        <div class="col-xs-3 col-md-3">
             <p>{{ job.date }}</p>
-        </div>
-        <div class="col-xs-10 col-xs-offset-2 col-sm-2 col-sm-offset-0 col-md-1">
-            <div class="job__star">
-                <a href="#" data-toggle="tooltip" data-placement="top" title="" class="job__star__link">
-                    <i class="fa fa-star"></i>
-                </a>
-            </div>
         </div>
     </div>
 </div>
