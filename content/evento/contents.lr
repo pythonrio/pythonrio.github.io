@@ -32,7 +32,7 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 ---
 url_callpapers: http://speakerfight.com/events/xviii-encontro-da-pythonrio/
 ---
-url_applications:
+url_applications: https://www.eventbrite.com/e/xviii-encontro-pythonrio-tickets-32983890705
 ---
 partners:
 #### partner ####
@@ -57,25 +57,25 @@ name: Abertura
 ----
 local: Auditório
 ----
-time: 13:55
+time: 13:50
 #### activity ####
-name: Palestra 1
+name: 1 ano desenvolvendo Software Livre: Eis o que aprendi.
 ----
 local: Auditório
 ----
 time: 14:00
 #### activity ####
-name: Palestra 2
+name: Como conseguir estudar e ter foco na atualidade?
 ----
 local: Auditório
 ----
-time: 14:45
+time: 14:40
 #### activity ####
-name: Lightning talks
+name: Indo além do pep8 - Escrevendo código elegante, claro, inteligente e consciso.
 ----
 local: Auditório
 ----
-time: 15:30
+time: 15:20
 #### activity ####
 name: Coffee Break
 ----
@@ -83,26 +83,32 @@ local: Auditório
 ----
 time: 16:00
 #### activity ####
-name: Palestra 3
+name: Introdução ao NLP
 ----
 local: Auditório
 ----
 time: 16:20
 #### activity ####
-name: Palestra 4
+name: Robótica na educação - Arduino em sala de aula
 ----
 local: Auditório
 ----
-time: 17:05
+time: 17:00
 #### activity ####
-name: Encerramento + Foto
+name: Lightning talks
 ----
 local: Auditório
 ----
-time: 17:50
+time: 17:40
+#### activity ####
+name: Encerramento + foto
+----
+local: Auditório
+----
+time: 18:00
 #### activity ####
 name: Pós-evento
 ----
 local: No bar mais próximo, vamos trocar ideias e beber um chopp.
 ----
-time: 18:00
+time: 18:10
