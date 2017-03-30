@@ -138,7 +138,7 @@ header.cover-job-board {
 }
 header.cover-job-board.cover-job > .intro-text{
 	padding-top: 150px;
-	padding-bottom: 100px; 
+	padding-bottom: 100px;
 }
 header p {
 	color: #FFFFFF;
@@ -691,6 +691,18 @@ label {
     margin-right: 5px;
     color: #999;
 }
+.job-header {
+    border-top: 1px solid #FFF;
+    background: #f6f6f6;
+    padding: 30px 0;
+    margin-bottom: 30px;
+}
+.job-header .thumbnail{
+    margin-bottom: 0;
+}
+.job-map{
+    padding-top: 60px;
+}
 
 .navbar-white #menu.navbar-default {
     background-color: #FFFFFF !important;
@@ -699,7 +711,7 @@ label {
 header.cover-job-board h1,
 header.cover-job-board h2{
     text-shadow:
-    -1px -1px 0 #000,  
+    -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;

@@ -7,17 +7,6 @@
 {% include 'includes/bootstrap/banner_job.html' %}
 {% endblock %}
 {% block content %}
-<style type="text/css">
-.job-header {
-    border-top: 1px solid #FFF;
-    background: #f6f6f6;
-    padding: 30px 0;
-    margin-bottom: 30px;
-}
-.job-map{
-    padding-top: 60px;
-}
-</style>
 <section class="job-header">
     <div class="container">
         <div class="row">
@@ -35,10 +24,11 @@
                 </div>
             </div>
             <div class="col-xs-3 col-md-3">
-                <p><i class="fa fa-map-marker job__location"></i> <img width="16px" src="/static/img/flags/4x3/br.svg" alt="{{ this.company_country }}"> {{ this.company_city }}</p>
+                <p><i class="fa fa-map-marker job__location"></i> <img width="16px" src="/static/img/flags/4x3/{{ this.company_country_abbreviation|lower}}.svg" alt="{{ this.company_country }}"> {{ this.company_city }}</p>
+                <p><i class="fa fa-envelope-open-o" aria-hidden="true"></i> <a href="mailto:{{ this.company_email }}">{{ this.company_email }}</a></p>
             </div>
             <div class="col-xs-3 col-md-3">
-                <p>{{ this.date }}</p>
+                <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ this.date }}</p>
             </div>
         </div>
     </div>
