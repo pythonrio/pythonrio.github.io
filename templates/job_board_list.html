@@ -11,8 +11,14 @@
     <div class="job-board">
         {% for child in this.pagination.items|sort(attribute='_id', reverse=True) %}
             {{ render_job_list(child, from_index=true, loop=loop) }}
+        {% else %}
+            <div class="alert alert-warning" role="alert">
+                <strong>Ops!</strong> Não existe nenhuma oportunidade cadastrada. 
+            </div>
         {% endfor %}
-        {{ render_pagination(this.pagination) }}
+        {% if this.pagination.items %}
+            {{ render_pagination(this.pagination) }}
+        {% endif %}
     </div>
 </div>
 {% endblock %}
