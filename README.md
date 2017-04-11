@@ -1,4 +1,4 @@
-# Site PythOnRio [![Build Status](https://travis-ci.org/pythonrio/pythonrio.github.io.svg?branch=master)](https://travis-ci.org/pythonrio/pythonrio.github.io)
+# Site PythOnRio [![Build Status](https://travis-ci.org/pythonrio/pythonrio.github.io.svg?branch=develop)](https://travis-ci.org/pythonrio/pythonrio.github.io)
 Este repositório contém o site da comunidade [PythOnRio](http://pythonrio.github.io/). Sinta-se livre para forkar e colaborar \o/
 
 ## Instalação
