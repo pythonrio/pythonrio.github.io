@@ -18,7 +18,7 @@
     <![endif]-->
 </head>
 <body {% if this.bodyclass %}class="{{ this.bodyclass }}"{% endif %}>
-<div id="pyrj-doc">
+<div id="pyrj-doc" class="{% block page_class %}{% endblock %}">
     {% include 'includes/bootstrap/navigation-bar.html' %}
     {% block page_header %}{% endblock %}
     {% block content %}{% endblock %}
@@ -39,8 +39,9 @@ _gaq.push(['_trackPageview']);
 <!-- /GOOGLE ANALYTICS -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="{{ '/static/js/bootstrap.min.js'|url }}"></script>
-<script src="{{ '/static/js/SmoothScroll.js'|url }}"></script>
 <script src="{{ '/static/js/global.js'|url }}"></script>
+{% endblock %}
+{% block js_bottom %}
 {% endblock %}
 </body>
 </html>

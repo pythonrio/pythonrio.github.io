@@ -3,6 +3,10 @@
 {% block page_header %}
     {% include 'includes/bootstrap/banner.html' %}
 {% endblock %}
+{% block js_bottom %}
+<script src="{{ '/static/js/SmoothScroll.js'|url }}"></script>
+<script src="{{ '/static/js/init_smoothscroll.js'|url }}"></script>
+{% endblock %}
 {% block content %}
 <div id="sobre-sessao">
   <div class="container">

@@ -99,7 +99,8 @@ hr {
     color: #1C3B56;
 }
 
-#menu.navbar-default.on {
+#menu.navbar-default.on,
+.navbar-default-on #menu.navbar-default {
 	background-color: #FFFFFF !important;
 	padding: 0 !important;
     border-bottom: 1px solid #eee;
@@ -132,6 +133,13 @@ header {
 	position: relative;
 	height: 100%;
 }
+header.cover-job-board {
+	background: url(../img/cover_jobboard.jpg) no-repeat bottom center;
+}
+header.cover-job-board.cover-job > .intro-text{
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
 header p {
 	color: #FFFFFF;
 	font-size: 18px;
@@ -150,6 +158,11 @@ header p {
 	font-size: 60px;
 	color: #eeeeee;
 	font-weight: 600;
+}
+.intro-text H2{
+	color: #eeeeee;
+	font-weight: 600;
+	line-height: 34px;
 }
 .color {
 	color: #1C3B56;
@@ -442,7 +455,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #menu.navbar-default .navbar-header .pyrj-img-brand{
 	width:150px;
 }
-    #menu.navbar-default.on  .navbar-header .pyrj-img-brand{
+    #menu.navbar-default.on  .navbar-header .pyrj-img-brand,
+    .navbar-default-on #menu.navbar-default .navbar-header .pyrj-img-brand{
     	width: 85px;
     }
 
@@ -647,4 +661,58 @@ label {
 .timeline>li.timeline-inverted>.timeline-panel {
 	padding: 10px 100px 20px 20px;
 }
+}
+/* job board list */
+.job-board{
+    margin-top: 40px;
+}
+.job-listing {
+    border: solid 1px #eee;
+    border-bottom: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 19px;
+    padding-right: 15px;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+
+.job-listing.job-listing--last{
+    border-bottom: solid 1px #eee;
+    margin-bottom: 40px;
+}
+.job__title {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.job__location {
+    margin-right: 5px;
+    color: #999;
+}
+.job-header {
+    border-top: 1px solid #FFF;
+    background: #f6f6f6;
+    padding: 30px 0;
+    margin-bottom: 30px;
+}
+.job-header .thumbnail{
+    margin-bottom: 0;
+}
+.job-map{
+    padding-top: 60px;
+}
+
+.navbar-white #menu.navbar-default {
+    background-color: #FFFFFF !important;
+}
+
+header.cover-job-board h1,
+header.cover-job-board h2{
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
 }

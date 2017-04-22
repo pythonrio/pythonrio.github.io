@@ -1,8 +1,8 @@
 _model: event
 ---
-date: 25 de Março de 2017
+date: 29 de Abril de 2017
 ---
-title: XVIII Encontro da PythOnRio
+title: XIX Encontro da PythOnRio
 ---
 address: Avenida General Justo, 375, 9º andar
 ---
@@ -16,7 +16,7 @@ description:
 
 Prezados,
 
-Dia 25 de Março de 2017 vai rolar XVIII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida General Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130.
+Dia 29 de Abril de 2017 vai rolar XIX Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida General Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130. Submeta sua proposta de palestra até dia 19/04/2017 pelo http://speakerfight.com/events/xvi-encontro-da-pythonrio/.
 
 Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
@@ -30,7 +30,7 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_callpapers: http://speakerfight.com/events/xviii-encontro-da-pythonrio/
+url_callpapers: http://speakerfight.com/events/xix-encontro-da-pythonrio/
 ---
 url_applications:
 ---
@@ -42,10 +42,6 @@ url: http://www.stone.com.br/
 ----
 logo: /static/img/partners/stonepagamentos.png
 ---
-speakers:
----
-activities:
-
 #### activity ####
 name: Credenciamento
 ----
@@ -57,7 +53,7 @@ name: Abertura
 ----
 local: Auditório
 ----
-time: 13:55
+time: 13:50
 #### activity ####
 name: Palestra 1
 ----
@@ -69,13 +65,13 @@ name: Palestra 2
 ----
 local: Auditório
 ----
-time: 14:45
+time: 14:40
 #### activity ####
-name: Lightning talks
+name: Palestra 3
 ----
 local: Auditório
 ----
-time: 15:30
+time: 15:20
 #### activity ####
 name: Coffee Break
 ----
@@ -83,26 +79,32 @@ local: Auditório
 ----
 time: 16:00
 #### activity ####
-name: Palestra 3
+name: Palestra 4
 ----
 local: Auditório
 ----
 time: 16:20
 #### activity ####
-name: Palestra 4
+name: Palestra 5
 ----
 local: Auditório
 ----
-time: 17:05
+time: 17:00
 #### activity ####
-name: Encerramento + Foto
+name: Lightning talks
 ----
 local: Auditório
 ----
-time: 17:50
+time: 17:40
+#### activity ####
+name: Encerramento + foto
+----
+local: Auditório
+----
+time: 18:00
 #### activity ####
 name: Pós-evento
 ----
 local: No bar mais próximo, vamos trocar ideias e beber um chopp.
 ----
-time: 18:00
+time: 18:10

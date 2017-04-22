@@ -1,0 +1,24 @@
+{% macro render_job_list(job, from_index=false, loop=false) %}
+<div class="job-listing{% if loop.last %} job-listing--last{% endif %}">
+    <div class="row">
+        <div class="col-xs-6 col-md-6">
+            <div class="row">
+                <div class="col-xs-6 col-md-3">
+                    <img src="{{ job.company_photo }}" alt="{{ job.company }}" class="img-responsive">
+                </div>
+                <div class="col-xs-6">
+                    <h4 class="job__title"><a href="{{ job|url }}">{{ job.job }} {{ job.job_level }}</a></h4>
+                    <p class="job__company">{{ job.company }}</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-3 col-md-3">
+            <p><i class="fa fa-map-marker job__location"></i> <img width="16px" src="/static/img/flags/4x3/{{ job.company_country_abbreviation|lower}}.svg" alt="Brazil"> {{ job.company_city }}</p>
+            <p><i class="fa fa-envelope-open-o" aria-hidden="true"></i> <a href="mailto:{{ job.company_email }}">{{ job.company_email }}</a></p>
+        </div>
+        <div class="col-xs-3 col-md-3">
+            <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ job.date }}</p>
+        </div>
+    </div>
+</div>
+{% endmacro %}

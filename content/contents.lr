@@ -5,19 +5,21 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 25
+day: 29
 ----
-month: Mar
+month: Abr
 ----
 year: 2017
 ----
 category: Meetup
 ----
-name: XVIII Encontro PythonRio
+name: XIX Encontro PythonRio
 ----
-description: Dia 25 de Março de 2017 vai rolar XVIII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs.
+description: Dia 29 de Abril de 2017 vai rolar XIX Encontro da @pythonrio.
 ----
 url: http://pythonrio.python.org.br/evento/
+----
+url_applications: https://www.eventbrite.com/e/xviii-encontro-pythonrio-tickets-32983890705
 
 #### event_schedule ####
 day: 5 à 7
@@ -82,3 +84,20 @@ name: PyCon Amazônia
 description: 1ª conferência da comunidade Python do Norte do Brasil
 ----
 url: http://amazonia.python.org.br/
+
+#### event_schedule ####
+day: 8 a 10
+----
+month: Set
+----
+position_inverted: 1
+----
+year: 2017
+----
+category: Evento
+----
+name: Python Sul
+----
+description: 1ª conferência das comunidades Python da Região Sul
+----
+url: http://pythonsul.org/
