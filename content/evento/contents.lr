@@ -30,9 +30,7 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_callpapers: http://speakerfight.com/events/xix-encontro-da-pythonrio/
----
-url_applications:
+url_applications: https://www.eventbrite.com/e/xix-encontro-pythonrio-tickets-33961135671
 ---
 partners:
 #### partner ####
@@ -42,69 +40,64 @@ url: http://www.stone.com.br/
 ----
 logo: /static/img/partners/stonepagamentos.png
 ---
+activities:
 #### activity ####
 name: Credenciamento
 ----
-local: Auditório
+local: Auditório (Cine Sharon)
 ----
 time: 13:30
 #### activity ####
 name: Abertura
 ----
-local: Auditório
+local: Auditório (Cine Sharon)
 ----
 time: 13:50
 #### activity ####
-name: Palestra 1
+name: Importância da Tradução no Meio Tecnológico + Projeto Open Source - Larissa Mourullo
 ----
-local: Auditório
+local: Auditório (Cine Sharon)
 ----
 time: 14:00
 #### activity ####
-name: Palestra 2
+name: AsyncIO no mundo real: Escalando assincronamente com AsyncIO e Aiohttp - Diogo Magalhães Martin
 ----
-local: Auditório
+local: Auditório (Cine Sharon)
 ----
-time: 14:40
-#### activity ####
-name: Palestra 3
-----
-local: Auditório
-----
-time: 15:20
+time: 14:50
 #### activity ####
 name: Coffee Break
 ----
-local: Auditório
+local: Auditório (Cine Sharon)
+----
+time: 15:40
+#### activity ####
+name: Django Channels: aplicações real time com Django - Paula Grangeiro
+----
+local: Auditório (Cine Sharon)
 ----
 time: 16:00
 #### activity ####
-name: Palestra 4
+name: Lightining Talks
 ----
-local: Auditório
+local: Auditório (Cine Sharon)
 ----
-time: 16:20
+time: 16:50
 #### activity ####
-name: Palestra 5
+name: PyDojo
 ----
-local: Auditório
+local: Auditório (Cine Sharon)
 ----
 time: 17:00
 #### activity ####
-name: Lightning talks
-----
-local: Auditório
-----
-time: 17:40
-#### activity ####
 name: Encerramento + foto
 ----
-local: Auditório
+local: Auditório (Cine Sharon)
 ----
-time: 18:00
+time: 18:40
 #### activity ####
 name: Pós-evento
 ----
 local: No bar mais próximo, vamos trocar ideias e beber um chopp.
 ----
-time: 18:10
+time: 19:00
