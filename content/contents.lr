@@ -5,28 +5,9 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 29
-----
-month: Abr
-----
-year: 2017
-----
-category: Meetup
-----
-name: XIX Encontro PythonRio
-----
-description: Dia 29 de Abril de 2017 vai rolar XIX Encontro da @pythonrio.
-----
-url: http://pythonrio.python.org.br/evento/
-----
-url_applications: https://www.eventbrite.com/e/xviii-encontro-pythonrio-tickets-32983890705
-
-#### event_schedule ####
 day: 5 à 7
 ----
 month: Mai
-----
-position_inverted: 1
 ----
 year: 2017
 ----
@@ -37,6 +18,23 @@ name: Python Sudeste
 description: A Python Sudeste é uma conferência sem fins lucrativos realizada por voluntários visando promover a linguagem de programação de código aberto Python. É apoiada pela Associação Python Brasil (APyB) e pelo Python Software Foundation (PSF).
 ----
 url: http://pythonsudeste.org/
+
+#### event_schedule ####
+day: 27
+----
+month: Mai
+----
+position_inverted: 1
+----
+year: 2017
+----
+category: Meetup
+----
+name: XX Encontro PythonRio
+----
+description: XX Encontro da @pythonrio que vai acontecer na Universidade Veiga de Almeida Campus Tijuca.
+----
+url: http://pythonrio.python.org.br/evento/
 
 #### event_schedule ####
 day: 8 à 10
