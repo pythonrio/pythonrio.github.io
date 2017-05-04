@@ -1,14 +1,14 @@
 _model: event
 ---
-date: 29 de Abril de 2017
+date: 27 de Maio de 2017
 ---
-title: XIX Encontro da PythOnRio
+title: XX Encontro da PythOnRio
 ---
-address: Avenida General Justo, 375, 9º andar
+address: Rua Ibituruna, 108 - Maracanã
 ---
 city: Rio de Janeiro
 ---
-local: Stone Pagamentos
+local: Universidade Veiga de Almeida - UVA
 ---
 neighborhood: Centro
 ---
@@ -16,7 +16,9 @@ description:
 
 Prezados,
 
-Dia 29 de Abril de 2017 vai rolar XIX Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida General Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130. Submeta sua proposta de palestra até dia 19/04/2017 pelo http://speakerfight.com/events/xix-encontro-da-pythonrio/.
+Dia 27 de Maio de 2017 vai rolar XX Encontro da @pythonrio que vai acontecer na Universidade Veiga de Almeida Campus Tijuca.
+
+Submeta sua proposta de palestra até dia 21/05/2017 pelo speakerfight http://speakerfight.com/events/xx-encontro-da-pythonrio/.
 
 Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
@@ -30,74 +32,77 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_applications: https://www.eventbrite.com/e/xix-encontro-pythonrio-tickets-33961135671
+url_callpapers: http://speakerfight.com/events/xx-encontro-da-pythonrio/.
+---
+url_applications:
 ---
 partners:
 #### partner ####
-name: Stone Pagamentos
+name: Universidade Veiga de Almeida - UVA
 ----
-url: http://www.stone.com.br/
+url: https://www.uva.br/
 ----
-logo: /static/img/partners/stonepagamentos.png
+logo: /static/img/partners/logouva.png
 ---
 activities:
+
 #### activity ####
 name: Credenciamento
 ----
-local: Auditório (Cine Sharon)
+local: Auditório
 ----
 time: 13:30
 #### activity ####
 name: Abertura
 ----
-local: Auditório (Cine Sharon)
+local: Auditório
 ----
-time: 13:50
+time: 13:55
 #### activity ####
-name: Importância da Tradução no Meio Tecnológico + Projeto Open Source - Larissa Mourullo
+name: Palestra 1
 ----
-local: Auditório (Cine Sharon)
+local: Auditório
 ----
 time: 14:00
 #### activity ####
-name: AsyncIO no mundo real: Escalando assincronamente com AsyncIO e Aiohttp - Diogo Magalhães Martins
+name: Palestra 2
 ----
-local: Auditório (Cine Sharon)
+local: Auditório
 ----
-time: 14:50
+time: 14:45
+#### activity ####
+name: Lightning talks
+----
+local: Auditório
+----
+time: 15:30
 #### activity ####
 name: Coffee Break
 ----
-local: Auditório (Cine Sharon)
-----
-time: 15:40
-#### activity ####
-name: Django Channels: aplicações real time com Django - Paula Grangeiro
-----
-local: Auditório (Cine Sharon)
+local: Auditório
 ----
 time: 16:00
 #### activity ####
-name: Lightining Talks
+name: Palestra 3
 ----
-local: Auditório (Cine Sharon)
+local: Auditório
 ----
-time: 16:50
+time: 16:20
 #### activity ####
-name: PyDojo
+name: Palestra 4
 ----
-local: Auditório (Cine Sharon)
+local: Auditório
 ----
-time: 17:00
+time: 17:05
 #### activity ####
-name: Encerramento + foto
+name: Encerramento + Foto
 ----
-local: Auditório (Cine Sharon)
+local: Auditório
 ----
-time: 18:40
+time: 17:50
 #### activity ####
 name: Pós-evento
 ----
 local: No bar mais próximo, vamos trocar ideias e beber um chopp.
 ----
-time: 19:00
+time: 18:00
