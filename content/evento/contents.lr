@@ -32,7 +32,7 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 ---
 url_callpapers: http://speakerfight.com/events/xx-encontro-da-pythonrio/.
 ---
-url_applications:
+url_applications: https://docs.google.com/a/fukuda.com.br/forms/d/e/1FAIpQLSfIeoiLMJwjd9wdYzoC0OG1uPk2rCfNvWC5CP28S3gghmRwsA/viewform 
 ---
 partners:
 #### partner ####
@@ -55,7 +55,7 @@ link:
 ----
 bio: Exploits em python
 Ferramentas de Pentest em Python
-Por que utilizam muito python para Pentest ? 
+Por que utilizam muito python para Pentest ?
 Automatizando exploits com python
 Flask e Django, suas vulnerabilidades.
 ----
@@ -108,50 +108,50 @@ activities:
 #### activity ####
 name: Credenciamento
 ----
-local: Auditório
+local: Auditório A206, bloco A 2o andar
 ----
 time: 13:30
 #### activity ####
 name: Abertura
 ----
-local: Auditório
+local: Auditório A206, bloco A 2o andar
 ----
 time: 13:55
 #### activity ####
 name: Python para segurança da informação
 ----
-local: Auditório
+local: Auditório A206, bloco A 2o andar
 ----
 time: 14:00
 #### activity ####
 name: Coroutine e concorrência - python
 ----
-local: Auditório
+local: Auditório A206, bloco A 2o andar
 ----
 time: 14:40
 #### activity ####
 name: Impressão 3D, Software Livre e trabalho em equipe. Como isso me incentivou a seguir minha carreira em TI
 ----
-local: Auditório
+local: Auditório A206, bloco A 2o andar
 ----
 time: 15:20
 #### activity ####
 name: Lightining Talks
 ----
-local: Auditório
+local: Auditório A206, bloco A 2o andar
 ----
 time: 16:00
 #### activity ####
 name: Brincando com a inteligência coletiva com Python
 ----
-local: Auditório
+local: Auditório A206, bloco A 2o andar
 ----
 time: 16:15
 ----
 #### activity ####
 name: Encerramento + Foto
 ----
-local: Auditório
+local: Auditório A206, bloco A 2o andar
 ----
 time: 16:55
 #### activity ####
