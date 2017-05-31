@@ -550,18 +550,18 @@ label {
 	font-size: 14px;
 	text-transform: uppercase;
 }
-.timeline>li.timeline-inverted>.timeline-panel {
+.timeline>li.timeline-odd>.timeline-panel {
 	float: right;
 	padding: 0 20px 0 100px;
 	text-align: left;
 }
-.timeline>li.timeline-inverted>.timeline-panel:before {
+.timeline>li.timeline-odd>.timeline-panel:before {
 	right: auto;
 	left: -15px;
 	border-right-width: 15px;
 	border-left-width: 0;
 }
-.timeline>li.timeline-inverted>.timeline-panel:after {
+.timeline>li.timeline-odd>.timeline-panel:after {
 	right: auto;
 	left: -14px;
 	border-right-width: 14px;
@@ -613,7 +613,7 @@ label {
 	line-height: 18px;
 	font-weight: 400;
 }
-.timeline>li.timeline-inverted>.timeline-panel {
+.timeline>li.timeline-odd>.timeline-panel {
 	float: right;
 	padding: 0 30px 20px 20px;
 	text-align: left;
@@ -637,7 +637,7 @@ label {
 	font-size: 18px;
 	line-height: 26px;
 }
-.timeline>li.timeline-inverted>.timeline-panel {
+.timeline>li.timeline-odd>.timeline-panel {
 	padding: 0 20px 20px;
 }
 }
@@ -658,7 +658,7 @@ label {
 	margin-top: 40px;
 	font-weight: 400;
 }
-.timeline>li.timeline-inverted>.timeline-panel {
+.timeline>li.timeline-odd>.timeline-panel {
 	padding: 10px 100px 20px 20px;
 }
 }

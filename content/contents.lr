@@ -5,24 +5,39 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 5 à 7
+day: 3
 ----
-month: Mai
+month: Jun
+----
+year: 2017
+----
+category: Meetup
+----
+name: Grupy Caxias
+----
+description: I Encontro Grupy Caxias
+----
+url: https://www.eventbrite.com.br/e/i-encontro-grupy-caxias-tickets-34602158989
+
+#### event_schedule ####
+day: 10
+----
+month: Jun
 ----
 year: 2017
 ----
 category: Evento
 ----
-name: Python Sudeste
+name: Ionic Day I
 ----
-description: A Python Sudeste é uma conferência sem fins lucrativos realizada por voluntários visando promover a linguagem de programação de código aberto Python. É apoiada pela Associação Python Brasil (APyB) e pelo Python Software Foundation (PSF).
+description: O Ionic Day é um evento voltado para a comunidade de desenvolvimento com o intuito de compartilhar conhecimento, onde o objetivo não é apenas falar de Ionic e sim aprender um pouco mais sobre o mundo mobile híbrido.
 ----
-url: http://pythonsudeste.org/
+url: https://www.meetup.com/IonicRio/events/240151003/?eventId=240151003
 
 #### event_schedule ####
-day: 27
+day: 24
 ----
-month: Mai
+month: Jun
 ----
 position_inverted: 1
 ----
@@ -30,11 +45,28 @@ year: 2017
 ----
 category: Meetup
 ----
-name: XX Encontro PythonRio
+name: XXI Encontro PythonRio
 ----
-description: XX Encontro da @pythonrio que vai acontecer na Universidade Veiga de Almeida Campus Tijuca.
+description: Dia 24 de Junho de 2017 vai rolar XXI Encontro da @pythonrio.
 ----
 url: http://pythonrio.python.org.br/evento/
+
+#### event_schedule ####
+day: 24
+----
+month: Jun
+----
+position_inverted: 1
+----
+year: 2017
+----
+category: Meetup
+----
+name: GDG Duque de Caxias Meetup #12
+----
+description: Um meetup para falar de tecnologias diversas e promover um networking.
+----
+url: https://www.meetup.com/GDGDuquedeCaxias/events/239990455/?eventId=239990455
 
 #### event_schedule ####
 day: 8 à 10
