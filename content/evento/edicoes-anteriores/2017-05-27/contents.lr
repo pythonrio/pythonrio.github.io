@@ -1,0 +1,162 @@
+_model: event
+---
+date: 27 de Maio de 2017
+---
+title: XX Encontro da PythOnRio
+---
+address: Rua Ibituruna, 108 - Maracanã
+---
+city: Rio de Janeiro
+---
+local: Universidade Veiga de Almeida - UVA
+---
+neighborhood: Centro
+---
+description:
+
+Prezados,
+
+Dia 27 de Maio de 2017 vai rolar XX Encontro da @pythonrio que vai acontecer na Universidade Veiga de Almeida Campus Tijuca.
+
+Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
+
+@pythonrio #forcapython
+
+[+ Facebook](https://www.facebook.com/pythonrio)
+&nbsp; &nbsp;
+[+ Twitter](https://www.twitter.com/pythonrio)
+&nbsp; &nbsp;
+[+ Telegram](https://telegram.me/PythonRio)
+&nbsp; &nbsp;
+[+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
+---
+url_callpapers: http://speakerfight.com/events/xx-encontro-da-pythonrio/.
+---
+url_applications: https://docs.google.com/a/fukuda.com.br/forms/d/e/1FAIpQLSfIeoiLMJwjd9wdYzoC0OG1uPk2rCfNvWC5CP28S3gghmRwsA/viewform 
+---
+partners:
+#### partner ####
+name: Universidade Veiga de Almeida - UVA
+----
+url: https://www.uva.br/
+----
+logo: /static/img/partners/logouva.png
+---
+speakers:
+
+#### speaker ####
+talk: Python para segurança da informação
+----
+name: Mateus Linno
+----
+at:
+----
+link:
+----
+bio: Exploits em python
+Ferramentas de Pentest em Python
+Por que utilizam muito python para Pentest ?
+Automatizando exploits com python
+Flask e Django, suas vulnerabilidades.
+----
+photo: /static/img/speakers/default.png
+#### speaker ####
+talk: Coroutine e concorrência - python
+----
+name: Kauêh Moreno
+----
+at:
+----
+link:
+----
+bio: Como as linguagens de alto nível aprenderam a utilizar o SO em benefício próprio. Esse talk tem como objetivo mostrar e apontar o funcionamento de alguns processos internos do sistema operacional, tais quais: processos, threads, context-switching etc. E como as linguagens de alto nível. como python, aprenderam a se beneficiar dessas operações e processos para aumentar a performance em tempo de execução. Mostrarei alguns conceitos e como coroutine funciona internamente, além de alguns exemplos práticos de melhora em termos de performance que isso trouxe à linguagem.
+----
+photo: /static/img/speakers/kauemoreno.jpg
+#### speaker ####
+talk: Impressão 3D, Software Livre e trabalho em equipe. Como isso me incentivou a seguir minha carreira em TI
+----
+name: Lays Rodrigues
+----
+at:
+----
+link:
+----
+bio: Faz quase dois anos que me envolvi no mundo da impressão 3D, e depois de um início conturbado trabalhando com pessoas que não valorizavam meu trabalho, hoje faço parte de uma das maiores comunidades de Software Livre do mundo e estou a semanas de fazer o lançamento da primeira versão do Atelier, um software de impressão 3D.
+
+
+Nesta talk pretendo contar um pouco dessa história, e compartilhar fatos que ajudaram a continuar nesse incrível caminho que é ser uma mulher na tecnologia. =D
+----
+photo: /static/img/speakers/laysrodrigues.jpg
+#### speaker ####
+talk: Brincando com a inteligência coletiva com Python
+----
+name: André Fonseca
+----
+at:
+----
+link:
+----
+bio: Muito se fala nos dias atuais sobre big data e a ciência de dados.  Cita-se coisas como massa de dados com PETA Bytes de informações, servidores super dimensionados e rebuscados algoritmos de machine learning. Tudo para isso para gerar coisas como recomendações, clusterização de usuários, análise de sentimentos,  detecção de padrões, etc.
+
+
+A ideia é de mostrar como Python se encaixa perfeitamente nesse mundo e como vem sendo a ferramenta preferida do pessoal da área.  Outra coisa que gostaria nessa apresentação é mostrar que é possível fazer ciência de dados sem grandes massas de dados, com dados abertos que temos disponíveis - chamado de inteligencia coletiva por Pierry Levi (filosofo moderno que é o expoente no assunto).
+----
+photo: /static/img/speakers/andrefonseca.jpg
+---
+activities:
+
+#### activity ####
+name: Credenciamento
+----
+local: Auditório A206, bloco A 2o andar
+----
+time: 13:30
+#### activity ####
+name: Abertura
+----
+local: Auditório A206, bloco A 2o andar
+----
+time: 13:55
+#### activity ####
+name: Python para segurança da informação
+----
+local: Auditório A206, bloco A 2o andar
+----
+time: 14:00
+#### activity ####
+name: Coroutine e concorrência - python
+----
+local: Auditório A206, bloco A 2o andar
+----
+time: 14:40
+#### activity ####
+name: Impressão 3D, Software Livre e trabalho em equipe. Como isso me incentivou a seguir minha carreira em TI
+----
+local: Auditório A206, bloco A 2o andar
+----
+time: 15:20
+#### activity ####
+name: Lightining Talks
+----
+local: Auditório A206, bloco A 2o andar
+----
+time: 16:00
+#### activity ####
+name: Brincando com a inteligência coletiva com Python
+----
+local: Auditório A206, bloco A 2o andar
+----
+time: 16:15
+----
+#### activity ####
+name: Encerramento + Foto
+----
+local: Auditório A206, bloco A 2o andar
+----
+time: 16:55
+#### activity ####
+name: Pós-evento
+----
+local: No bar mais próximo, vamos trocar ideias e beber um chopp.
+----
+time: 17:00
