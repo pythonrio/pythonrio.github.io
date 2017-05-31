@@ -4,11 +4,11 @@ date: 24 de Junho de 2017
 ---
 title: XXI Encontro da PythOnRio
 ---
-address:
+address: Rua São José, 90, 2º andar
 ---
 city: Rio de Janeiro
 ---
-local: A Definir
+local: Infnet
 ---
 neighborhood: Centro
 ---
@@ -16,7 +16,7 @@ description:
 
 Venham curtir mais um evento da PythOnRio!!!!
 
-Dia 24 de Junho de 2017 vai rolar XXI Encontro da @pythonrio. Ainda estamos definindo o local e, assim que soubermos, liberamos em nossa Fan Page os links para a inscrição.
+Dia 24 de Junho de 2017 vai rolar XXI Encontro da @pythonrio na Infnet!
 
 Submeta sua proposta de palestra até dia 18/06/2017.
 
@@ -37,6 +37,13 @@ url_callpapers: http://speakerfight.com/events/xxi-encontro-da-pythonrio/
 url_applications:
 ---
 partners:
+
+#### partner ####
+name: Infnet
+----
+url: http://www.infnet.edu.br/infnet/
+----
+logo: /static/img/partners/infnet.jpg
 
 ---
 activities:
