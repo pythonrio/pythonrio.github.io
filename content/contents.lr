@@ -5,36 +5,6 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 3
-----
-month: Jun
-----
-year: 2017
-----
-category: Meetup
-----
-name: Grupy Caxias
-----
-description: I Encontro Grupy Caxias
-----
-url: https://www.eventbrite.com.br/e/i-encontro-grupy-caxias-tickets-34602158989
-
-#### event_schedule ####
-day: 10
-----
-month: Jun
-----
-year: 2017
-----
-category: Evento
-----
-name: Ionic Day I
-----
-description: O Ionic Day é um evento voltado para a comunidade de desenvolvimento com o intuito de compartilhar conhecimento, onde o objetivo não é apenas falar de Ionic e sim aprender um pouco mais sobre o mundo mobile híbrido.
-----
-url: https://www.meetup.com/IonicRio/events/240151003/?eventId=240151003
-
-#### event_schedule ####
 day: 24
 ----
 month: Jun
@@ -67,21 +37,6 @@ name: GDG Duque de Caxias Meetup #12
 description: Um meetup para falar de tecnologias diversas e promover um networking.
 ----
 url: https://www.meetup.com/GDGDuquedeCaxias/events/239990455/?eventId=239990455
-
-#### event_schedule ####
-day: 8 à 10
-----
-month: Jun
-----
-year: 2017
-----
-category: Evento
-----
-name: Python Nordeste
-----
-description: A Python Nordeste é o maior encontro da região nordeste para a comunidade Python, que ocorre anualmente em cidades do nordeste do Brasil e está na sua quinta edição.
-----
-url: http://2017.pythonnordeste.org/
 
 #### event_schedule ####
 day: 23 à 27
