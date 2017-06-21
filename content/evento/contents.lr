@@ -59,7 +59,7 @@ link:
 ----
 bio: Nesta palestra eu pretendo explorar alguns conceitos e ferramentas utilizados em Big Data, tendo como base o artigo "The Anatomy of a Large-Scale Hypertextual Web Search Engine". A ideia é falar sobre Big Data apresentando um problema real que provocou a busca de uma solução que hoje conhecemos simplesmente como O Google! Para exemplificar as propostas apresentadas no texto de Sergey Brin e Lawrence Page será utilizado Python sem nenhum pudor...
 ----
-photo: /static/img/speakers/default.png
+photo: /static/img/speakers/rafaelcalixto.jpg
 #### speaker ####
 talk: Automatizando build e deploy com Travis-CI
 ----
