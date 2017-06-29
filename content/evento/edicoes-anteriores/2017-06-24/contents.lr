@@ -1,0 +1,168 @@
+_model: event
+---
+date: 24 de Junho de 2017
+---
+title: XXI Encontro da PythOnRio
+---
+address: Rua São José, 90, 2º andar
+---
+city: Rio de Janeiro
+---
+local: Infnet
+---
+neighborhood: Centro
+---
+description:
+
+Venham curtir mais um evento da PythOnRio!!!!
+
+Dia 24 de Junho de 2017 vai rolar XXI Encontro da @pythonrio na Infnet!
+
+Submeta sua proposta de palestra até dia 18/06/2017.
+
+Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
+
+@pythonrio #forcapython
+
+[+ Facebook](https://www.facebook.com/pythonrio)
+&nbsp; &nbsp;
+[+ Twitter](https://www.twitter.com/pythonrio)
+&nbsp; &nbsp;
+[+ Telegram](https://telegram.me/PythonRio)
+&nbsp; &nbsp;
+[+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
+---
+url_callpapers: http://speakerfight.com/events/xxi-encontro-da-pythonrio/
+---
+url_applications: https://www.eventbrite.com/e/xxi-encontro-pythonrio-tickets-35508252138
+---
+partners:
+
+#### partner ####
+name: Infnet
+----
+url: http://www.infnet.edu.br/infnet/
+----
+logo: /static/img/partners/infnet.jpg
+
+---
+speakers:
+
+#### speaker ####
+talk: Utilizando Python para criar um PageRank - A história do surgimento da Google!
+----
+name: Rafael Calixto
+----
+at:
+----
+link:
+----
+bio: Nesta palestra eu pretendo explorar alguns conceitos e ferramentas utilizados em Big Data, tendo como base o artigo "The Anatomy of a Large-Scale Hypertextual Web Search Engine". A ideia é falar sobre Big Data apresentando um problema real que provocou a busca de uma solução que hoje conhecemos simplesmente como O Google! Para exemplificar as propostas apresentadas no texto de Sergey Brin e Lawrence Page será utilizado Python sem nenhum pudor...
+----
+photo: /static/img/speakers/rafaelcalixto.jpg
+#### speaker ####
+talk: Automatizando build e deploy com Travis-CI
+----
+name: Lays Rodrigues
+----
+at:
+----
+link:
+----
+bio: A ideia desta palestra é mostrar como fiz a automatização do testing, build e deploy do site do meu projeto de impressão 3D usando o Travis. =D
+----
+photo: /static/img/speakers/laysrodrigues.jpg
+#### speaker ####
+talk: Wrapping C libraries into Python modules
+----
+name: Gustavo Pantuza
+----
+at:
+----
+link:
+----
+bio: Caso queiram conferir os slides:
+https://speakerdeck.com/pantuza/wrapping-c-libraries-into-python-modules
+
+Entenda como bibliotecas Python como PIL, ScyPy, Numpy fazem interface com módulos em C compilados disponível no sistema operacional.
+
+Nativamente o Python te permite fazer isso. Essa palestra visa apresentar os conceitos, os recursos do compilador/interpretador Python para permitir essa tipo de interação entre as linguagens.
+Um módulo C / Python será apresentado como exemplo.
+----
+photo: /static/img/speakers/gustavopantuza.jpg
+----
+#### speaker ####
+talk: Importância da Tradução no Meio Tecnológico + Projeto Open Source
+----
+name: Larissa Mourullo
+----
+at:
+----
+link:
+----
+bio: Você tem uma ideia brilhante para escrever um artigo, ou apresentar uma palestra, quem sabe criar um projeto grande e que vai te abrir muitas portas, mas então chega o pior momento, o qual você precisará decidir: “Inglês ou português?”. Atualmente a maior parte da comunidade de tecnologia do Brasil acaba caindo nessa situação, onde você tem duas vertentes: ir para o inglês e alcançar mais pessoas do mundo, ter maior feedback, ou utilizar o português, sua língua nativa, da qual você tem maior domínio.
+----
+photo: /static/img/speakers/larissamourullo.jpg
+---
+activities:
+
+#### activity ####
+name: Credenciamento
+----
+local: Auditório
+----
+time: 13:30
+#### activity ####
+name: Abertura
+----
+local: Auditório
+----
+time: 13:55
+#### activity ####
+name: Utilizando Python para criar um PageRank - A história do surgimento da Google!
+----
+local: Auditório
+----
+time: 14:00
+#### activity ####
+name: Automatizando build e deploy com Travis-CI
+----
+local: Auditório
+----
+time: 14:45
+#### activity ####
+name: Lightning talks
+----
+local: Auditório
+----
+time: 15:30
+#### activity ####
+name: Coffee Break
+----
+local: Auditório
+----
+time: 16:00
+#### activity ####
+name: Wrapping C libraries into Python modules
+----
+local: Auditório
+----
+time: 16:20
+#### activity ####
+name: Importância da Tradução no Meio Tecnológico + Projeto Open Source
+----
+local: Auditório
+----
+time: 17:05
+#### activity ####
+name: Encerramento + Foto
+----
+local: Auditório
+----
+time: 17:50
+#### activity ####
+name: Pós-evento
+----
+local: No bar mais próximo, vamos trocar ideias e beber um chopp.
+----
+time: 18:00
