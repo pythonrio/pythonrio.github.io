@@ -5,9 +5,9 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 24
+day: 29
 ----
-month: Jun
+month: Jul
 ----
 position_inverted: 1
 ----
@@ -15,45 +15,11 @@ year: 2017
 ----
 category: Meetup
 ----
-name: XXI Encontro PythonRio
+name: XXII Encontro PythonRio
 ----
-description: Dia 24 de Junho de 2017 vai rolar XXI Encontro da @pythonrio.
+description: Dia 29 de Julho de 2017 vai rolar XXII Encontro da @pythonrio.
 ----
 url: http://pythonrio.python.org.br/evento/
-
-#### event_schedule ####
-day: 24
-----
-month: Jun
-----
-position_inverted: 1
-----
-year: 2017
-----
-category: Meetup
-----
-name: GDG Duque de Caxias Meetup #12
-----
-description: Um meetup para falar de tecnologias diversas e promover um networking.
-----
-url: https://www.meetup.com/GDGDuquedeCaxias/events/239990455/?eventId=239990455
-
-#### event_schedule ####
-day: 23 à 27
-----
-month: Jun
-----
-position_inverted: 1
-----
-year: 2017
-----
-category: Evento
-----
-name: Caipyra
-----
-description: O Caipyra é um evento inspirado na Python Brasil (maior evento Python da América Latina) e visa, sem fins lucrativos, disseminar conhecimento sobre diversas áreas da tecnologia.
-----
-url: http://caipyra.python.org.br/
 
 #### event_schedule ####
 day: 12 e 13
@@ -86,3 +52,20 @@ name: Python Sul
 description: 1ª conferência das comunidades Python da Região Sul
 ----
 url: http://pythonsul.org/
+
+#### event_schedule ####
+day: 06 a 11
+----
+month: Out
+----
+position_inverted: 1
+----
+year: 2017
+----
+category: Evento
+----
+name: Python Brasil
+----
+description: 13ª conferência brasileira da comunidade Python
+----
+url: http://2017.pythonbrasil.org.br/
