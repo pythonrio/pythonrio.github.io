@@ -58,12 +58,6 @@ a:hover, a:focus {
 .clearfix {
 	display: block;
 }
-ul, ol {
-	padding: 0;
-	webkit-padding: 0;
-	moz-padding: 0;
-	list-style: none;
-}
 hr {
 	height: 2px;
 	width: 60px;
