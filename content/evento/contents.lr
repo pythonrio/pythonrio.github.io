@@ -4,11 +4,11 @@ date: 29 de Julho de 2017
 ---
 title: XXII Encontro da PythOnRio
 ---
-address:
+address: Avenida General Justo, 375, 9º andar
 ---
 city: Rio de Janeiro
 ---
-local:
+local: Stone Pagamentos
 ---
 neighborhood: Centro
 ---
@@ -16,7 +16,7 @@ description:
 
 Venham curtir mais um evento da PythOnRio!!!!
 
-Dia 29 de Julho de 2017 vai rolar XXII Encontro da @pythonrio na Infnet!
+Dia 29 de Julho de 2017 vai rolar XXII Encontro da @pythonrio na Stone Pagamentos das 14:00hs até às 18:00hs, Avenida General Justo, 375, 9º andar - Centro, Rio de Janeiro - RJ, 20021-130.
 
 Submeta sua proposta de palestra até dia 22/07/2017.
 
@@ -32,11 +32,18 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_callpapers:
+url_callpapers: http://speakerfight.com/events/xxii-encontro-da-pythonrio/
 ---
 url_applications:
 ---
 partners:
+
+#### partner ####
+name: Stone Pagamentos
+----
+url: http://www.stone.com.br/
+----
+logo: /static/img/partners/stonepagamentos.png
 ---
 speakers:
 ---
