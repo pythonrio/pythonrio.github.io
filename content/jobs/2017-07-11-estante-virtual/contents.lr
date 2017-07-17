@@ -6,7 +6,7 @@ title: Estagiário de TI
 ---
 company: Estante Virtual
 ---
-company_email: http://site.vagas.com.br/PagVagaDirSS.asp?v=1541360&pp=https://site.vagas.com.br/GoHome.asp?v=1541360&j=t&sslon=1&wiw=1855
+company_email:
 ---
 company_website: https://www.estantevirtual.com.br/quem-somos
 ---
@@ -18,6 +18,8 @@ company_city: Rio de Janeiro
 ---
 company_address: Laranjeiras
 ---
+company_photo: /static/img/company/estantevirtual-logo.png
+---
 job: Estagiário de T.I.
 ---
 job_level: Estágio
@@ -25,6 +27,7 @@ job_level: Estágio
 job_description:
 
 Oportunidade:
+
 Buscamos estagiários motivados, agilistas por natureza e comprometidos com qualidade para somar no time de TI, atuando no desenvolvimento da nova plataforma. Aqui você vai trabalhar num time fera, aprender muito sobre tecnologia e marketplaces.
 
 Requisitos:
@@ -52,5 +55,7 @@ Observações:
 Os candidatos que atenderem aos requisitos acima poderão ser chamados para as etapas presenciais. Os demais serão incluídos em nosso banco de talentos para futuras oportunidades na Estante Virtual.
 
 Junte-se ao nosso time de apaixonados por leitura!
+
+[Clique aqui para se candidatar](http://site.vagas.com.br/PagVagaDirSS.asp?v=1541360&pp=https://site.vagas.com.br/GoHome.asp?v=1541360&j=t&sslon=1&wiw=1855)
 
 Boa sorte! =)
