@@ -18,14 +18,20 @@
                         </a>
                     </div>
                     <div class="col-xs-6">
-                        <h4 class="job__title">{{ this.job }} {{ this.job_level }}</h4>
+                        {% if this.job_level %}
+                        <h4 class="job__title">[{{ this.job_level }}] {{ this.job }}</h4>
+                        {% else %}
+                        <h4 class="job__title">{{ this.job }}</h4>
+                        {% endif %}
                         <p class="job__company"><a href="{{ this.company_website }}">{{ this.company }}</a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xs-3 col-md-3">
                 <p><i class="fa fa-map-marker job__location"></i> <img width="16px" src="/static/img/flags/4x3/{{ this.company_country_abbreviation|lower}}.svg" alt="{{ this.company_country }}"> {{ this.company_city }}</p>
+                {% if this.company_email %}
                 <p><i class="fa fa-envelope-open-o" aria-hidden="true"></i> <a href="mailto:{{ this.company_email }}">{{ this.company_email }}</a></p>
+                {% endif %}
             </div>
             <div class="col-xs-3 col-md-3">
                 <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ this.date }}</p>

@@ -7,14 +7,20 @@
                     <img src="{{ job.company_photo }}" alt="{{ job.company }}" class="img-responsive">
                 </div>
                 <div class="col-xs-6">
-                    <h4 class="job__title"><a href="{{ job|url }}">{{ job.job }} {{ job.job_level }}</a></h4>
+                    {% if job.job_level %}
+                    <h4 class="job__title"><a href="{{ job|url }}">[{{ job.job_level }}] {{ job.job }}</a></h4>
+                    {% else %}
+                    <h4 class="job__title"><a href="{{ job|url }}">{{ job.job }}</a></h4>
+                    {% endif %}
                     <p class="job__company">{{ job.company }}</p>
                 </div>
             </div>
         </div>
         <div class="col-xs-3 col-md-3">
             <p><i class="fa fa-map-marker job__location"></i> <img width="16px" src="/static/img/flags/4x3/{{ job.company_country_abbreviation|lower}}.svg" alt="Brazil"> {{ job.company_city }}</p>
+            {% if job.company_email %}
             <p><i class="fa fa-envelope-open-o" aria-hidden="true"></i> <a href="mailto:{{ job.company_email }}">{{ job.company_email }}</a></p>
+            {% endif %}
         </div>
         <div class="col-xs-3 col-md-3">
             <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ job.date }}</p>

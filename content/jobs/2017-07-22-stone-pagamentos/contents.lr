@@ -1,0 +1,45 @@
+_model: job
+---
+date: 22 de Julho de 2017
+---
+title: Desenvolvedores
+---
+company: Stone Pagamentos
+---
+company_website: http://enter.stone.com.br
+---
+company_country: Brasil
+---
+company_country_abbreviation: BR
+---
+company_city: Rio de Janeiro
+---
+company_photo: /static/img/company/stonepagamentos.png
+---
+job: Desenvolvedores
+---
+job_photo_banner: /static/img/cover/stoneoffice.jpg
+---
+job_description:
+Você sabe muito bem que a tecnologia é a melhor solução pra qualquer problema. Aqui, colocamos isso em prática, e o primeiro passo foi o mercado de pagamentos. A verdade é que estamos apenas começando e a ideia é mudar o mundo todo. Afinal, “software is eating the world”, e isso é incrível.
+
+A Stone tem um propósito claro: usar inteligência e as melhores tecnologias pra resolver os problemas financeiros dos nossos clientes.
+
+''Talk is Cheap, show me the code!’’
+
+Não é que não existam regras, é que elas são construídas de acordo com o problema a ser resolvido. Assim como nossos DEVs possuem perfis diferentes entre si, apostamos na variedade de linguagens pra desenvolver nossas soluções. Nossa stack envolve:
+-> Vue.Js
+-> C#
+-> React
+-> .NET
+-> Go
+-> JavaScript
+-> AngularJS
+-> Node.js
+-> MongoDB
+-> Python
+-> Elastic Search
+E muito mais coisa! Mas relaxa, você não precisa saber tudo isso!
+
+E aí, pronto pra fazer parte do nosso time?
+Entra em http://enter.stone.com.br e manda seu currículo!
