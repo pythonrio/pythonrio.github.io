@@ -5,9 +5,9 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 29
+day: 26
 ----
-month: Jul
+month: Ago
 ----
 position_inverted: 1
 ----
@@ -15,26 +15,11 @@ year: 2017
 ----
 category: Meetup
 ----
-name: XXII Encontro PythonRio
+name: Meetup PythOnRio
 ----
-description: Dia 29 de Julho de 2017 vai rolar XXII Encontro da @pythonrio.
+description: Dia 26 de Agosto de 2017 vai rolar mais um meetup da @pythonrio.
 ----
 url: http://pythonrio.python.org.br/evento/
-
-#### event_schedule ####
-day: 12 e 13
-----
-month: Ago
-----
-year: 2017
-----
-category: Evento
-----
-name: PyCon Amazônia
-----
-description: 1ª conferência da comunidade Python do Norte do Brasil
-----
-url: http://amazonia.python.org.br/
 
 #### event_schedule ####
 day: 8 a 10
