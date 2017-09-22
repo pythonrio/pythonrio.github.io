@@ -1,22 +1,22 @@
 _model: event
 ---
-date: 30 de Setembro de 2017
+date: 26 de Agosto de 2017
 ---
 title: Meetup da PythOnRio
 ---
-address: R. Sacadura Cabral, 130 - Saúde, Rio de Janeiro - RJ, 20081-262.
+address: R. Barão do Flamengo, 22, sala 402 - Flamengo, Rio de Janeiro - RJ, 22220-080.
 ---
 city: Rio de Janeiro
 ---
-local: B2W
+local: eShares
 ---
-neighborhood: Saúde
+neighborhood: Flamengo
 ---
 description:
 
 Venham curtir mais um evento da PythOnRio!!!!
 
-No dia 30 de Setembro de 2017 vai rolar mais um encontro da @pythonrio na B2W das 13:30hs até às 18:00hs,  R. Sacadura Cabral, 130 - Saúde, Rio de Janeiro - RJ, 20081-262.
+Dia 26 de Agosto de 2017 vai rolar mais um encontro da @pythonrio na E-Shares das 13:30hs até às 18:00hs,  R. Barão do Flamengo, 22 - Flamengo, Rio de Janeiro - RJ, 22220-080.
 
 Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
@@ -35,11 +35,11 @@ url_applications: https://www.eventbrite.com/e/pythonrio-agosto2017-tickets-3722
 partners:
 
 #### partner ####
-name: B2W Digital
+name: E-Shares
 ----
-url: https://ri.b2w.digital/
+url: https://esharesinc.com/
 ----
-logo: /static/img/partners/b2w.png
+logo: /static/img/partners/eshares.png
 ---
 speakers:
 ---
