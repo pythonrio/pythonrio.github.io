@@ -1,0 +1,87 @@
+_model: event
+---
+date: 26 de Agosto de 2017
+---
+title: Meetup da PythOnRio
+---
+address: R. Barão do Flamengo, 22, sala 402 - Flamengo, Rio de Janeiro - RJ, 22220-080.
+---
+city: Rio de Janeiro
+---
+local: eShares
+---
+neighborhood: Flamengo
+---
+description:
+
+Venham curtir mais um evento da PythOnRio!!!!
+
+Dia 26 de Agosto de 2017 vai rolar mais um encontro da @pythonrio na E-Shares das 13:30hs até às 18:00hs,  R. Barão do Flamengo, 22 - Flamengo, Rio de Janeiro - RJ, 22220-080.
+
+Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
+
+@pythonrio #forcapython
+
+[+ Facebook](https://www.facebook.com/pythonrio)
+&nbsp; &nbsp;
+[+ Twitter](https://www.twitter.com/pythonrio)
+&nbsp; &nbsp;
+[+ Telegram](https://telegram.me/PythonRio)
+&nbsp; &nbsp;
+[+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
+---
+url_applications: https://www.eventbrite.com/e/pythonrio-agosto2017-tickets-37229926713
+---
+partners:
+
+#### partner ####
+name: E-Shares
+----
+url: https://esharesinc.com/
+----
+logo: /static/img/partners/eshares.png
+---
+speakers:
+---
+activities:
+
+#### activity ####
+name: Credenciamento
+----
+local: Recepção
+----
+time: 13:30
+#### activity ####
+name: Abertura
+----
+time: 13:55
+#### activity ####
+name: Python gotchas - Erick Mendonça
+----
+time: 14:00
+#### activity ####
+name: Vamos falar de ansible? - Lays Rodrigues
+----
+time: 14:50
+#### activity ####
+name: Lightning talks
+----
+time: 15:40
+#### activity ####
+name: I Want To Break Free - Julyane Miranda
+----
+time: 16:00
+#### activity ####
+name: Desenvolvendo Bots do Telegram com Python - Carlos Martins
+----
+time: 16:50
+#### activity ####
+name: Encerramento + Foto
+----
+time: 17:40
+#### activity ####
+name: Pós-evento
+----
+local: No bar mais próximo, vamos trocar ideias e beber um chopp.
+----
+time: 18:00
