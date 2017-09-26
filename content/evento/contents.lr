@@ -2,9 +2,9 @@ _model: event
 ---
 date: 30 de Setembro de 2017
 ---
-title: Meetup da PythOnRio
+title: XXIV Meetup da PythOnRio
 ---
-address: R. Sacadura Cabral, 130 - Saúde, Rio de Janeiro - RJ, 20081-262.
+address: Rua Sacadura Cabral, 130 - Saúde, Rio de Janeiro - RJ, 20081-262.
 ---
 city: Rio de Janeiro
 ---
@@ -14,11 +14,11 @@ neighborhood: Saúde
 ---
 description:
 
-Venham curtir mais um evento da PythOnRio!!!!
+Venham curtir o 24º meetup da PythOnRio!!!!
 
 No dia 30 de Setembro de 2017 vai rolar mais um encontro da @pythonrio na B2W das 13:30hs até às 18:00hs,  R. Sacadura Cabral, 130 - Saúde, Rio de Janeiro - RJ, 20081-262.
 
-Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
+Há 2 anos a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, no último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
 @pythonrio #forcapython
 
@@ -30,7 +30,7 @@ Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um 
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_applications: https://www.eventbrite.com/e/pythonrio-agosto2017-tickets-37229926713
+url_applications: https://www.eventbrite.com/e/pythonrio-setembro2017-tickets-38215231787
 ---
 partners:
 
@@ -56,11 +56,11 @@ name: Abertura
 ----
 time: 13:55
 #### activity ####
-name: Python gotchas - Erick Mendonça
+name: Roendo Dados - Vinicius Natan
 ----
 time: 14:00
 #### activity ####
-name: Vamos falar de ansible? - Lays Rodrigues
+name: Conceitos e Práticas de APIs RESTful - Gabriel Marcondes
 ----
 time: 14:50
 #### activity ####
@@ -68,11 +68,11 @@ name: Lightning talks
 ----
 time: 15:40
 #### activity ####
-name: I Want To Break Free - Julyane Miranda
+name:  apistar: Novo framework REST do criador do DRF - Luciano Ratamero
 ----
 time: 16:00
 #### activity ####
-name: Desenvolvendo Bots do Telegram com Python - Carlos Martins
+name: Deus ex machina, robôs por todos os lados. Volume 2 - Euclides da Cu  nha
 ----
 time: 16:50
 #### activity ####
