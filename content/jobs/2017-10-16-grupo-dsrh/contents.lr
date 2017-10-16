@@ -1,0 +1,52 @@
+_model: job
+---
+date: 16 de outubro de 2017
+---
+title: Desenvolvedor Python 
+---
+company: Grupo DSrh
+---
+company_email: rh@grupodsrh.com.br
+---
+company_website: http://www.grupodsrh.com.br/
+---
+company_country: Brasil
+---
+company_country_abbreviation: BR
+---
+company_city: Rio de Janeiro
+---
+company_address: Centro
+---
+company_photo: /static/img/company/grupo-dsrh.png
+---
+job: Desenvolvedor Python
+---
+job_level: Sênior
+---
+job_description:
+
+Oportunidade:
+-
+
+Atividades:
+- Desenvolvimento e suporte a sistemas; 
+- Consultoria técnicas a clientes;
+- Reuniões para levantamento de necessidades;
+- Suporte à equipe. 
+
+Requisitos:
+- Poder fazer reuniões presenciais no centro do Rio
+- Experiência em Python e Django
+- Conhecimento em design e arquitetura de software (OOP, Code Clean, Design Patterns)
+- Conhecimentos de base de dados (SQL e NoSQL);Conhecimentos de escrita e consumo de serviços (SOA, REST)
+- Conhecimentos de escrita de testes automatizados
+
+Diferenciais:
+- Conhecimento em outras linguagens de programação web: Ruby, Python, Java, Go ou NodeJS
+- Conhecimento em metodologias ágeis e boas habilidades de comunicação
+- Conhecimento em processos e ferramentas de Integração Contínua (CI)
+- Conhecimento em Cloud, principalmente serviços AWS
+- Nível Superior
+
+[Clique aqui para se candidatar](https://www.softwarerh.com.br/v2/vaga-de-emprego.php?de=desenvolvedor-de-sistemas-em-rio-de-janeiro-rj___174250)
