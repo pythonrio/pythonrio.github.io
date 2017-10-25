@@ -1,24 +1,24 @@
 _model: event
 ---
-date: 30 de Setembro de 2017
+date: 28 de Outubro de 2017
 ---
-title: XXIV Meetup da PythOnRio
+title: XXV Meetup da PythOnRio
 ---
-address: Rua Sacadura Cabral, 130 - Saúde, Rio de Janeiro - RJ, 20081-262.
+address: Rua do Ouvidor, 50 - Centro, Rio de Janeiro - RJ, 20040-030.
 ---
 city: Rio de Janeiro
 ---
-local: B2W
+local: Caelum
 ---
-neighborhood: Saúde
+neighborhood: Centro
 ---
 description:
 
-Venham curtir o 24º meetup da PythOnRio!!!!
+Venham curtir o 25º meetup da PythOnRio!!!!
 
-No dia 30 de Setembro de 2017 vai rolar mais um encontro da @pythonrio na B2W das 13:30hs até às 18:00hs,  R. Sacadura Cabral, 130 - Saúde, Rio de Janeiro - RJ, 20081-262.
+No dia 28 de Outubro de 2017 vai rolar mais um encontro da @pythonrio na Caelum das 13:30hs até às 18:00hs,  Rua do Ouvidor, 50 - Centro, Rio de Janeiro - RJ, 20040-030.
 
-Há 2 anos a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, no último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
+Estamos iniciando o 3º ano de encontros ininterruptos dessa comunidade incrível! Todo último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
 @pythonrio #forcapython
 
@@ -30,14 +30,14 @@ Há 2 anos a galera da comunidade Python do Rio de Janeiro tem um encontro marca
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
 ---
-url_applications: https://www.eventbrite.com/e/pythonrio-setembro2017-tickets-38215231787
+url_applications: https://www.eventbrite.com/e/pythonrio-outubro2017-tickets-39234494429
 ---
 partners:
 
 #### partner ####
-name: B2W Digital
+name: Caelum
 ----
-url: https://ri.b2w.digital/
+url: https://www.caelum.com.br/
 ----
 logo: /static/img/partners/b2w.png
 ---
@@ -56,11 +56,11 @@ name: Abertura
 ----
 time: 13:55
 #### activity ####
-name: Roendo Dados - Vinicius Natan
+name: A definir
 ----
 time: 14:00
 #### activity ####
-name: Conceitos e Práticas de APIs RESTful - Gabriel Marcondes
+name: A definir
 ----
 time: 14:50
 #### activity ####
@@ -68,11 +68,11 @@ name: Lightning talks
 ----
 time: 15:40
 #### activity ####
-name:  apistar: Novo framework REST do criador do DRF - Luciano Ratamero
+name: A definir
 ----
 time: 16:00
 #### activity ####
-name: Deus ex machina, robôs por todos os lados. Volume 2 - Euclides da Cunha
+name: A definir
 ----
 time: 16:50
 #### activity ####
