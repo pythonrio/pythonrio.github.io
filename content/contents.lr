@@ -5,24 +5,7 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 30
-----
-month: Set
-----
-position_inverted: 1
-----
-year: 2017
-----
-category: Meetup
-----
-name: Meetup PythOnRio
-----
-description: Dia 30 de Setembro de 2017 vai rolar mais um meetup da @pythonrio.
-----
-url: http://pythonrio.python.org.br/evento/
-
-#### event_schedule ####
-day: 06 a 11
+day: 28
 ----
 month: Out
 ----
@@ -30,10 +13,10 @@ position_inverted: 1
 ----
 year: 2017
 ----
-category: Evento
+category: Meetup
 ----
-name: Python Brasil
+name: XXV Meetup PythOnRio
 ----
-description: 13ª conferência brasileira da comunidade Python
+description: Dia 28 de Outubro de 2017 vai rolar mais um meetup da @pythonrio.
 ----
-url: http://2017.pythonbrasil.org.br/
+url: http://pythonrio.python.org.br/evento/
