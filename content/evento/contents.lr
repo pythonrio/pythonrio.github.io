@@ -1,22 +1,22 @@
 _model: event
 ---
-date: 28 de Outubro de 2017
+date: 16 de Dezembro de 2017
 ---
-title: XXV Meetup da PythOnRio
+title: PythOnRio
 ---
-address: Rua do Ouvidor, 50 - Centro, Rio de Janeiro - RJ, 20040-030.
+address: -, Centro, Rio de Janeiro - RJ.
 ---
 city: Rio de Janeiro
 ---
-local: Caelum
+local: Sling (Folha Dirigida)
 ---
 neighborhood: Centro
 ---
 description:
 
-Venham curtir o 25º meetup da PythOnRio!!!!
+Venham curtir o mais um meetup da PythOnRio!!!!
 
-No dia 28 de Outubro de 2017 vai rolar mais um encontro da @pythonrio na Caelum das 13:30hs até às 18:00hs,  Rua do Ouvidor, 50 - Centro, Rio de Janeiro - RJ, 20040-030.
+No dia 16 de dezembro de 2017 vai rolar mais um encontro da @pythonrio na Caelum das 13:30hs até às 18:00hs,  Rua do Ouvidor, 50 - Centro, Rio de Janeiro - RJ, 20040-030.
 
 Estamos iniciando o 3º ano de encontros ininterruptos dessa comunidade incrível! Todo último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
@@ -29,59 +29,3 @@ Estamos iniciando o 3º ano de encontros ininterruptos dessa comunidade incríve
 [+ Telegram](https://telegram.me/PythonRio)
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
----
-url_applications: https://www.eventbrite.com/e/pythonrio-outubro2017-tickets-39234494429
----
-partners:
-
-#### partner ####
-name: Caelum
-----
-url: https://www.caelum.com.br/
-----
-logo: /static/img/partners/b2w.png
----
-speakers:
----
-activities:
-
-#### activity ####
-name: Credenciamento
-----
-local: Recepção
-----
-time: 13:30
-#### activity ####
-name: Abertura
-----
-time: 13:55
-#### activity ####
-name: Deep Learning com Python - André Claudino
-----
-time: 14:00
-#### activity ####
-name: Dos Monolitos aos Microserviços na Globo.com - Rael Max
-----
-time: 14:50
-#### activity ####
-name: Coffee Break
-----
-time: 15:40
-#### activity ####
-name: Lightning Talks
-----
-time: 16:00
-#### activity ####
-name: Gerenciamento de Dependências em Python - Patrick da Silveira Porto
-----
-time: 16:30
-#### activity ####
-name: Encerramento + Foto
-----
-time: 17:20
-#### activity ####
-name: Pós-evento
-----
-local: No bar mais próximo, vamos trocar ideias e beber um chopp.
-----
-time: 17:40
