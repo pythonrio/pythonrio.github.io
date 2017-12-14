@@ -33,3 +33,61 @@ Estamos iniciando o 3º ano de encontros ininterruptos dessa comunidade incríve
 [+ Telegram](https://telegram.me/PythonRio)
 &nbsp; &nbsp;
 [+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
+---
+partners:
+
+#### partner ####
+name: Sling Capital
+----
+url: http://www.slingcapital.com.br/
+----
+logo: /static/img/partners/sling_capital.png
+---
+speakers:
+---
+activities:
+
+#### activity ####
+name: Credenciamento
+----
+local: Recepção
+----
+time: 13:30
+#### activity ####
+name: Abertura
+----
+time: 13:55
+#### activity ####
+name: Apaixonando-se por Python - Luciano Ratamero
+----
+time: 14:00
+#### activity ####
+name: Mercado de IA, OCR e style transfer via deep learning - Fabricio Amaral
+----
+time: 14:50
+#### activity ####
+name: Coffee Break
+----
+time: 15:40
+#### activity ####
+name: Lightning Talks
+----
+time: 16:00
+#### activity ####
+name: OCR em 20 minutos - Euclides da Cunha
+----
+time: 16:30
+#### activity ####
+name: Python Internals - Patrick Mazulo
+----
+time: 17:00
+#### activity ####
+name: Encerramento
+----
+time: 17:50
+#### activity ####
+name: Pós-evento
+----
+local: No bar mais próximo, vamos trocar ideias e beber um chopp.
+----
+time: 18:00
