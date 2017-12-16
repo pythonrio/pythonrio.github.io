@@ -5,9 +5,9 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 28
+day: 16
 ----
-month: Out
+month: Dez
 ----
 position_inverted: 1
 ----
@@ -17,6 +17,6 @@ category: Meetup
 ----
 name: XXV Meetup PythOnRio
 ----
-description: Dia 28 de Outubro de 2017 vai rolar mais um meetup da @pythonrio.
+description: Dia 16 de dezembro de 2017 vai rolar mais um meetup da @pythonrio.
 ----
 url: http://pythonrio.python.org.br/evento/
