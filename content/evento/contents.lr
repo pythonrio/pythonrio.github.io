@@ -1,26 +1,26 @@
 _model: event
 ---
-date: 16 de Dezembro de 2017
+date: 27 de Janeiro de 2018
 ---
 title: PythOnRio
 ---
-address: Rua Riachuelo 114, 3º Andar, Centro, Rio de Janeiro - RJ.
+address: Av. General Justo 375, 9º Andar, Centro, Rio de Janeiro - RJ.
 ---
 city: Rio de Janeiro
 ---
-local: Sling Capital
+local: Stone Co. - Auditório
 ---
 neighborhood: Centro
 ---
-url_callpapers: https://speakerfight.com/events/xvi-meetup-da-pythonrio/
+url_callpapers: https://speakerfight.com/events/pythonrio-janeiro2018/
 ---
-url_applications: https://www.meetup.com/pt-BR/pythonrio/events/245743287
+url_applications: https://www.meetup.com/pt-BR/pythonrio/events/
 ---
 description:
 
 Venham curtir o mais um meetup da PythOnRio!!!!
 
-No dia 16 de dezembro de 2017 vai rolar mais um encontro da @pythonrio na Sling Capital das 13:00hs até às 18:00hs, que fica na Rua Riachuelo 114, 3º Andar, Centro do Rio de Janeiro.
+No dia 27 de Janeiro de 2018 vai rolar mais um encontro da @pythonrio na Stone Co. das 13:00hs até às 18:00hs, que fica na Av. General Justo 375, 9º Andar, Centro do Rio de Janeiro.
 
 Estamos iniciando o 3º ano de encontros ininterruptos dessa comunidade incrível! Todo último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
@@ -37,11 +37,11 @@ Estamos iniciando o 3º ano de encontros ininterruptos dessa comunidade incríve
 partners:
 
 #### partner ####
-name: Sling Capital
+name: Stone Co.
 ----
-url: http://www.slingcapital.com.br/
+url: https://www.stone.com.br/
 ----
-logo: /static/img/partners/sling_capital.png
+logo: /static/img/partners/stoneco.png
 ---
 speakers:
 ---
@@ -58,27 +58,27 @@ name: Abertura
 ----
 time: 13:55
 #### activity ####
-name: Apaixonando-se por Python - Luciano Ratamero
+name:
 ----
 time: 14:00
 #### activity ####
-name: Mercado de IA, OCR e style transfer via deep learning - Fabricio Amaral
+name:
 ----
 time: 14:50
 #### activity ####
-name: Coffee Break
+name:
 ----
 time: 15:40
 #### activity ####
-name: Lightning Talks
+name:
 ----
 time: 16:00
 #### activity ####
-name: OCR em 20 minutos - Euclides da Cunha
+name:
 ----
 time: 16:30
 #### activity ####
-name: Python Internals - Patrick Mazulo
+name:
 ----
 time: 17:00
 #### activity ####
