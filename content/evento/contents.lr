@@ -22,6 +22,8 @@ Venham curtir o mais um meetup da PythOnRio!!!!
 
 No dia 24 de Fevereiro de 2018 vai rolar mais um encontro da @pythonrio na B2W Digital das 13:00hs até às 18:00hs, que fica na Rua Sacadura Cabral, 130, Saúde, Rio de Janeiro.
 
+O prédio não tem indicação por ter a fachada tombada, então prestem atenção ao número. É o único prédio com portas de vidro.
+
 Todo último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
 @pythonrio #forcapython
@@ -56,35 +58,51 @@ time: 13:30
 #### activity ####
 name: Abertura
 ----
+local: Auditório
+----
 time: 13:55
 #### activity ####
-name:
+name: Do setup ao PyPI. Como empacotar seu projeto para ser instalado pelo pip.
+----
+local: Auditório
 ----
 time: 14:00
 #### activity ####
-name:
+name: Distribuindo e escalando códigos em Python
 ----
-time: 14:50
-#### activity ####
-name:
+local: Auditório
 ----
-time: 15:40
+time: 14:40
 #### activity ####
-name:
+name: Lightning Talks
 ----
-time: 16:00
-#### activity ####
-name:
+local: Auditório
 ----
-time: 16:30
+time: 15:20
 #### activity ####
-name:
+name: Coffe Break + Networing
+----
+local: Arena
+----
+time: 15:50
+#### activity ####
+name: A necessidade de Tecnologias HSLFT Open Source
+----
+local: Auditório
+----
+time: 16:20
+#### activity ####
+name: O Zen do Python
+----
+local: Auditório
 ----
 time: 17:00
 #### activity ####
 name: Encerramento
 ----
-time: 17:50
+local: Auditório
+----
+time: 17:40
 #### activity ####
 name: Pós-evento
 ----
