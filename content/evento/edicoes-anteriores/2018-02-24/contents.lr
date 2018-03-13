@@ -1,18 +1,18 @@
 _model: event
 ---
-date: 24 de Março de 2018
+date: 24 de Fevereiro de 2018
 ---
 title: PythOnRio
 ---
-address: Praia do Flamengo, 200 - 16º andar
+address: Rua Sacadura Cabral, 130, Saúde, Rio de Janeiro - RJ.
 ---
 city: Rio de Janeiro
 ---
-local: Carta
+local: B2W Digtal - BIT
 ---
-neighborhood: Flamengo
+neighborhood: Saúde
 ---
-url_callpapers: https://speakerfight.com/events/29o-meetup-da-comunidade-pythonrio/
+url_callpapers: https://speakerfight.com/events/xxviii-meetup-da-pythonrio/
 ---
 url_applications: https://www.meetup.com/pt-BR/pythonrio/events/
 ---
@@ -20,7 +20,9 @@ description:
 
 Venham curtir o mais um meetup da PythOnRio!!!!
 
-No dia 24 de Março de 2018 vai rolar mais um encontro da @pythonrio na Carta das 13:00hs até às 18:00hs, que fica na Praia do Flamengo, 200, Flamengo, Rio de Janeiro.
+No dia 24 de Fevereiro de 2018 vai rolar mais um encontro da @pythonrio na B2W Digital das 13:00hs até às 18:00hs, que fica na Rua Sacadura Cabral, 130, Saúde, Rio de Janeiro.
+
+O prédio não tem indicação por ter a fachada tombada, então prestem atenção ao número. É o único prédio com portas de vidro.
 
 Todo último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
@@ -37,11 +39,11 @@ Todo último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o qu
 partners:
 
 #### partner ####
-name: Carta
+name: B2W Digital
 ----
 url: https://ri.b2w.digital/
 ----
-logo: /static/img/partners/carta.png
+logo: /static/img/partners/B2W.png
 ---
 speakers:
 ---
@@ -50,55 +52,55 @@ activities:
 #### activity ####
 name: Credenciamento
 ----
-local:
+local: Recepção
 ----
 time: 13:30
 #### activity ####
 name: Abertura
 ----
-local:
+local: Auditório
 ----
 time: 13:55
 #### activity ####
-name:
+name: Do setup ao PyPI. Como empacotar seu projeto para ser instalado pelo pip.
 ----
-local:
+local: Auditório
 ----
 time: 14:00
 #### activity ####
-name:
+name: Distribuindo e escalando códigos em Python
 ----
-local:
+local: Auditório
 ----
 time: 14:40
 #### activity ####
 name: Lightning Talks
 ----
-local:
+local: Auditório
 ----
 time: 15:20
 #### activity ####
 name: Coffe Break + Networing
 ----
-local:
+local: Arena
 ----
 time: 15:50
 #### activity ####
-name:
+name: A necessidade de Tecnologias HSLFT Open Source
 ----
-local:
+local: Auditório
 ----
 time: 16:20
 #### activity ####
-name:
+name: O Zen do Python
 ----
-local:
+local: Auditório
 ----
 time: 17:00
 #### activity ####
 name: Encerramento
 ----
-local:
+local: Auditório
 ----
 time: 17:40
 #### activity ####
