@@ -60,13 +60,13 @@ local:
 ----
 time: 13:55
 #### activity ####
-name:
+name: Fazendo Música com Sonic Pi - Diego Guimarães
 ----
 local:
 ----
 time: 14:00
 #### activity ####
-name:
+name: Arquitetura de sistemas para pessoas - Euclides da Cunha
 ----
 local:
 ----
@@ -84,17 +84,11 @@ local:
 ----
 time: 15:50
 #### activity ####
-name:
+name: Vetorizando Textos - André Claudino
 ----
 local:
 ----
 time: 16:20
-#### activity ####
-name:
-----
-local:
-----
-time: 17:00
 #### activity ####
 name: Encerramento
 ----
