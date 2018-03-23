@@ -7,7 +7,7 @@ event_schedule:
 #### event_schedule ####
 day: 24
 ----
-month: Fev
+month: Março
 ----
 position_inverted: 1
 ----
@@ -15,8 +15,25 @@ year: 2018
 ----
 category: Meetup
 ----
-name: 28º Meetup PythOnRio
+name: 29º Meetup PythOnRio
 ----
-description: Dia 24 de Fevereiro de 2018 vai rolar mais um meetup da @pythonrio.
+description: Dia 24 de Março de 2018 vai rolar mais um meetup da @pythonrio.
+----
+url: http://pythonrio.python.org.br/evento/
+
+#### event_schedule ####
+day: 28
+----
+month: Abril
+----
+position_inverted: 1
+----
+year: 2018
+----
+category: Meetup
+----
+name: 30º Meetup PythOnRio
+----
+description: Dia 28 de Abril de 2018 vai rolar mais um meetup da @pythonrio.
 ----
 url: http://pythonrio.python.org.br/evento/
