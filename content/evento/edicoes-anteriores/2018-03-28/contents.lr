@@ -1,18 +1,18 @@
 _model: event
 ---
-date: 28 de Abril de 2018
+date: 24 de Março de 2018
 ---
 title: PythOnRio
 ---
-address: Av. Pasteur, 458 - Botafogo, Rio de Janeiro - RJ, 22290-250
+address: Praia do Flamengo, 200 - 16º andar
 ---
 city: Rio de Janeiro
 ---
-local: UniRio - Centro de Ciências Exatas e Tecnologia
+local: Carta
 ---
-neighborhood: Urca
+neighborhood: Flamengo
 ---
-url_callpapers: https://speakerfight.com/events/meetup-da-comunidade-pythonrio-abril2018-data-science-palestras/
+url_callpapers: https://speakerfight.com/events/29o-meetup-da-comunidade-pythonrio/
 ---
 url_applications: https://www.meetup.com/pt-BR/pythonrio/events/
 ---
@@ -20,9 +20,7 @@ description:
 
 Venham curtir o mais um meetup da PythOnRio!!!!
 
-Este será o nosso primeiro meetup temático e o tema é Data Science!
-
-No dia 28 de Abril de 2018 vai rolar mais um encontro da @pythonrio na Unirio das 13:00hs até às 18:00hs, que fica na Praia do Flamengo, 200, Flamengo, Rio de Janeiro.
+No dia 24 de Março de 2018 vai rolar mais um encontro da @pythonrio na Carta das 13:00hs até às 18:00hs, que fica na Praia do Flamengo, 200, Flamengo, Rio de Janeiro.
 
 Todo último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
 
@@ -39,11 +37,11 @@ Todo último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o qu
 partners:
 
 #### partner ####
-name: UniRio
+name: Carta
 ----
-url: http://www.uniriotec.br/
+url: https://carta.com/
 ----
-logo: /static/img/partners/UNIRIO.png
+logo: /static/img/partners/carta.png
 ---
 speakers:
 ---
@@ -62,13 +60,13 @@ local:
 ----
 time: 13:55
 #### activity ####
-name: Palestra
+name: Fazendo Música com Sonic Pi - Diego Guimarães
 ----
 local:
 ----
 time: 14:00
 #### activity ####
-name: Palestra
+name: Arquitetura de sistemas para pessoas - Euclides da Cunha
 ----
 local:
 ----
@@ -84,25 +82,19 @@ name: Coffe Break + Networing
 ----
 local:
 ----
-time: 15:40
+time: 15:50
 #### activity ####
-name: Palestra
+name: Vetorizando Textos - André Claudino
 ----
 local:
 ----
-time: 16:00
-#### activity ####
-name: Palestra
-----
-local:
-----
-time: 16:40
+time: 16:20
 #### activity ####
 name: Encerramento
 ----
 local:
 ----
-time: 17:20
+time: 17:40
 #### activity ####
 name: Pós-evento
 ----
