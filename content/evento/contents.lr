@@ -50,59 +50,53 @@ speakers:
 activities:
 
 #### activity ####
-name: Credenciamento
+name: Abertura
 ----
-local:
+local: Auditório
+----
+time: 13:00
+#### activity ####
+name: Python e a Ciencia de Dados - Andre Fonseca
+----
+local: Auditório
 ----
 time: 13:30
 #### activity ####
-name: Abertura
+name: Pandas 101 - Análise de Dados com Python Pandas - Gabriel Amazonas Mesquita
 ----
-local:
+local: Laboratório
 ----
-time: 13:55
+time: 13:30
 #### activity ####
-name: Palestra
+name: Transformando Dados em Informação - Parte 1: Limpeza de datasets - Rafael Santos
 ----
-local:
+local: Auditório
 ----
-time: 14:00
+time: 14:30
 #### activity ####
-name: Palestra
+name: Zap Awards: extraindo, analisando e - principalmente - se divertindo com mensagens do WhatsApp - Fred Israel
 ----
-local:
+local: Laboratório
 ----
-time: 14:40
+time: 14:30
 #### activity ####
-name: Lightning Talks
+name: Usando Machine Learning para prever resultados de futebol - Fabrício Mattos
 ----
-local:
+local: Auditório
 ----
-time: 15:20
+time: 15:30
 #### activity ####
 name: Coffe Break + Networing
 ----
-local:
+local: Auditório
 ----
-time: 15:40
+time: 16:30
 #### activity ####
-name: Palestra
+name: Qual a ciência por trás de Data Science ? - Eduardo Le Masson
 ----
-local:
+local: Auditório
 ----
-time: 16:00
-#### activity ####
-name: Palestra
-----
-local:
-----
-time: 16:40
-#### activity ####
-name: Encerramento
-----
-local:
-----
-time: 17:20
+time: 17:00
 #### activity ####
 name: Pós-evento
 ----
