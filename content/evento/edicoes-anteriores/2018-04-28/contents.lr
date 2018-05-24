@@ -1,0 +1,105 @@
+_model: event
+---
+date: 28 de Abril de 2018
+---
+title: PythOnRio
+---
+address: Av. Pasteur, 458 - Botafogo, Rio de Janeiro - RJ, 22290-250
+---
+city: Rio de Janeiro
+---
+local: UniRio - Centro de Ciências Exatas e Tecnologia
+---
+neighborhood: Urca
+---
+url_callpapers: https://speakerfight.com/events/meetup-da-comunidade-pythonrio-abril2018-data-science-palestras/
+---
+url_applications: https://www.meetup.com/pt-BR/pythonrio/events/
+---
+description:
+
+Venham curtir o mais um meetup da PythOnRio!!!!
+
+Este será o nosso primeiro meetup temático e o tema é Data Science!
+
+No dia 28 de Abril de 2018 vai rolar mais um encontro da @pythonrio na Unirio das 13:00hs até às 18:00hs, que fica na Praia do Flamengo, 200, Flamengo, Rio de Janeiro.
+
+Todo último sábado de cada mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
+
+@pythonrio #forcapython
+
+[+ Facebook](https://www.facebook.com/pythonrio)
+&nbsp; &nbsp;
+[+ Twitter](https://www.twitter.com/pythonrio)
+&nbsp; &nbsp;
+[+ Telegram](https://telegram.me/PythonRio)
+&nbsp; &nbsp;
+[+ YouTube](https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ)
+---
+partners:
+
+#### partner ####
+name: UniRio
+----
+url: http://www.uniriotec.br/
+----
+logo: /static/img/partners/UNIRIO.png
+---
+speakers:
+---
+activities:
+
+#### activity ####
+name: Abertura
+----
+local: Auditório
+----
+time: 13:00
+#### activity ####
+name: Python e a Ciencia de Dados - Andre Fonseca
+----
+local: Auditório
+----
+time: 13:30
+#### activity ####
+name: Pandas 101 - Análise de Dados com Python Pandas - Gabriel Amazonas Mesquita
+----
+local: Laboratório
+----
+time: 13:30
+#### activity ####
+name: Transformando Dados em Informação - Parte 1: Limpeza de datasets - Rafael Santos
+----
+local: Auditório
+----
+time: 14:30
+#### activity ####
+name: Zap Awards: extraindo, analisando e - principalmente - se divertindo com mensagens do WhatsApp - Fred Israel
+----
+local: Laboratório
+----
+time: 14:30
+#### activity ####
+name: Usando Machine Learning para prever resultados de futebol - Fabrício Mattos
+----
+local: Auditório
+----
+time: 15:30
+#### activity ####
+name: Coffe Break + Networing
+----
+local: Auditório
+----
+time: 16:30
+#### activity ####
+name: Qual a ciência por trás de Data Science ? - Eduardo Le Masson
+----
+local: Auditório
+----
+time: 17:00
+#### activity ####
+name: Pós-evento
+----
+local: No bar mais próximo, vamos trocar ideias e beber um chopp.
+----
+time: 18:00
