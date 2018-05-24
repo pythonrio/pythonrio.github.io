@@ -58,25 +58,19 @@ local: Sala 208
 ----
 time: 14:30
 #### activity ####
+name:  Django - da requisição à resposta - Luciano Ratameiro
+----
+local: Sala 208
+----
+time: 15:30
+#### activity ####
+name: Lightning Talks
+----
+local: Sala 208
+----
+time: 16:30
+#### activity ####
 name: Live Introduction To Flask - Bianca Rosa
-----
-local: Sala 208
-----
-time: 15:10
-#### activity ####
-name: Lightining Talks
-----
-local: Sala 208
-----
-time: 16:00
-#### activity ####
-name: A Confirmar - Luciano Ratameiro
-----
-local: Sala 208
-----
-time: 16:00
-#### activity ####
-name: A Confirmar - Paula Grangeiro
 ----
 local: Sala 208
 ----
