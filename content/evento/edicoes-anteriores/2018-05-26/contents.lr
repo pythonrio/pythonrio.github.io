@@ -1,6 +1,6 @@
 _model: event
 ---
-date: 27 de Julho de 2018
+date: 26 de Maio de 2018
 ---
 title: PythOnRio
 ---
@@ -18,7 +18,7 @@ description:
 
 Venham curtir mais um meetup da PythOnRio!!!!
 
-No dia 27 de Julho de 2018 vai rolar mais um encontro da @pythonrio na Infnet das 14:00hs até às 18:00hs, que fica na R. São José, 90, Centro, Rio de Janeiro (2o andar - Sala 213).
+No dia 26 de Maio de 2018 vai rolar mais um encontro da @pythonrio na Infnet das 14:00hs até às 18:00hs, que fica na R. São José, 90, Centro, Rio de Janeiro (2o andar - Sala 208).
 
 @pythonrio #forcapython
 
@@ -39,38 +39,38 @@ url: http://www.infnet.edu.br/infnet/
 ----
 logo: infnet.jpg
 ---
-speakers: 
+speakers:
 ---
 activities:
 
 #### activity ####
 name: Abertura
 ----
-local: Sala 213
+local: Sala 208
 ----
 time: 14:00
 #### activity ####
-name: Flask e MongoDB em produção com AWS ElasticBeanstalk - Gabriel Amazonas
+name: Video Cassetadas de Python - Gabriel Marcondes
 ----
-local: Sala 213
+local: Sala 208
 ----
 time: 14:30
 #### activity ####
-name: Python introdutório pra desenvolvedores javascript - Luciano Ratamero
+name:  Django - da requisição à resposta - Luciano Ratameiro
 ----
-local: Sala 213
+local: Sala 208
 ----
 time: 15:30
 #### activity ####
-name: Open Space
+name: Lightning Talks
 ----
-local: Sala 213
+local: Sala 208
 ----
 time: 16:30
 #### activity ####
-name: Lightning Talks
+name: Live Introduction To Flask - Bianca Rosa
 ----
-local: Sala 213
+local: Sala 208
 ----
 time: 17:00
 #### activity ####
