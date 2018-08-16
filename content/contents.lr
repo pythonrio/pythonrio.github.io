@@ -5,9 +5,9 @@ title: Meetup PythOnRio
 event_schedule:
 
 #### event_schedule ####
-day: 27
+day: 25
 ----
-month: Julho
+month: Agosto
 ----
 position_inverted: 1
 ----
@@ -17,6 +17,6 @@ category: Meetup
 ----
 name: Meetup PythOnRio
 ----
-description: Dia 27 de Julho de 2018 vai rolar mais um meetup da @pythonrio.
+description: Dia 25 de Agosto de 2018 vai rolar mais um meetup da @pythonrio.
 ----
 url: http://pythonrio.python.org.br/evento/
