@@ -1,16 +1,16 @@
 _model: event
 ---
-date: 25 de Agosto de 2018
+date: 27 de Julho de 2018
 ---
 title: PythOnRio
 ---
-address: Rua Sacadura Cabral, 130
+address: R. São José, 90
 ---
 city: Rio de Janeiro
 ---
-local: B2W Digital
+local: Instituto Infnet
 ---
-neighborhood: Saúde
+neighborhood: Centro
 ---
 url_applications: https://www.meetup.com/pt-BR/pythonrio/events/
 ---
@@ -18,7 +18,7 @@ description:
 
 Venham curtir mais um meetup da PythOnRio!!!!
 
-No dia 25 de Agosto de 2018 vai rolar mais um encontro da @pythonrio na B2W das 13:00hs até às 18:00hs, que fica na Rua Sacadura Cabral, 130, Saúde, Rio de Janeiro.
+No dia 27 de Julho de 2018 vai rolar mais um encontro da @pythonrio na Infnet das 14:00hs até às 18:00hs, que fica na R. São José, 90, Centro, Rio de Janeiro (2o andar - Sala 213).
 
 @pythonrio #forcapython
 
@@ -33,11 +33,11 @@ No dia 25 de Agosto de 2018 vai rolar mais um encontro da @pythonrio na B2W das 
 partners:
 
 #### partner ####
-name: B2W Digital
+name: Infnet
 ----
-url: https://ri.b2w.digital/
+url: http://www.infnet.edu.br/infnet/
 ----
-logo: B2W.png
+logo: infnet.jpg
 ---
 speakers: 
 ---
@@ -46,51 +46,33 @@ activities:
 #### activity ####
 name: Abertura
 ----
-local: Auditório
-----
-time: 13:00
-#### activity ####
-name: A Definir
-----
-local: Auditório
-----
-time: 13:20
-#### activity ####
-name: A Definir
-----
-local: Auditório
+local: Sala 213
 ----
 time: 14:00
 #### activity ####
-name: Cofee Break
+name: Flask e MongoDB em produção com AWS ElasticBeanstalk - Gabriel Amazonas
 ----
-local: Arena e Lojinha
+local: Sala 213
 ----
-time: 14:40
+time: 14:30
 #### activity ####
-name: A Definir
+name: Python introdutório pra desenvolvedores javascript - Luciano Ratamero
 ----
-local: Auditório
+local: Sala 213
 ----
-time: 15:00
+time: 15:30
+#### activity ####
+name: Open Space
+----
+local: Sala 213
+----
+time: 16:30
 #### activity ####
 name: Lightning Talks
 ----
-local: Auditorio
+local: Sala 213
 ----
-time: 15:40
-#### activity ####
-name: A Definir
-----
-local: Auditório
-----
-time: 16:10
-#### activity ####
-name: A Definir
-----
-local: Auditório
-----
-time: 16:50
+time: 17:00
 #### activity ####
 name: Pós-evento
 ----
