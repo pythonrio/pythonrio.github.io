@@ -1,16 +1,16 @@
 _model: event
 ---
-date: 27 de Outubro de 2018
+date: 25 de Agosto de 2018
 ---
 title: PythOnRio
 ---
-address: Rua São José, 90
+address: Rua Sacadura Cabral, 130
 ---
 city: Rio de Janeiro
 ---
-local: Instituto Infnet
+local: B2W Digital
 ---
-neighborhood: Castelo
+neighborhood: Saúde
 ---
 url_applications: https://www.meetup.com/pt-BR/pythonrio/events/
 ---
@@ -18,7 +18,7 @@ description:
 
 Venham curtir mais um meetup da PythOnRio!!!!
 
-No dia 27 de Outubro de 2018 vai rolar mais um encontro da @pythonrio na Infnet das 13:00hs até às 18:00hs, que fica na R. São José, 90, Centro, Rio de Janeiro (2o andar - Sala 213).
+No dia 25 de Agosto de 2018 vai rolar mais um encontro da @pythonrio na B2W das 13:00hs até às 18:00hs, que fica na Rua Sacadura Cabral, 130, Saúde, Rio de Janeiro.
 
 @pythonrio #forcapython
 
@@ -33,11 +33,11 @@ No dia 27 de Outubro de 2018 vai rolar mais um encontro da @pythonrio na Infnet 
 partners:
 
 #### partner ####
-name: Infnet
+name: B2W Digital
 ----
-url: http://www.infnet.edu.br/infnet/
+url: https://ri.b2w.digital/
 ----
-logo: ../static/img/partners/infnet.jpg
+logo: ../static/img/partners/B2W.png
 ---
 speakers: 
 ---
@@ -50,13 +50,13 @@ local: Auditório
 ----
 time: 13:00
 #### activity ####
-name: Argantic, uma forma transparente de parsear dados http usando python moderno (3.6+) - Danilo Pereira
+name: Arquivos em Python: palavras, imagens e objetos 3D - Hallison Paz
 ----
 local: Auditório
 ----
 time: 13:20
 #### activity ####
-name: Busca Cognitiva - André Claudino
+name: ASGARD: Abstraindo orquestradores de containers - Dalton Barreto
 ----
 local: Auditório
 ----
@@ -64,7 +64,7 @@ time: 14:00
 #### activity ####
 name: Cofee Break
 ----
-local: Auditório
+local: Arena e Lojinha
 ----
 time: 14:40
 #### activity ####
@@ -72,28 +72,28 @@ name: Lightning Talks
 ----
 local: Auditório
 ----
-time: 15:00
+time: 15:10
 #### activity ####
-name: Manipulação de Dados com MNIST - Diogo da Costa
+name: Módulos Python com Rust - Giovanni Martins
 ----
 local: Auditorio
 ----
-time: 15:20
+time: 15:30
 #### activity ####
-name: O que todo cientista de dados que lida com textos precisa saber (por entuanto) sobre linguística? - Ricardo Joseh Lima
+name: Compreensão de dados. (Na busca dos presidenciáveis.) - Thais Viana
 ----
 local: Auditório
 ----
-time: 16:00
+time: 16:10
 #### activity ####
-name: Encerramento
+name: A Definir
 ----
 local: Auditório
 ----
-time: 16:40
+time: 16:50
 #### activity ####
 name: Pós-evento
 ----
 local: No bar mais próximo, vamos trocar ideias e beber um chopp.
 ----
-time: 17:00
+time: 18:00
