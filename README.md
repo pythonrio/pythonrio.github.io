@@ -21,7 +21,7 @@ sudo apt-get install libffi-dev libssl-dev
 ## Buildando
 O branch master deste repositório contém os estáticos gerados pelo Lektor que serão servidos pelo GitHub Pages. Para gerar novos estáticos basta executar o seguinte comando no terminal:
 ```
-lektor build -O /path/to/build/
+lektor build -O /caminho/para/estaticos/
 ```
 Sendo que o diretório informado depois do parâmetro -O irão conter os novos estáticos gerados pelo Lektor.
 
