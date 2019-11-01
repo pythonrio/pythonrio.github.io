@@ -6,7 +6,7 @@ cryptography==1.2.3
 decorator==4.0.9
 enum34==1.1.2
 ExifRead==2.1.2
-Flask==0.10.1
+Flask==1.0
 idna==2.0
 inifile==0.3
 ipaddress==1.0.16
