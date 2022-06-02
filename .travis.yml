@@ -1,8 +1,0 @@
-language: python
-python: 2.7
-cache:
-  directories:
-    - $HOME/.cache/pip
-    - $HOME/.cache/lektor/builds
-install: "pip install Lektor"
-script: "lektor build && lektor deploy ghpages"
