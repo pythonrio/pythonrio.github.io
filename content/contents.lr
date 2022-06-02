@@ -7,16 +7,16 @@ event_schedule:
 #### event_schedule ####
 day: 25
 ----
-month: Agosto
+month: Junho
 ----
 position_inverted: 1
 ----
-year: 2018
+year: 2022
 ----
 category: Meetup
 ----
 name: Meetup PythOnRio
 ----
-description: Dia 25 de Agosto de 2018 vai rolar mais um meetup da @pythonrio.
+description: De volta após a pandemia, voltamos com @pythonrio no escritório no Hurb, na Barra da Tijuca!
 ----
 url: http://pythonrio.python.org.br/evento/
